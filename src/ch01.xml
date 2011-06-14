@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch01"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Edición electrónica y comunicación científica</title>
+
+  <section xml:id="ch01a">
+    <title>Cambios en la difusión científica</title>
+    <para>
+    	En la era de las redes y tecnologías de la información, favorecer la comunicación más abierta posible a los resultados de la 
+    	investigación científica se ha convertido en una reflexión y un compromiso de científicos, instituciones y gestores de la 
+    	información.
+    </para>
+    <para>
+    	El movimiento para el Acceso Abierto ha desarrollado en muy poco tiempo un alto nivel de madurez en la renovación de los 
+    	modelos de comunicación científica y el planteamiento de alternativas sostenibles a los modelos existentes. La idea de 
+    	Acceso Abierto no está exenta de controversia y de división de opiniones. Ello conlleva profundas reflexiones en diversos 
+    	ámbitos, como son los relativos a la calidad, visibilidad e impacto de los resultados de la investigación, la gestión de 
+    	los derechos de autor, la garantía de preservación digital y la viabilidad comercial.
+    </para>
+    <para>
+    	La nueva situación requiere plantear políticas y mecanismos de comunicación diferentes, en los que los flujos de difusión 
+    	sean más rápidos y eficaces. Ésta situación es ya una realidad en aquellas áreas científicas más emergentes, donde la 
+    	necesidad de comunicar en un tiempo reducido forma parte de la razón de ser de la investigación.
+    </para>
+    <para>
+    	Los repositorios digitales y las revistas de Acceso Abierto constituyen una alternativa de creciente importancia para la 
+    	comunicación pública de documentos científicos, que aprovechan las posibilidades que ofrece Internet para la difusión del 
+    	conocimiento más allá de las restricciones marcadas por los intereses comerciales.
+    </para>
+    <para>
+    	Los dos fundamentos no escritos de la ciencia son la lógica del descubrimiento y la universalidad de la misma. La expansión 
+    	de Internet ha puesto en manos de los propios científicos la posibilidad de reapropiarse de las condiciones de producción, 
+    	difusión y uso de los productos de la ciencia <superscript><xref linkend="ch01n1" /></superscript>. La 
+    	comunicación científica es esencial a la naturaleza y práctica de la 
+    	ciencia, y esta presente en todas las etapas del proceso de investigación. La estructura de la relación entre el flujo de 
+    	información y el público al que va dirigido el conocimiento se ha visto modificada a lo largo del tiempo en virtud de las 
+    	diferentes técnicas y soportes utilizados en el proceso <superscript><xref linkend="ch01n2" /></superscript>.
+    </para>
+    <para>
+    	Durante los últimos años, las innovaciones tecnológicas han transformado la manera en que se procesa, se guarda, se accede, 
+    	se comparte y se analiza la información. Las tecnologías de la información han introducido cambios de importante alcance en 
+    	este proceso estanco durante siglos. La invención de la imprenta supuso la necesidad de especialización, la creación de unas 
+    	infraestructuras industriales y	comerciales necesarias para la edición de los trabajos científicos. El factor fundamental en 
+    	este proceso ha sido el cambio de soporte, del formato tradicional impreso al digital. Este tipo de fenómenos están influyendo 
+    	en la estructura general del sistema de comunicación científica, transformando las funciones y los papeles de los diferentes 
+    	actores. Por esto, los modelos tradicionales de edición y comunicación académica están sujetos permanentemente a nuevos 
+    	análisis en el contexto del panorama actual definido por las tecnologías de la información <superscript><xref linkend="ch01n3" /></superscript>.
+    </para>
+    <para>
+    	Aunque haya cambiado el contexto, la inercia del sistema de comunicación científica tradicional sigue ejerciendo una fuerte 
+    	influencia sobre el medio. Para muchos investigadores sigue siendo muy relevante la publicación en revistas científicas con 
+    	un alto impacto, ya que buena parte de los méritos y beneficios académicos siguen teniendo estos valores como preferenciales 
+    	para la obtención de grados, financiación de proyectos, etc. En ciertas disciplinas altamente dinámicas, como es la física, 
+    	donde ya preexistía un sistema de comunicación científica, en el que los <emphasis>preprints</emphasis> eran un elemento 
+    	fundamental, ya se ha operado el cambio, siendo éste el principal medio para la comunicación de los resultados de investigación. 
+    	Al cabo de un año de haberse iniciado el servicio de <emphasis>preprints</emphasis> en la física teórica de alta energía a 
+    	comienzos de los años noventa, se convirtió en el procedimiento normalizado para divulgar información en este 
+    	campo <superscript><xref linkend="ch01n4"/></superscript>.
+    </para>
+    <para>
+    	Otro fenómeno a tener en cuenta es el denominado como “sobreinformación”. A través de las redes encontramos tanta información 
+    	que se hace difícil el acceso intelectual a la realmente relevante, por lo cual se hace necesario establecer buenos canales 
+    	de comunicación de información especializada.
+    </para>
+    <para>
+    	En conclusión, los cambios en la estructura de los sistemas de comunicación científica, al menos por ahora, serán 
+    	probablemente más evolucionarios que revolucionarios <superscript><xref linkend="ch01n5" /></superscript>, y los nuevos sistemas coexistirán con el más tradicional. Sin embargo 
+    	los cambios operados en el sistema de comunicación por los repositorios parecen irreversibles, existiendo un interés directo 
+    	de gobiernos, instituciones internacionales y organismos públicos en este fenómeno, ya que se que ha movilizado tanto a 
+    	investigadores como a gestores de la información.
+    </para>
+  </section>
+  <section xml:id="ch01b">
+  	<title>Pautas de consumo y comunicación científica</title>
+  	<para>
+  		La historia de la comunicación científica es la del incremento del acceso a la información <superscript><xref linkend="ch01n6" />
+  		</superscript>. La imprenta, en su día, posibilitó la reproducción múltiple de ejemplares. Durante siglos, la obra 
+  		impresa ha permanecido como el medio fundamental a través del cual los investigadores comunicaban los resultados de 
+  		sus trabajos, al que se incorporaba un sistema de control de calidad consistente en la revisión por un comité de pares 
+  		o expertos en el tema antes de ser aceptados para su publicación final. La revista científica es la herramienta fundamental 
+  		de comunicación entre los investigadores desde hace trescientos cincuenta años, con la aparición del Journal de Sçavants 
+  		(1665). Las revistas tuvieron un valor esencial para los investigadores porque les proporcionaba la posibilidad de aprender 
+  		y comunicar rápidamente los resultados de las últimas investigaciones llevadas a cabo, en contraposición al libro que se 
+  		consolidaba como el soporte ideal para almacenar el saber consolidado. Uno de los aspectos más valorado por los 
+  		investigadores es el de la inmediatez a la hora de compartir nuevos resultados y la prioridad de hacerlo antes que otros. 
+  		Según Peter Suber, los autores se verían suficientemente recompensados de estas ventajas que ofrecían las revistas y 
+  		aceptaron como pauta común no recibir beneficios económicos por la publicación de sus artículos, cuestión que se ha mantenido 
+  		a lo largo del tiempo.
+  	</para>
+  	<para>
+  		El acceso abierto era difícilmente posible en la época de la imprenta, donde, para hacer copias de cualquier obra, se 
+  		necesitaba una infraestructura económica-empresarial, industrial y comercial. Lo que va a incidir en el cambio de modelo 
+  		es la incorporación de la tecnología digital, especialmente la llegada de la World Wide Web a finales de los años 80, 
+  		así como la aparición del formato gráfico a principios de los años 90. Ello va a tener unas implicaciones más allá del 
+  		aspecto formal, que se van a hacer notar en el sistema de comunicación científica, en su comercialización y sobre el 
+  		propio producto.
+  	</para>
+  	<para>
+  		La comunicación científica es esencial a la propia naturaleza y práctica de la ciencia y está presente en todas las 
+  		etapas del proceso de investigación. Ésta tiene unas características que podríamos decir inherentes:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			Lógica: es decir, que la investigación científica debe basarse en un proceso de discusión razonado y coherente.
+  		</listitem>
+  		<listitem>
+  			Universalidad: se trata de un principio que deriva de la propia declaración de Derechos Humanos, que considera 
+  			que los resultados de la investigación científica son patrimonio de la humanidad y están al servicio de ésta.
+  		</listitem>
+  		<listitem>
+  			Interdisciplinariedad: dado que, en general, los científicos abordan problemas cada vez más complejos concernientes 
+  			a ámbitos de diferentes áreas científicas, que es necesario investigar con equipos de especialistas.
+  		</listitem>
+  	</itemizedlist>
+  	<para>
+  		La aplicación de las tecnologías y las redes de la información posibilita que los resultados de la investigación puedan 
+  		estar a disposición del resto de la comunidad científica de manera universal e inmediata. Uno de los efectos más claros 
+  		es la reducción del tiempo existente desde que el documento es publicado hasta que recibe su primera cita 
+  		(<emphasis xml:lang="en">Citation latency</emphasis>), que es una medida de eficiencia de la comunicación científica. Pero, 
+  		paradójicamente, la transferencia de información cuenta con dos importantes barreras: la barrera económica y la barrera 
+  		intelectual.
+  	</para>
+  	<para>
+  		En el sistema de suscripción tradicional, el poder disponer de publicaciones relevantes y tener un buen índice de impacto 
+  		depende entre otras cuestiones de la disponibilidad económica de nuestra organización para acceder a la literatura 
+  		científica de calidad<superscript><xref linkend="ch01n7" /></superscript>. Pero también se da una paradoja en sí mismo, 
+  		ya que una barrera económica es una barrera de acceso-impacto.
+  	</para>
+  	<para>
+  		La barrera económica viene dada por lo que se ha denominado “brecha digital”. Si, por una parte, con el fenómeno tecnológico 
+  		científicos de todo el mundo son más visibles a la ciencia internacional y los científicos de países menos desarrollados van 
+  		cobrando cada vez más relevancia en el marco mundial, por otra parte, cada vez se esta produciendo una polarización más 
+  		fuerte entre países que disponen de recursos para adquirir la buena información y aquellos otros que no disponen de medios 
+  		para acceder a ella. De manera que a otras brechas se añade esta otra que redunda aún más en el subdesarrollo.
+  	</para>
+  	<para>
+  		La elección de una revista por parte de un investigador para publicar su trabajo obedece a lo que se conoce como factor 
+  		de impacto, una medición de calidad desarrollada por Gardfield y aplicada por el ISI, que es reconocida como un elemento 
+  		imprescindible de cara a la adquisición de grados, promoción y obtención de proyectos, fondos y becas. Esta evaluación 
+  		se efectúa en base a dos mediciones: una colectiva, que es el factor de impacto que tiene la revista en sí respecto al 
+  		resto, y una individual, que viene determinada por las citas recibidas por el artículo en particular
+  	</para>
+  	<para>
+  		En lo referente a la evaluación de los resultados de la investigación, el formato digital introduce la posibilidad de 
+  		disponer de otras mediciones relacionadas con la interoperatividad y los enlaces, además de las citaciones, como son 
+  		el número de descargas de un documento y su relación con el número de citas que reciba el documento en el futuro. Estas 
+  		nuevas mediciones parecen manifestar un punto de vista más real acerca del impacto, influencia e información sobre la 
+  		comunidad científica
+  	</para>
+  </section>
+  <section xml:id="ch01c">
+  	<title>La revista electrónica</title>
+  	<para>
+  		Hasta los años 90, las revistas eran publicadas en formato impreso exclusivamente; a partir de entonces empiezan a 
+  		aparecer las primeras publicaciones electrónicas, que únicamente vienen a ser contrapartes de la edición impresa. Al 
+  		principio, hay una cierta resistencia por parte de los bibliotecarios y de los investigadores. A estas iniciales 
+  		reticencias pronto le sigue el convencimiento de las ventajas que supone el acceso inmediato independientemente 
+  		de las coordenadas espacio-temporales, además de otras ventajas de valor añadido, tales como hiperenlaces, gráficos 
+  		y posibilidad de realizar búsquedas.
+  	</para>
+  	<note>
+  		<para>
+  			Una ventaja del formato electrónico es la capacidad de disponibilidad y difusión inmediata, con el consecuente 
+  			ahorro en almacenamiento y gastos de distribución
+  		</para>
+  	</note>
+  	<para>
+  		Hay que poner de manifiesto que las actitudes y conductas varían de una disciplina a otra. En el campo de las 
+  		humanidades, este proceso ha sido más lento, ya que por encima de la revista, el vehículo fundamental de comunicación 
+  		sigue siendo el libro.
+  	</para>
+  	<para>
+  		El libro en su formato electrónico no ha tenido la misma aceptación que la revista, cuyo formato compartimentado en 
+  		artículos de una decena de hojas parece haber sido clave, para ser descargado, ser impreso y ser cómodamente leído.
+  	</para>
+  	<para>
+  		A pesar del cambio de soporte, sin embargo, no se han dado cambios especialmente significativos en cuanto al proceso 
+  		de edición. Normalmente, en la revista electrónica, al igual que ocurría con la revista en papel, la revisión de un 
+  		artículo es llevada a cabo por un grupo de expertos, que son quienes forman el comité científico de la publicación, 
+  		que hacen una revisión más o menos exhaustiva de forma y contenido, siendo el autor quien, en virtud a los comentarios 
+  		expresados, hace los cambios oportunos para su definitiva aceptación.
+  	</para>
+  	<para>
+  		Una ventaja del formato electrónico es la capacidad de disponibilidad y difusión inmediata, con el consecuente ahorro 
+  		en almacenamiento y gastos de distribución. También a partir de la edición electrónica se pueden obtener datos bastante 
+  		precisos relativos a su uso: estadísticas de consultas, descargas, procedencia, etc.
+  	</para>
+  	<para>
+  		La adaptación al entorno digital ha supuesto nuevos y diferentes planteamientos en la relación existente entre proveedores 
+  		y gestores de información. Durante siglos, la relación ha sido la existencia de un grupo editorial y/o distribuidor 
+  		que publicaba un número de revistas determinado, al que se suscribía una biblioteca o un centro de investigación, 
+  		seleccionando cada revista de manera individual y a un precio unitario para todas las instituciones que la compraban. 
+  		Además, cuando se cancelaba la suscripción, y la biblioteca dejaba de recibir los nuevos números, se conservaba la 
+  		colección hasta la fecha que había pagado, ya que compraba el soporte.
+  	</para>
+  	<para>
+  		El nuevo modelo de oferta por paquetes consiste en la adquisición de licencias de acceso a los recursos electrónicos 
+  		de forma múltiple, de manera que el precio final de la licencia variará en función de diferentes cuestiones, tales como 
+  		tipo de licencia (usuario, multiusuario, campus), niveles de acceso, número de usuarios potenciales, etc. De manera que 
+  		es necesario negociar los precios de las licencias para poder tener unas condiciones lo más óptimas para nuestros 
+  		usuarios, al menor precio posible.
+  	</para>
+  	<para>
+  		En general, la contratación/suscripción se hace en base a <emphasis>paquetes</emphasis> de revistas y no a títulos 
+  		individuales. De esta manera, una entidad gestora lo que hace es suscribirse a los paquetes que disponen de las 
+  		principales revistas que son del interés de su comunidad investigadora. En la mayoría de los casos, los productos 
+  		que recibe suelen alcanzar la colección retrospectiva que dispone la revista en formato electrónico, que dependiendo 
+  		del editor viene a ser una media de 4 a 6 años aproximadamente<superscript><xref linkend="ch01n8" /></superscript>. 
+  		Cuando el suscriptor cancela el paquete, en muchos casos, deja de disponer de esa colección digital, ya que ha pagado 
+  		suscripción por el acceso y no por la propiedad de la revista. En menor medida, otros editores proporcionan los 
+  		CD-ROM de lo que fue contratado en la suscripción.
+  	</para>
+  	<para>
+  		Hace unos años era práctica habitual que si se disponía de una revista en formato impreso, el distribuidor permitía que 
+  		la entidad suscriptora accediera al documento en digital; últimamente parece ser que la práctica es que se pague una 
+  		tasa adicional por el acceso al formato digital.
+  	</para>
+  	<para>
+  		El gran beneficio de este sistema es que a través de la negociación cooperativa de licencias de adquisiciones cualquiera 
+  		de las bibliotecas participantes por un poco más de dinero, accede a una mucho mayor cantidad de publicaciones que en 
+  		condiciones individuales superarían sus presupuestos con creces.
+  	</para>
+  	<para>
+  		Uno de los argumentos que la industria editorial argumenta para el incremento de los precios es que la revista 
+  		electrónica conlleva unos servicios de valor añadido que justifican tal coste. Entre ellos estaría la posibilidad de 
+  		recuperar cualquier artículo a través de una búsqueda indexada por diferentes puntos de acceso. También hay que 
+  		mencionar la capacidad del formato digital para facilitar el acceso múltiple; es decir, que varios investigadores 
+  		pueden acceder a un mismo contenido, descargarlo en su ordenador o visualizarlo de manera simultánea, no condicionados 
+  		por parámetros espacio-temporales. Las revistas también incluyen servicios de alerta, de manera que, cuando se edita un 
+  		nuevo número, el investigador recibe por correo electrónico el sumario de la revista o revistas que son de su interés.
+  	</para>
+  	<para>
+  		La cantidad total de publicaciones disponibles, a través de los paquetes es muy superior al total de que disponía la 
+  		biblioteca por suscripción individual. De manera que los comerciales argumentan que el precio medio por publicación 
+  		es mucho más bajo. Además, no existen problemas de almacenamiento y mantenimiento de la colección, que en la mayoría 
+  		de las grandes bibliotecas empezaba a ser un problema importante.
+  	</para>
+  	<para>
+  		No hay ningún análisis de coste-beneficio al respecto, pero cuando se hace un análisis de coste por acceso, las cifras 
+  		son verdaderamente alarmantes. Un estudio desarrollado por la Universidad de Wisconsin calcula el coste por acceso de 
+  		8,25$ por uso sobre una contratación total de 14.669$<superscript><xref linkend="ch01n9" /></superscript>. En casos donde 
+  		la contratación es menor el precio por uso es superior. Así, en el <emphasis xml:lang="fr">Hospital Medicine</emphasis> 
+  		con una suscripción total de 938$ el coste por acceso suponía 66,33 $. Sin embargo, prescindir de estas fuentes de 
+  		información para cualquier grupo de investigadores supone una pérdida importante en su capacidad investigadora.
+  	</para>
+  </section>
+  <section xml:id="ch01d">
+  	<title>Crisis de la comunicación científica</title>
+  	<para>
+  		El rápido desarrollo de Internet ha contribuido a crear nuevas necesidades de información que tradicionalmente no se 
+  		plateaban por sus deficientes posibilidades de acceso<superscript><xref linkend="ch01n10" /></superscript>. Por otro lado, 
+  		se da una situación de monopolio en unas pocas empresas comerciales que son quienes concentran las más prestigiosas revistas 
+  		que son esenciales para la difusión de las nuevas ideas y la investigación. Esta situación de monopolio ha sido uno de los 
+  		factores clave en el incremento del precio de las suscripciones a revistas. Planteándose una situación irregular en la que 
+  		los organismos públicos dedican una buena parte de sus recursos a financiar investigaciones, cuyos resultados terminan siendo 
+  		comercializados por empresas privadas que obtienen unos amplios márgenes de beneficios por su edición y que no están 
+  		disponibles para el resto de la sociedad.
+  	</para>
+  	<informalfigure xml:id="ch01f1" xreflabel="Fig 1">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-009.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Coste de libros y revistas 1986-2002. Fuente: American Research Libraries. <link xl:href="http://www.creativechange.org" />
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		Durante los últimos años, el incremento anual de las suscripciones ha excedido con creces la media de la inflación. En el 
+  		gráfico (<xref linkend="ch01f1" />) de la <emphasis xml:id="en">Asociation of Research Libraries</emphasis> (ARL) podemos 
+  		apreciar la evolución de los precios de compra de libros y revistas en el periodo 1986-2002; mientras que la compra de 
+  		libros sigue una línea paralela a la inflación (en torno al 3,1 % anual), las revistas científicas para ese mismo periodo 
+  		tienen un incremento progresivo muy superior a la inflación (227%), lo que supone un incremento medio anual del precio 
+  		de la suscripción cercano al 15 %. Esta situación es más grave para aquellos países en vías de desarrollo que no disponen 
+  		de recursos para comprar información de <emphasis>calidad</emphasis>. Produciéndose una contrariedad en sí misma que 
+  		es la posibilidad de acceder a una red de comunicación mundial
+  	</para>
+  	<para>
+  		Ante esta situación, las bibliotecas han adoptado estrategias tales como cancelaciones, incremento del presupuesto para 
+  		suscripciones en detrimento de la compra de monografías, compras consorciadas y nuevos planteamientos respecto a la 
+  		comunicación académica. En la base de esta búsqueda de alternativas está el nacimiento y desarrollo del movimiento para 
+  		el acceso abierto, que intenta limitar las restricciones impuestas por los editores.
+  	</para>
+  	<para>
+  		La crisis de precios es el factor desencadenante del movimiento para el acceso abierto, pero por sí misma no podría 
+  		explicar el fenómeno, en cuyo fondo subyace el desarrollo y aprovechamiento de las redes de información que posibilitan 
+  		compartir el conocimiento de manera inmediata.
+  	</para>
+  </section>
+  <section xml:id="ch01e">
+  	<title>Notas del capítulo 1</title>
+  	<bibliolist>
+  		<!-- Ejemplo
+  		<bibliomixed>
+		  <bibliomset relation='article'>Walsh, Norman.
+		    <title role='article'>Introduction to Cascading Style Sheets</title>.
+		  </bibliomset>
+		  <bibliomset relation='journal'>
+		    <title>The World Wide Web Journal</title> 
+		    <volumenum>2</volumenum><issuenum>1</issuenum>.
+		    <publishername>O'Reilly &amp; Associates, Inc.</publishername> and
+		    The World Wide Web Consortium. Winter, 1996</bibliomset>.
+		</bibliomixed>
+		-->
+  		<bibliomixed xml:id="ch01n1" xreflabel="1">
+  			<bibliomset relation="article">
+  				Rodríguez, Joaquín.
+  				<title role="article">Ciencia y comunicación científica: edición digital y otros fundamentos del libre acceso al conocimiento</title> 
+  				en <citetitle pubwork="journal">El profesional de la información</citetitle>, <volumenum>vol. 14</volumenum>, <issuenum>n. 4</issuenum> 
+  				<pubdate>(2005)</pubdate> <pagenums>pp. 246-254.</pagenums> 
+  				URL: <link xl:href="http://www.elprofesionaldelainformacion.com/estadisticas/download.php?id=3" /> 
+  				<date>[Consultado 4 de Junio de 2008].</date>
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n2" xreflabel="2">
+  			<bibliomset relation="article">
+  				Alburquerque Barreto, A. d.
+  				<title role="article">Cambio estructural en el flujo del conocimiento: la comunicación electrónica</title> 
+  				en <citetitle pubwork="journal">ACIMED</citetitle>, <volumenum>Vol. 9</volumenum>, <issuenum>No. 1</issuenum> 
+  				<pubdate>(2001)</pubdate>. <link xl:href="http://bvs.sld.cu/revistas/aci/vol9_s_01/sci04100.htm" /> 
+  				<date>[Consultado 4 de Junio de 2008]</date>.
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n3" xreflabel="3">
+  			<bibliomset relation="article">
+  				Russell, Jane M.
+  				<title relation="article">La comunicación científica a comienzos del siglo XXI</title> 
+  				en <citetitle pubwork="journal">Revista internacional de ciencias sociales</citetitle> <issuenum>n.168</issuenum> 
+  				<pubdate>(2001)</pubdate>. <link xl:href="http://www.campus-oei.org/salactsi/rusell.pdf" /> 
+  				<date>[Consultado 4 de Junio de 2008].</date>
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n4" xreflabel="4">
+  			La edición digital de arXiv de la Cornell University tiene almacenados actualmente casi medio millón de documentos del campo de la Física, Matematicas.
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n5" xreflabel="5">
+  			Russell, Jane M. op. cit.
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n6" xreflabel="6">
+  			<bibliomset relation="article">
+  				Kurtz, Michael and Brody, Tim. 
+  				<title relation="article">The impact loss to authors and research?</title>. 
+  				En: <citetitle pubwork="book">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle> 
+  				<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>. 
+  				URL: <link xl:href="http://eprints.soton.ac.uk/40867/02/chapter5distro.pdf" /> <date>[Consultado el 14 abril 2008]</date>.
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n7" xreflabel="7">
+  			<bibliomset relation="article">
+  				Guédon, Jean-Claude. 
+  				<title relation="article">Open access: a symptom and a promise?</title>. 
+  				En: <citetitle pubwork="book">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle> 
+  				<publisher><address><city>Oxford</city></address>: <publishername>Chandos,</publishername></publisher> <pubdate>2006.</pubdate> <issuenum>cap. 3.</issuenum>
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n8" xreflabel="8">
+  			<bibliomset relation="article">
+  				Rodríguez Bravo, B. and Díez Alvite, M. L., 
+  				<title relation="article">Análisis de los contenidos distribuidos por proveedores de publicaciones electrónicas.</title> 
+  				<citetitle pubwork="journal">El profesional de la información</citetitle>, <volumenum>Vol. 13</volumenum>, 
+  				<issuenum>No. 6</issuenum>, <pubdate>2004</pubdate>, <pagenums>pp. 441-149</pagenums>.
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n9" xreflabel="9">
+  			<bibliomset relation="article">
+  				Drott, M. C. 
+  				<title relation="article">Open Access</title>. 
+  				<citetitle pubwork="journal">Annual Review of Information Science and Technology (ARIST)</citetitle>, 
+  				<volumenum>Vol.40</volumenum>, <pubdate>2006</pubdate>, <pagenums>pp. 79-109</pagenums>.
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch01n10" xreflabel="10">
+  			<bibliomset relation="article">
+  				Swan, A. 
+				<title relation="article">The culture of Open Access: researchers’ views and responses.</title> 
+				En: <citetitle pubwork="book">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle> 
+				<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, 
+				<pubdate>2006</pubdate> <issuenum>cap 7.</issuenum>:
+				<link xl:href="http://eprints.ecs.soton.ac.uk/12428/01/asj7.pdf"/> <date>[Consultado el 29 de marzo de 2008]</date>.
+  			</bibliomset>
+  		</bibliomixed>
+  	</bibliolist>
+  </section>
+</chapter>

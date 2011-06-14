@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch03"
+	lang="es" version="5.0"
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>La edición y el acceso abierto</title>
+
+  <section xml:id="ch03a">
+    <title>El punto de vista de las editoriales</title>
+    <para>
+    	Los editores aluden a su tradición de tres siglos como garante de la comunicación científica, siendo la revista uno de los 
+    	más importantes canales de comunicación, y avalan que su trayectoria les respalda, así como la utilización de unos métodos 
+    	que han resultado efectivos y lo seguirán siendo. Realmente hay que decir que el movimiento para el acceso abierto no supone 
+    	en ningún momento un sistema de comunicación científica excluyente, más bien es simplemente una alternativa a otros ya 
+    	existentes, y de alguna manera es previsible que coexistirá con mayor o menor aceptación con los sistemas tradicionales.
+    </para>
+    <para>
+    	La edición científica durante siglos se pagaba en base a obtener una copia impresa. Con la llegada de la web se da un 
+    	hecho fundamental que es el cambio en cómo se distribuye la información. En este contexto el coste de la distribución de 
+    	copias es inapreciable, lo que supone la eliminación de los costes de impresión y gestión de las suscripciones. Sin embargo, 
+    	la alternativa elegida por los editores es cargar por la suscripción en línea tanto o más que por la edición impresa. Las 
+    	editoriales justifican los incrementos de las suscripciones alegando que se proporcionan junto a la revista otros servicios 
+    	de valor añadido. No obstante, la edición electrónica minimiza los costes, ya que una vez hecha la primera copia los gastos 
+    	en producción y distribución son marginales. Lo que contrasta con la obra editada en papel, donde los costes de reproducción, 
+    	almacenamiento y distribución son cuantiosos.
+    </para>
+    <para>
+    	Los primeros síntomas de esta situación anómala empiezan a producirse en Estados Unidos, donde ante las duras condiciones 
+    	planteadas por los distribuidores se ha producido un movimiento importante en países como Estados Unidos, donde miembros 
+    	de comités científicos se han retirado del grupo editorial con el que trabajan, ya que imponía unas duras condiciones para 
+    	los autores (Journal Declaration of Independence 2004<superscript><xref linkend="ch03n28" /></superscript>). Ante esta 
+    	situación, Elsevier modifica los acuerdos de derechos de autor de sus productos.
+    </para>
+    <para>
+    	También hay que tener en cuenta que no todos los editores que están comerciando con publicaciones periódicas por el sistema 
+    	de suscripción son entidades comerciales con ánimo de lucro, ya que una buena parte de estos son editores institucionales, 
+    	tales como sociedades científicas y asociaciones profesionales que no obtienen beneficios directos, si no que los ingresos 
+    	que perciben por suscripción sirven para financiar y sostener las actividades de su organización. Lo ideal sería encontrar 
+    	una alternativa para la autofinanciación que permitiera recuperar los costes asociados a la ubicación. Entidades como el 
+    	Nacional Institute of Health (NIH) de Estados Unidos o Welcome Trust de Reino Unido reconocen que los presupuestos deben 
+    	de utilizarse de manera más eficiente, a la vez de asegurar la accesibilidad universal a los resultados de la investigación 
+    	pública, de manera que ambas entidades están diseñando políticas en este sentido aplicando un modelo mas abierto de edición.
+    </para>
+    <para>
+    	En el modelo tradicional de edición científica las comunidades científicas están pagando al editor por su servicio de 
+    	publicación y difusión a través de un modo indirecto que es la suscripción. En el modelo OA, se paga por artículo publicado, 
+    	es un modelo de precio transparente, ya que proporciona acceso universal y el total de coste por artículo publicado es más bajo 
+    	que el modelo de suscripción. En el modelo tradicional por suscripción, los gastos y beneficios dependen de las restricciones 
+    	de acceso. Lo ideal sería encontrar un modelo de edición científica que no dependiera de las restricciones de acceso a la 
+    	investigación publicada<superscript><xref linkend="ch03n29" /></superscript>.
+    </para>
+    <para>
+    	El miedo de los editores comerciales es que el acceso abierto provoque un declive de las suscripciones que incidan en la 
+    	capacidad de negocio, para ello se están planteando soluciones alternativas que les posibiliten mantener su statu quo. Pero 
+    	el mundo de la edición no tiene una dirección unitaria, algunos editores ya están experimentando con el acceso abierto y 
+    	planteando modelos híbridos	La postura más común ha sido la de la asimilación, así como los intentos de buscar algún beneficio 
+    	que sea compatible con la existencia de archivos abiertos. Lo que realmente buscan es un modelo de negocio que les permita 
+    	asegurar sus beneficios como empresa.
+    </para>
+  </section>
+  <section xml:id="ch03b">
+    <title>Política editorial frente al libre acceso</title>
+    <para>
+    	Los editores convencionales están llevando a cabo diferentes políticas como estrategia y de manera experimental para buscar 
+    	un modelo viable a nivel de negocio con el acceso abierto<superscript><xref linkend="ch03n30" /></superscript>:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Revistas con embargo temporal.
+    	</listitem>
+    	<listitem>
+    		Permisos para difusión de la versión revisada del autor, no la publicada.
+    	</listitem>
+    	<listitem>
+    		Programas <emphasis>Open Choice</emphasis>
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	El embargo consiste en hacer los contenidos de las revistas públicamente accesibles después de un periodo de tiempo establecido 
+    	a partir de su edición; normalmente el periodo oscila entre seis meses y un año; es la política llevada a cabo por Nature, que 
+    	a los seis meses permite que los artículos sean volcados a un archivo abierto.
+    </para>
+    <para>
+    	El tercer modelo es el pago de una cuota por parte del autor, que oscila dependiendo del editor de entre 500 y 3.000 dólares 
+    	para que el artículo este en abierto.
+    </para>
+    <para>
+    	Por ejemplo, Springer Open Choice<superscript><xref linkend="ch03n31" /></superscript> permite a los autores elegir su método de 
+    	publicación a través de una opción de libre acceso –mediante un pago adicional para que sus artículos estén disponibles gratuitamente 
+    	para cualquier persona y en cualquier parte del mundo. Los investigadores siempre tienen acceso a los artículos de Open Choice, aún 
+    	sin contar con suscripción institucional.
+    </para>
+    <para>
+    	El resultado es que buena parte de los distribuidores de revistas están ofreciendo un modelo de Acceso Abierto (BMC, PloS Biology…) 
+    	con un alto nivel de responsabilidad en la calidad de la revisión y un buen nivel de impacto. Otra forma es establecer el modelo de 
+    	negocio a través de una sociedad científica, cuyo resultado final es que la revista es libremente accesible para los lectores como 
+    	para los autores; un ejemplo de este modelo es BioMed Central. Otras instituciones han creado un grupo de organismos financieros 
+    	para cubrir el coste del acceso abierto como Wellcome Trust en el Reino Unido. Se trata de revistas subsidiadas en contraste con 
+    	las tradicionales que son comercialmente auto-sostenibles.
+    </para>
+    <para>
+    	En conclusión, a pesar de todo, el acceso abierto ha llegado para quedarse y difícilmente tendrá un punto de inflexión, y ya son 
+    	muchos los grupos editoriales que están aprendiendo de una u otra manera a convivir con él. Su actitud puede ser más o menos 
+    	beligerante, pero sí es seguro que el acceso abierto no desaparecerá<superscript><xref linkend="ch03n32" /></superscript>  y que 
+    	está proponiendo un modelo más adecuado para la comunidad investigadora. Ambos modelos pueden coexistir y de hecho así sucede en 
+    	la actualidad, y se están planteando diferentes formas de negocio compatibles con el acceso abierto, como que se pague el coste y/o 
+    	beneficios es lo de menos; lo importante es que en última instancia el investigador pueda acceder libremente a esa información sin 
+    	ningún tipo de cargo o restricción. Y sobre todo tener en cuenta que el acceso abierto no es un modelo de negocio, solamente es un 
+    	modelo de acceso<superscript><xref linkend="ch03n33" /></superscript>. Pero es necesario poner de manifiesto que los editores y 
+    	promotores del acceso abierto tienen puntos de vista distintos e intereses contrapuestos.
+    </para>
+    <informalfigure xml:id="ch03b1" xreflabel="Fig 9">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-017.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Springer Open Choice
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+  <section xml:id="ch03c">
+    <title>La visión de los autores</title>
+    <para>
+    	El autor es el actor principal y beneficiario del acceso abierto, aunque solamente un 20% tiene depositado algún artículo en acceso 
+    	abierto, y de ellos una cuarta parte tiene depositado un solo artículo. Cuando el autor publica en una revista su trabajo de 
+    	investigación tiene una serie de motivaciones<superscript><xref linkend="ch03n34" /></superscript>:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Comunicar los resultados de la investigación al resto de la comunidad científica.
+    	</listitem>
+    	<listitem>
+    		Progresar en la profesión
+    	</listitem>
+    	<listitem>
+    		Prestigio profesional
+    	</listitem>
+    	<listitem>
+    		Conseguir financiación
+    	</listitem>
+    	<listitem>
+    		Compensaciones financiera
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	Es claro que entre las motivaciones que tienen los autores de artículos de revista está la de comunicar los resultados de su investigación, 
+    	ser leído y consecuentemente citado, con lo cual tendrá un buen reconocimiento entre sus colegas, y ello le reportará prestigio profesional 
+    	y compensaciones para obtener ayudas para financiar nuevos proyectos y progresar en su profesión. Parece más o menos probado que el acceso 
+    	abierto proporciona mayor visibilidad e impacto que las publicaciones que sólo están accesibles mediante un sistema de suscripción. Sin 
+    	embargo, esto contrasta con la baja proporción de autores que depositan sus artículos en un archivo abierto. Habría que preguntarse cuáles 
+    	son las causas por las que los autores no auto-archivan sus artículos en repositorios. Según algunos estudios que se han llevado a cabo<superscript><xref linkend="ch03n35" /></superscript>, 
+    	muchos de ellos no conocen qué es el acceso abierto y aquéllos que han oído hablar de ello, desconocen sus implicaciones. También una 
+    	buena mayoría no sabe cómo auto-archivar. Por lo tanto, hay una laguna entre el conocimiento sobre qué es el acceso abierto y su 
+    	práctica, aduciendo que temen infringir la legislación de derechos de autor, que no tienen disponibilidad de tiempo o que no saben 
+    	cómo hacerlo. Ello también es sintomático de un cierto desinterés por parte de los investigadores que no son conscientes de que la 
+    	accesibilidad a la literatura científica sea un problema, ya que es su entidad la que paga en última instancia o porque estiman que 
+    	existe demasiada información frente a la que pueden asimilar.
+    </para>
+    <para>
+    	Respecto a la cuestión relativa a infringir los derechos de autor, es importante decir que según los estudios desarrollados por el 
+    	proyecto RoMEO sobre las políticas que actualmente tienen las editoriales en este sentido, el 92% de las revista permiten efectuar algún 
+    	tipo de auto-archivo.
+    </para>
+    <para>
+    	Éstas se pueden consultar en las siguientes páginas:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Eprints Journal Policies &lt;<link xl:href="http://romeo.eprints.org" />&gt;
+    	</listitem>
+    	<listitem>
+    		SHERPA/RoMEO Database &lt;<link xl:href="http://www.sherpa.ac.uk/romeo.php" />&gt;
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	Hay que decir que únicamente una ínfima parte de los documentos depositados en archivos abiertos han tenido que ser retirados por cuestiones 
+    	de derechos de autor (en ArXiv, la cifra es de un 0,0001 por ciento).
+    </para>
+    <para>
+    	En cuanto al tiempo necesario para hacer un depósito, probablemente para el primer documento que archivemos tardaremos un poco más, el resto 
+    	será cuestión de apenas unos minutos tal y como han demostrado algunos estudios; y respecto a la dificultad un 44% considera que es muy fácil, 
+    	un 28% fácil; solamente para un 1% es muy difícil<superscript><xref linkend="ch03n36" /></superscript>. La mayor dificultad está en permanecer 
+    	parado, en no hacer depósitos o hacer poco para descubrir lo fácil, simple y rápido que es el auto-archivo. Son los propios autores que 
+    	depositan y conocen los beneficios del acceso abierto los más fervientes defensores y entusiastas del sistema. Además, los gestores del repositorio 
+    	son una ayuda práctica necesaria para quienes están interesados en depositar un documento.
+    </para>
+    <para>
+    	Los repositorios proporcionan una serie de servicios a los autores tales como datos estadísticos para poder conocer el número de consultas y descargas, 
+    	así como datos desde que países han sido consultados sus documentos, análisis de series temporales de consulta, etc. A partir de la información recogida 
+    	en el repositorio pueden elaborar su currículum vítae, o el uso del repositorio como base de datos personal en línea desde la que puede exportar datos a 
+    	los gestores de referencias más conocidos. Pero el principal argumento para convencer a los autores es el de la alta visibilidad de los esfuerzos de su 
+    	trabajo.
+    </para>
+    <para>
+    	Lo deseable sería que el 100% de los autores depositaran o publicaran toda su producción científica en acceso abierto, lo que supondría un 100% de 
+    	inmediatez. El hecho de que esto no se produzca se debe a factores psicológicos, que es lo que Harnad denomina <emphasis>Parálisis de Zeno</emphasis><superscript><xref linkend="ch03n37" /></superscript>. 
+    	Entre otras cuestiones está el miedo de los autores a infringir derechos de autor, el temor al plagio, prestigio, prioridad, privacidad, etc. Para 
+    	los investigadores resulta muy importante el desarrollo del trabajo científico, pero una cuestión esencial es también la difusión de su trabajo 
+    	por los canales más adecuados, pues la amplia difusión de su trabajo supone una recompensa a su actividad, que llega en forma de prestigio, 
+    	promoción y financiación.
+    </para>
+    <para>
+    	Es evidente que el medio digital ha incrementado el acceso a la información científica, pero no lo ha maximizado como sería deseable, ya que la 
+    	mayoría de las instituciones, incluso las más pudientes, sólo pueden suscribir una pequeña fracción de las revistas publicadas, lo que supone un 
+    	bajo potencial de acceso y por lo tanto de impacto. Los académicos son quienes más tienen que ganar con el acceso abierto, pues sus trabajos van 
+    	a estar mundialmente disponibles a través de los recolectores globales y sus ideas universalmente difundidas a través de los motores de búsqueda.
+    </para>
+    <para>
+    	Para que estas iniciativas sean consideradas por los autores también se requiere una mayor implicación de las instituciones, sobre todo a la 
+    	hora de considerar y valorar como mérito el depósito en abierto, de cara a la obtención de proyectos y plazas. Además de desarrollar una política 
+    	de información y promoción de la filosofía del acceso abierto, ya que una de las cuestiones fundamentales es el desconocimiento de las iniciativas, 
+    	y en aquellos casos que sí las conocen, desarrollar mecanismos que promuevan la capacidad de información-acción.
+    </para>
+  </section>
+  <section xml:id="ch03d">
+    <title>Las cifras del acceso abierto</title>
+    <para>
+    	Según las cifras del registro de archivos abiertos proporcionadas por el Registry of Open Access Repositories (ROAR) habría actualmente más de 
+    	un millar de repositorios abiertos en todo el mundo, aunque son muchas más las universidades y organizaciones que están en el proceso de creación 
+    	de repositorios institucionales. Sin embargo, se estima que la producción científica anual es de 2,5 millones de artículos, que se publican en 
+    	25.000 revistas, de ellas únicamente 2,5 millones de artículos están en libre acceso, aproximadamente un 15%.
+    </para>
+    <para>
+    	Lo primero que llama la atención es el rápido crecimiento experimentado fundamentalmente a partir de hace unos pocos años. Se estima que durante 
+    	los últimos meses, cada día se crea un repositorio.
+    </para>
+    <para>
+    	El coste del acceso abierto comparado con otros gastos de comunicación científica es bajo respecto a los beneficios que puede reportar a la 
+    	organización y a la sociedad en general, ya que requiere una infraestructura que habitualmente ya dispone la propia institución.
+    </para>
+    <para>
+    	A continuación podemos ver cual es la distribución por países de recursos en acceso abierto, en general la mayoría de iniciativas proceden 
+    	de países desarrollados, y sobre todo de aquellos que disponen de más capacidad de información, destacando los casos de Estados Unidos, Reino 
+    	Unido Alemania y Francia; España ocupa un digno quinto lugar tal y como podemos apreciar en la figura relativa al ranking de iniciativas OA.
+    </para>
+    <informalfigure xml:id="ch03d1" xreflabel="Fig 10">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-018.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Journal policies – Self-Archiving Policy
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<informalfigure xml:id="ch03d2" xreflabel="Fig 11">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-019.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Registry of Open Access Repositories
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		El coste del acceso abierto comparado con otros gastos de comunicación científica es bajo respecto a los beneficios que puede reportar a la 
+  		organización y a la sociedad en general, ya que requiere una infraestructura que habitualmente ya dispone la propia institución.
+  	</para>
+  	<para>
+  		El actual desarrollo del acceso abierto hace prever un buen desarrollo de los repositorios tanto institucionales como temáticos, así como la 
+  		creación de repositorios transversales a ambos en áreas temáticas determinadas. Con ello, los mandatos institucionales de depósito será una 
+  		cuestión fundamental para el desarrollo futuro de los archivos institucionales.
+  	</para>
+  	<para>
+  		Algunos gobiernos ya han iniciado un apoyo decidido al acceso abierto, con políticas favorables a la creación de repositorios y revistas en 
+  		acceso abierto. También a nivel regional se están planteando políticas para crear colecciones locales.
+  	</para>
+  	<para>
+  		Como pone de manifiesto Guédon, el movimiento para el acceso abierto está en la base de transformación del sistema de comunicación científica. 
+  		Es más que una innovación en la táctica de edición científica; se trata de un nuevo modelo que redistribuye los elementos de poder, unido a 
+  		un sistema más eficaz y más eficiente de comunicación científica, porque es más abierto y equitativo. Y en contra de lo que pueda parecer, 
+  		acceso abierto es compatible con derechos de autor, revisión por pares, ganancia privada y preservación digital<superscript><xref linkend="ch03n38" /></superscript>..
+  	</para>
+  	<para>
+  		La revisión realizada en una revista OA conlleva un nivel de calidad similar al de una revista por suscripción, la calidad no depende del 
+  		tipo de acceso, y de hecho muchos de los miembros de comités científicos que están en las revistas de acceso pagado lo están en las 
+  		revistas OA.
+  	</para>
+  	<para>
+  		Lo que parece claro es que las iniciativas para el acceso abierto benefician la aceleración en la transmisión de los conocimientos, así como 
+  		la difusión y actualización de los resultados de la investigación. Y todo evidencia que la edición científica basada en la suscripción seguirá 
+  		coexistiendo con el auto-archivo, y éste sobre todo supondrá un suplemento para maximizar el impacto de la investigación en beneficio tanto de 
+  		los autores como de los editores comerciales. Lo que pone de manifiesto que el acceso abierto no tiene efectos negativos para el sistema de 
+  		suscripciones.
+  	</para>
+  	<informalfigure xml:id="ch03d3" xreflabel="Fig 12">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-020.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Eprints.org Repositorios registrados
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<informalfigure xml:id="ch03d4" xreflabel="Fig 13">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-021.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Webmetrics Ranking of World Universities.Supporting Open Acces Initiatives Worldwide. Top 100
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+  <section xml:id="ch03e">
+    <title>Notas del capítulo 3</title>
+    <bibliolist>
+    	<bibliomixed xml:id="ch03n28" xreflabel="28">
+    		<bibliomset>
+    			Suber, Peter.
+    			<title>Journal declarations of independence.</title>
+    			URL: <link xl:href="http://www.earlham.edu/~peters/fos/lists.htm#declarations" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n29" xreflabel="29">
+    		Cockerill, M. (2006) op. cit.
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n30" xreflabel="30">
+    		<bibliomset relation="article">
+    			Abad García, M. F. González Teruel A Martinez Catalán C.
+    			<title role="article">Acceso abierto y revistas médicas españolas.</title>
+    			en: <citetitle pubwork="journal">Medicina Clínica.</citetitle>
+    			<volumenum>vol. 12</volumenum>, <issuenum>n. 127</issuenum> <pubdate>(2006)</pubdate>, <pagenums>pp. 456-464.</pagenums>
+    			URL: <link xl:href="http://eprints.rclis.org/archive/00011490/01/open_acces_Medicina_Cl%C3%ADnica_2006_versi% C3%B3n_aceptada_del_autor.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n31" xreflabel="31">
+    		<link xl:href="http://www.springer.com/open+choice?SGWID=0-40359-0-0-0" />
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n32" xreflabel="32">
+    		Op. Cit Guédon, Jean-Claude (2006)
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n33" xreflabel="33">
+    		Suber, Peter, (2006) op. cit.
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n34" xreflabel="34">
+    		<bibliomset relation="article">
+    			Swan, A.
+    			<title role="article">The Culture of Open Access: Researchers’ Views and Responses?</title>
+    			en: <citetitle pubwork="journal">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle>
+    			<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>.
+    			URL: <link xl:href="http://eprints.ecs.soton.ac.uk/12428/01/asj7.pdf" />. <date>[Consultado el 21 abril 2008]</date>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n35" xreflabel="35">
+    		<bibliomset relation="working paper">
+    			Carr, L. H. S. and Swan, A., 
+    			<title role="working paper">A Longitudinal Study of the Practice of Self-Archiving</title>. 
+    			Working Paper . (Unpublished). <publisher><publishername>ECS EPrints Repository</publishername></publisher>, <pubdate>2007.</pubdate> 
+    			URL: <link xl:href="http://eprints.ecs.soton.ac.uk/13906/1/Longitudinal.doc" /> <date>[Consultado el 13 de mayo 2008]</date>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n36" xreflabel="36">
+    		<bibliomset relation="working paper">
+    			Carr, L., and S. Harnad. 
+    			<title role="working paper">Keystroke Economy: A Study of the Time and Effort Involved in Self-Archiving.</title> 
+    			(Unpublished). <publisher><publishername>ECS EPrints Repository</publishername></publisher> <pubdate>(2005).</pubdate> 
+    			URL: <link xl:href="http://eprints.ecs.soton.ac.uk/12725/1/bookcite.htm" /> <date>[consultado el 21 de abril de 2008]</date>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n37" xreflabel="37">
+    		<bibliomset>
+    			Harnad, S. 
+    			<title>Opening Access by Overcoming Zeno’s Paralysis.</title> 
+    			<publisher><publishername>ECS EPrints Repository</publishername></publisher> <pubdate>(2006).</pubdate> 
+    			URL: <link xl:href="http://eprints.ecs. soton.ac.uk/12094/2/harnad-jacobsbook.pdf" /> <date>[consultado el 21 de abril de 2008]</date>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch03n38" xreflabel="38">
+    		Suber, Peter (2006) op. cit.
+    	</bibliomixed>
+    </bibliolist>    
+  </section>
+</chapter>

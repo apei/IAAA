@@ -1,0 +1,825 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch02" 
+	lang="es" version="5.0"
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink" >
+  <title>Libre acceso a los resultados de la investigación</title>
+
+  <section xml:id="ch02a">
+    <title>El movimiento por el acceso abierto</title>
+    <para>
+    	El desarrollo del conocimiento requiere del acceso a la literatura científica más relevante, sin embargo por ahora existe una 
+    	fuerte supeditación a las licencias de uso y acceso a la información. Cualquier investigador, hasta los que pertenecen a las 
+    	más ricas universidades del mundo, tiene dificultad de acceder a la literatura profesional que necesita e incluso encuentra 
+    	problemas para difundir aquélla que ellos mismos publican. Por otra parte, el concepto de Web Social conlleva un nuevo modelo 
+    	de interactividad y de cooperación<superscript><xref linkend="ch02n11" /></superscript>.En algunos dominios científicos, los blogs y wikis ya están teniendo una importante 
+    	influencia como nuevo elemento dentro del circuito de la comunicación científica entre investigadores, donde éstos dejan de 
+    	ser un elemento pasivo para pasar a ser un elemento activo en el sistema de información; algo en cierto modo paralelo al 
+    	acceso abierto, donde es el propio autor el que deposita sus documentos en un repositorio. Se trata de tendencias que se 
+    	incrementarán durante los próximos años.
+    </para>
+    <para>
+    	<emphasis>Open Access</emphasis> es el término utilizado para describir el libre acceso a la literatura científica en línea. 
+    	La definición que habitualmente se utiliza para explicar qué es y en qué consiste el Acesso Abierto, es la proporcionada en 
+    	diciembre de 2001 en lo que se ha llamado <citetitle pubwork="other">Declaración de Budapest sobre el Acceso Abierto (BOAI)</citetitle>, 
+    	reunión organizada por el Open Society Institute, del millonario filántropo Georges Soros, cuya finalidad era potenciar la libre 
+    	disponibilidad de información científica en la red. Los participantes en el encuentro procedían de diversas naciones y áreas 
+    	de conocimiento con una experiencia en proyectos que tenían como fin el acceso abierto a la información. La declaración 
+    	salida de esta reunión ha sido firmada por un amplio número de individuos y organizaciones de reconocido prestigio.
+    </para>
+    <blockquote>
+    	<para>
+    		Por “acceso abierto” a esta literatura queremos decir su disponibilidad gratuita en Internet público, permitiendo a 
+    		cualquier usuario leer, descargar, copiar, distribuir, imprimir, buscar o usarlos con cualquier propósito legal, sin 
+    		ninguna barrera financiera, legal o técnica, fuera de las que son inseparables de las que implica acceder a Internet 
+    		mismo. La única limitación en cuanto a reproducción y distribución y el único rol del copyright en este dominio, deberá 
+    		ser dar a los autores el control sobre la integridad de sus trabajos y el derecho de ser adecuadamente reconocidos y citados.
+    	</para>
+    </blockquote>
+    <para>
+    	Esencialmente por acceso abierto a la literatura científica se entiende la libre y permanente disponibilidad en Internet, 
+    	permitiendo a cualquier usuario su lectura, descarga, copia, impresión, distribución o cualquier otro uso legal de la misma, 
+    	sin ninguna barrera financiera, técnica o de cualquier tipo.
+    </para>
+    <para>
+    	Otras cuestiones esenciales que se desprenden de estos documentos clave que son las diferentes declaraciones de apoyo al 
+    	movimiento son las siguientes:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Las obras en acceso abierto son libremente accesibles para todos.
+    	</listitem>
+    	<listitem>
+    		Se refiere fundamentalmente a documentos que están en línea, es decir digitales y accesibles a través de Internet.
+    	</listitem>
+    	<listitem>
+    		Se trata exclusivamente de obras científicas.
+    	</listitem>
+    	<listitem>
+    		Los artículos de revista son el principal documento objeto del movimiento.
+    	</listitem>
+    	<listitem>
+    		Los autores no perciben dinero por su esfuerzo.
+    	</listitem>
+    	<listitem>
+    		Hay un amplio rango de modalidades de uso para los documentos, pero esencialmente se garantiza la autoría y la 
+    		integridad de la obra.
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	Un aspecto fundamental más que plantea el movimiento para el acceso abierto es que los documentos deben estar depositados 
+    	en un repositorio que permita la interoperabilidad en base al cumplimiento de una serie de protocolos –como OAI-PMH– para 
+    	que proveedores de servicios y motores de búsqueda como OAIster o Google Scholar puedan recolectar los metadatos de estos 
+    	repositorios, creando así bases de datos de ámbito mundial donde los productos de la investigación estén universalmente 
+    	disponibles.
+    </para>
+    <para>
+    	Plantea dos estrategias complementarias para llegar al acceso abierto:
+    </para>
+    <orderedlist>
+    	<listitem>
+    		Ruta dorada: Publicar en revistas que estén en acceso abierto.
+    	</listitem>
+    	<listitem>
+    		Ruta verde: Depositar en repositorios.
+    	</listitem>
+    </orderedlist>
+    <para>
+    	En un principio, la ruta dorada era la que se consideraba más factible por dos razones: los derechos de autor y las 
+    	dispersión propia de la web; sin embargo, con el tiempo la ruta verde ha sido la más difundida e implementada con más 
+    	facilidad. Esto ha llevado a que hoy por hoy la ruta verde sea la más viable para lograr el acceso abierto a corto plazo, 
+    	fundamentalmente por la introducción del metadato de intercambio OAI-PMH y la aceptación del auto-archivo por un amplio 
+    	grupo de casas editoras<superscript><xref linkend="ch02n12" /></superscript>.
+    </para>
+    <para>
+    	Una de las cuestiones fundamentales que debemos platearnos es convencer y persuadir a los autores de los beneficios del 
+    	acceso abierto. Según algunos estudios estimativos sólo el 10% de los autores han llegado a depositar sus artículos 
+    	en un repositorio. Entre las medidas que se han propuesto para paliar esta situación está establecer mandatos de depósito 
+    	a los investigadores que son financiados con fondos públicos. La principal dificultad es que el mandato se percibe como 
+    	una decisión autoritaria, pero, a pesar de las dificultades que plantea, es la medida más efectiva de asegurarse un rápido 
+    	y completo repositorio en acceso abierto para cualquier institución. En paralelo a esta estrategia, se han sugerido otras 
+    	más indirectas y no coercitivas, a través de incentivos, ayudas, becas.
+    </para>
+    <para>
+    	Aunque impulsemos cualquiera de estas medidas no debemos olvidar que una cuestión importante es implementar mecanismos de 
+    	persuasión que generen un valor simbólico y animen a los investigadores a depositar, tales como generar estadísticas de 
+    	accesos y descargas e implicar a los investigadores creando equipos editoriales.
+    </para>
+    <para>
+    	Aunque la vía dorada también ha manifestado un importante avance –3.700 revistas registradas en DOAJ–, ya que varios países 
+    	han empezado a promover la edición en acceso abierto de la literatura científica por medio de revistas de libre acceso. Un 
+    	buen ejemplo de ello es el Proyecto Scielo que contiene en la actualidad más de 300 revistas. Quizás la mayor dificultad de 
+    	esta ruta está en diseñar planes de negocio como una alternativa viable. Algunas asociaciones y sociedades científicas se 
+    	oponen al acceso abierto de sus publicaciones argumentando que es sólo a través de las suscripciones como obtienen beneficios. 
+    	Sin embargo, un buen número de países y agencias gubernamentales que financian programas de investigación están adoptando 
+    	este modelo como factible. También se ha planteado como modelo “el autor paga”, término en cierta manera confuso, ya que 
+    	quien realmente paga es la institucion a la que pertenece el autor, que ofrece al investigador la posibilidad de que su 
+    	artículo esté en libre acceso pagando un suplemento.
+    </para>
+    <para>
+    	El coste de la publicación en abierto para este modelo oscila entre los 300 y 1500 dólares (BioMed, 750 libras; Blacwell 
+    	on line, open 1250 libras, Plos Medicine, 1500 dólares; Springer Open Choice, 300 dólares). Se trata de un modelo sostenible 
+    	que hace posible que los editores puedan continuar asumiendo la publicación, recuperando costes y obteniendo ciertos 
+    	beneficios. Aunque este modelo no está exento de críticas, ya que antes del coste de la publicación hay otros aspectos 
+    	que se han financiado previamente como son el que la universidad paga al propio investigador para que ejerza como tal y 
+    	publique, además de los costes del soporte institucional y los servicios ofrecidos al investigador.
+    </para>
+    <para>
+    	Para Peter Suber hay dos cuestiones que caracterizan el concepto de acceso abierto, la eliminación de las barreras 
+    	económicas y la eliminación de las barreras legales (<emphasis>copyright</emphasis> y licencias de acceso) intentando la 
+    	disponibilidad a través de las mínimas barreras de uso<superscript><xref linkend="ch02n13" /></superscript>, ya que después 
+    	de la primera copia en formato digital los costes de producción y distribución son marginales.
+    </para>
+  </section>
+  <section xml:id="ch02b">
+    <title>El efecto Ginsparg</title>
+    <para>
+    	A principios de la década de los 90 se producen una serie de iniciativas aisladas por parte de investigadores y gestores de
+    	la información que tienen como objetivo común promover el libre acceso a la información y que se concretarán a lo largo de la 
+    	década en lo que hoy conocemos como movimiento para el Acceso Abierto. Entre estos pioneros esta un físico de la Universidad 
+    	de Los Álamos que en 1991 crea ArXiv, el que se considera el primer archivo abierto. La importancia de Ginsparg no está en la 
+    	creación de un repositorio, sino en la concreción de un nuevo modelo de comunicación científica.
+    </para>
+   	<informalfigure xml:id="ch02b1" xreflabel="Fig 2">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-010.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				arXiv.org
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		Todas estas iniciativas tienen un objetivo común: facilitar el acceso libre y gratuito a los resultados de la investigación. 
+  		Estos principios se retoman en las declaraciones de Budapest y de la Public Library of Science (PLoS). Estas declaraciones y 
+  		reivindicaciones cuestionan a menudo aspectos económicos, jurídicos, técnicos y organizacionales.
+  	</para>
+  	<para>
+  		La iniciativa de PLoS tiene lugar en el año 2001 cuando un grupo numeroso de científicos piden que todo artículo sea accesible 
+  		públicamente en línea seis meses después de su aparición, es decir que los resultados de la investigación científica sean 
+  		libremente accesibles. Quienes firman esta carta son alrededor de treinta mil científicos, que se comprometen a no publicar 
+  		en las revistas que no pongan en práctica esta idea. El éxito de la propuesta pone de manifiesto que los científicos están 
+  		tomando conciencia de la situación. A pesar que saben que sus reivindicaciones son difícilmente viables, se plantean como 
+  		planes de acción la publicación de sus propias revistas.
+  	</para>
+  	<informalfigure xml:id="ch02b2" xreflabel="Fig 3">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-011.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Public Library of Science (PLoS)
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		En febrero de 2002 la Declaración de Budapest hace una propuesta muy clara el objetivo es la disposición libre y gratuita, 
+  		sin ningún tipo de restricción de los resultados de la investigación científica.
+  	</para>
+  </section>
+  <section xml:id="ch02c">
+    <title>Respaldo institucional</title>
+    <para>
+    	Uno de los grandes logros de movimiento para el libre acceso a las publicaciones científicas ha sido el firme apoyo 
+    	institucional recibido a través de organizaciones nacionales, supranacionales, así como de personalidades a título 
+    	individual. Además, se trata de una iniciativa organizada en la que están implicados tanto centros de investigación 
+    	(universidades, institutos, instituciones...) gestores de información (bibliotecas, centros de información...) como 
+    	los propios investigadores.
+    </para>
+    <para>
+    	La primera de las declaraciones es la conocida como Budapest Open Access Initiative <superscript><xref linkend="ch02n14" /></superscript>. 
+    	Se trata de una propuesta adoptada en una reunión realizada en Budapest por el Open Society Institute (OSI) del filántropo George Soros 
+    	en diciembre de 2001. El propósito de la reunión fue acelerar el esfuerzo internacional para conseguir el acceso libre en 
+    	Internet a los artículos de investigación en todos los campos académicos. Los participantes de la reunión representaban 
+    	muchos puntos de vista, múltiples disciplinas académicas, varias naciones, y además tenían experiencia con varias de las 
+    	iniciativas en el movimiento <emphasis>Open Access</emphasis>.
+    </para>
+    <para>
+    	La declaración aboga por la supresión de las barreras que limitan el acceso al fruto de los esfuerzos de la investigación 
+    	como un bien universal al que todos tienen derecho, proporcionando a su vez a los autores <quote>una nueva dimensión, una 
+    	nueva visibilidad, un nuevo impacto, y un público más amplio</quote>. Para ello, se hace un llamamiento público a todas 
+    	las instituciones e individuos que puedan posibilitar el acceso abierto al resto, especialmente cuando se trate de razones 
+    	económicas, considerando que el único límite a la distribución no es otro que el reconocimiento de los propios autores 
+    	como tales.
+    </para>
+    <para>
+    	En este documento se menciona por primera vez las dos grandes rutas para lograr el acceso abierto:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Publicar en Revistas de acceso abierto. A esta vía se le denomina <emphasis>Gold</emphasis> o dorada.
+    	</listitem>
+    	<listitem>
+    		Autoarchivo de documentos publicados o no en repositorio institucional o disciplinar, que podrán funcionar a través 
+    		de las posibilidades técnicas y sistemas normalizados (OAI-PHI) como un único archivo. A esta vía se la denomina 
+    		<emphasis>Green</emphasis> o verde.
+    	</listitem>
+    </itemizedlist>
+    <informalfigure xml:id="ch02c1" xreflabel="Fig 4">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-012.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Declaración Budapest (BOAI)
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<section xml:id="ch02c01">
+  		<title>Declaración de Bethesda</title>
+  		<para>
+  			La Declaración de Bethesda<superscript><xref linkend="ch02n15" /></superscript>. de abril de 2003 se hace en base a 
+  			la realizada en Budapest, pero en diferente forma. Aquélla no concretaba como deberían regularse los derechos de 
+  			autor en el marco del Acceso Abierto. Bethesda establece que el derecho de autor será garantizado bajo licencias. 
+  			Una licencia es un contrato que establece los términos y condiciones donde se describen los usos permitidos.
+  		</para>
+  		<para>
+  			Otra cuestión que destaca Bethesda es que los documentos deberán depositarse en repositorios bien establecidos; 
+  			es decir, que tengan un procedimiento normalizado, apartándose de la posibilidad que daba Budapest de estar 
+  			depositados en páginas personales o en archivos digitales, con lo que se compromete con el hecho de la interoperatividad 
+  			y la preservación a largo plazo.
+  		</para>
+  	</section>
+  	<section xml:id="ch02c02">
+  		<title>Declaración de Berlín</title>
+  		<para>
+  			Firmada en octubre de 2003 destaca porque incide en la necesidad de desarrollar una política de implicación de los 
+  			investigadores con el acceso abierto, tanto a través de requerimientos para que depositen una copia de todo aquello 
+  			que publiquen en un repositorio de acceso abierto, como con el compromiso de los investigadores para publicar sus 
+  			artículos en revistas de acceso abierto.
+  		</para>
+  		<para>
+  			La Declaración de Berlín<superscript><xref linkend="ch02n16" /></superscript>, juntamente con la de Budapest y 
+  			Betsheda —denominadas BBB— son las fundamentales y las que han tenido más influencia en la configuración y definición 
+  			del movimiento de Acceso Abierto
+  		</para>
+  	</section>
+  	<section xml:id="ch02c03">
+  		<title>Association of College and Research Libraries</title>
+  		<para>
+  			También es importante destacar la Iniciativa de la Association of College and Research Libraries (ACRL) para reformar 
+  			la comunicación científica<superscript><xref linkend="ch02n17" /></superscript> que considera que la mayor parte de la 
+  			investigación se está desarrollando con el apoyo fondos públicos y, por lo tanto, tiene que revertir como un bien 
+  			público en beneficio de la sociedad en general. El objetivo de la iniciativa es la creación de un sistema de 
+  			comunicación erudita que sea más receptivo a las necesidades de la comunidad científica y que refleje la naturaleza 
+  			del saber y de la investigación como un bien público.
+  		</para>
+  		<para>
+  			Para ello la ARL propone una serie de medidas:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				El más amplio acceso posible a la investigación publicada.
+  			</listitem>
+  			<listitem>
+  				El control cada vez más amplio del sistema de publicación científica por los propios científicos.
+  			</listitem>
+  			<listitem>
+  				Precios justos y razonables para la información científica.
+  			</listitem>
+  			<listitem>
+  				Una industria editorial diversificada.
+  			</listitem>
+  			<listitem>
+  				Acceso abierto al saber.
+  			</listitem>
+  			<listitem>
+  				Innovaciones en publicación que reduzcan costos de distribución, hagan más rápidos los canales de comunicación, 
+  				ampliando el acceso a la investigación científica.
+  			</listitem>
+  			<listitem>
+  				Uso justo de la información amparada por derechos de autor, para propósitos educativos y de investigación.
+  			</listitem>
+  			<listitem>
+  				Extensión de la información científica de dominio público.
+  			</listitem>
+  			<listitem>
+  				Preservación de la información erudita para uso futuro a largo plazo.
+  			</listitem>
+  			<listitem>
+  				El derecho a la privacidad en el uso de la información científica.
+  			</listitem>
+  		</itemizedlist>
+  	</section>
+  	<section xml:id="ch02c04">
+  		<title>Otras declaraciones</title>
+  		<para>
+  			La <citetitle>Declaración de Salvador sobre acceso abierto: la perspectiva del mundo en desarrollo</citetitle>
+  			<superscript><xref linkend="ch02n18" /></superscript> se firmó en Salvador de Bahía (Brasil) en septiembre 2005. 
+  			Es importante hacer mención a ésta porque se trata del punto de vista sobre el movimiento para el acceso abierto 
+  			de aquellos países que más dificultades tienen para el acceso a la investigación científica de calidad.
+  		</para>
+  		<para>
+  			Existen otras declaraciones institucionales sobre el acceso abierto, como son IFLA Statement on Open Access to 
+  			Scholarly Literature and Research Documentation, febrero 2004; UN World Summit on the Information Society Declaration 
+  			of Principles and Plan of Action, diciembre 2003, OECD Declaration on Access to Research Data From Public Funding, 
+  			enero, 2004; Washington D.C. Principles For Free Access to Science, Welcome Trust.
+  		</para>
+  	</section>
+  </section>
+  <section xml:id="ch02d">
+    <title>Respaldo jurídico</title>
+    <para>
+    	Según algunos autores como Bailey<superscript><xref linkend="ch02n19" /></superscript> no sería necesario efectuar 
+    	cambios en la ley de derechos de autor para eliminar las barreras de acceso y garantizar el derecho de los autores. 
+    	Para otros como Peter Suber el movimiento de Acceso Abierto debería desarrollarse en tres fases:
+    </para>
+    <orderedlist>
+    	<listitem>
+    		Eliminación de los <emphasis>royalties</emphasis> de producción científica.
+    	</listitem>
+    	<listitem>
+    		Reforma de la Ley de derechos de autor.
+    	</listitem>
+    	<listitem>
+    		Expansión al dominio público.
+    	</listitem>
+    </orderedlist>
+    <para>
+    	Las posibilidades que facilitan las tecnologías actuales han permitido el surgimiento de diferentes modalidades de 
+    	puesta a disposición de la información en acceso abierto a través de servicios en red. En este “maremagno” de información 
+    	que es Internet los derechos de propiedad de los diferentes autores que concurren en la realización de una obra quedan 
+    	diluidos en un laberinto de hiperenlaces<superscript><xref linkend="ch02n20" /></superscript>.
+    </para>
+    <para>
+    	Como premisa debemos precisar que los derechos de propiedad intelectual se estiman en dos grandes apartados: derechos 
+    	morales y derechos de explotación.
+    </para>
+    <section xml:id="c02d01">
+    	<title>Derechos morales</title>
+    	<para>
+    		Se trata de derechos inalienables, o sea que ningún caso se pueden transferir a un tercero, éstos son el derecho 
+    		que tiene todo autor a ser reconocido como tal y el derecho a la integridad de su obra. Éstos se concretarían en 
+    		los siguientes aspectos:
+    	</para>
+    	<itemizedlist>
+    		<listitem>
+    			Decidir si su obra ha de ser divulgada y en qué forma.
+    		</listitem>
+    		<listitem>
+    			Determinar si tal divulgación ha de hacerse con su nombre, bajo pseudónimo o signo, o anónimamente.
+    		</listitem>
+    		<listitem>
+    			Exigir el reconocimiento de su condición de autor de la obra.
+    		</listitem>
+    		<listitem>
+    			Exigir el respeto a la integridad de la obra e impedir cualquier deformación, modificación, alteración o 
+    			atentado contra ella que suponga perjuicio a sus legítimos intereses o menoscabo a su reputación.
+    		</listitem>
+    		<listitem>
+    			Modificar la obra respetando los derechos adquiridos por terceros y las exigencias de protección de bienes 
+    			de interés cultural.
+    		</listitem>
+    		<listitem>
+    			Retirar la obra del comercio, por cambio de sus convicciones intelectuales o morales, previa indemnización de 
+    			daños y perjuicios a los titulares de derechos de explotación. Si, posteriormente, el autor decide reemprender 
+    			la explotación de su obra deberá ofrecer preferentemente los correspondientes derechos al anterior titular de 
+    			los mismos y en condiciones razonablemente similares a las originarias.
+    		</listitem>
+    		<listitem>
+    			Acceder al ejemplar único o raro de la obra, cuando se halle en poder de otro, a fin de ejercitar el derecho 
+    			de divulgación o cualquier otro que le corresponda. Este derecho no permitirá exigir el desplazamiento de la 
+    			obra y el acceso a la misma se llevará a efecto en el lugar y forma que ocasionen menos incomodidades al poseedor, 
+    			al que se indemnizará, en su caso, por los daños y perjuicios que se le irroguen.
+    		</listitem>
+    	</itemizedlist>
+    </section>
+    <section xml:id="c02d01">
+    	<title>Derechos de explotación</title>
+    	<para>
+    		Es el derecho que tiene todo autor a que su obra sea reproducida, distribuida y comunicada públicamente. Éstos son 
+    		exclusivos y pueden ser cedidos a un tercero a cambio de un montante económico establecido de acuerdo con éste. Se 
+    		pueden transferir de varias formas: en conjunto, en parte, o en exclusiva, cuando todos los derechos de explotación 
+    		quedan en manos del editor.
+    	</para>
+    	<para>
+    		Lo que se está debatiendo cuando se platea la disyuntiva entre el acceso abierto a la información o el acceso 
+    		<emphasis>propietario</emphasis> como sucede hasta ahora, no deja de ser una discusión en torno a otra cuestión que 
+    		es la relativa al origen, desarrollo y defensa de la propiedad privada y, por extensión, del derecho de los autores 
+    		y distribuidores a ejercer control sobre sus obras.
+    	</para>
+    	<para>
+    		En cuanto a los aspectos relativos a la propiedad intelectual cuando hablamos de repositorios hay que considerar una 
+    		serie de cuestiones previas:
+    	</para>
+    	<itemizedlist>
+    		<listitem>
+    			El autor es quien deposita los documentos y es, en última instancia, el responsable de la vulneración de los 
+    			derechos de autor así como el garante de la titularidad e integridad del documento depositado.
+    		</listitem>
+    		<listitem>
+    			En el caso de artículos de revista, donde el autor no percibe unos derechos económicos por la explotación como 
+    			ocurre con las monografías, el aspecto fundamental es preservar los derechos morales de integridad y 
+    			reconocimiento de su obra.
+    		</listitem>
+    	</itemizedlist>
+    	<para>
+    		La cuestión más discutible es la cesión del derecho de comunicación pública de la obra, por lo tanto un autor, 
+    		cuando deposita una obra, debe conocer qué derechos tiene cedidos sobre la misma. Carbajo<superscript><xref linkend="ch02n21" /></superscript> 
+    		(2002) se pregunta si quien cedió en su momento los derechos de reproducción y distribución a una editorial para publicar (en 
+    		entorno impreso) su obra, podría ahora cederla sin permiso de la primera editorial a un tercero para ser distribuida 
+    		en línea o directamente colgarla él en Internet.
+    	</para>
+    	<para>
+    		También es discutible el que pueda ser depositado un documento con la maquetación o formato que le ha proporcionado 
+    		la revista, ya que los derechos del diseño son de la propia revista, y no son del autor.
+    	</para>
+    	<para>
+    		En cuanto a los repositorios disciplinares, la complejidad de la cuestión es mayor, ya que en muchos de los casos, 
+    		los servidores están en un país, los coordinadores en otro y quienes depositan pertenecen a distintos países con 
+    		regulaciones diferentes sobre propiedad intelectual.
+    	</para>
+	    <informalfigure xml:id="ch02d1" xreflabel="Fig 5">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="Images/INF-2-013.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				Propiedad Intelectual
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+	  	</informalfigure>
+	  	<para>
+	  		Detrás de todas estas propuestas de acceso abierto existe también un aspecto ideológico subyacente, que determina 
+	  		el concepto que una persona o entidad puede tener sobre que debe contemplar el acceso a la información.
+	  	</para>
+	  	<para>
+	  		En este sentido la Ley de Propiedad Intelectual española contiene un artículo específico dedicado a las publicaciones 
+	  		periódicas:
+	  	</para>
+	  	<blockquote>
+	  		<para>
+	  			Artículo 52. Transmisión de derechos para publicaciones periódicas.
+	  		</para>
+	  		<para>
+	  			Salvo estipulación en contrario, los autores de obras reproducidas en publicaciones periódicas conservan su 
+	  			derecho a explotarlas en cualquier forma que no perjudique la normal de la publicación en la que se hayan insertado.
+	  		</para>
+	  		<para>
+	  			El autor podrá disponer libremente de su obra, si ésta no se reprodujese en el plazo de un mes desde su envío o 
+	  			aceptación en las publicaciones diarias o en el de seis meses en las restantes, salvo pacto en contrario.
+	  		</para>
+	  	</blockquote>
+	  	<para>
+	  		Aunque el autor podrá explotar el trabajo publicado en una revista, por ejemplo depositándolo en un repositorio, 
+	  		todo queda sujeto a los acuerdos a que llegue con los editores de la revista. La ley habla de “salvo estipulación 
+	  		en contrario”; cabría preguntarse si el mero hecho de aceptar publicar un artículo en una revista supone la 
+	  		aceptación implícita de sus condiciones, más si no se ha firmado ningún contrato o transferencia de derechos de 
+	  		explotación –recordemos que la LPI exige que debe realizarse de forma expresa y por escrito (art. 45)–. De hecho, 
+	  		muchas revistas piden que los autores firmen un documento tipo que regula toda la cesión de derechos. Pero, ¿hasta 
+	  		qué punto perjudica la explotación normal de la revista más cuando ese artículo es una parte muy pequeña del conjunto 
+	  		de textos de la misma?
+	  	</para>
+	  	<para>
+	  		A este respecto, según un estudio desarrollado por Josep Vives<superscript><xref linkend="ch02n22" /></superscript> son 
+	  		muy pocos los autores que conocen cuáles son los derechos que tienen sobre su obra. Y por otro lado respecto a la 
+	  		información que proporcionan las propias revistas sobre el asunto -en nuestro país a diferencia del entorno europeo 
+	  		y norteamericanoson muy poco concretas respecto al tema de propiedad intelectual, dejando apenas esbozadas de 
+	  		manera muy genérica las condiciones en que publica un autor.
+	  	</para>
+	  	<para>
+	  		Sobre políticas de edición de las revistas científicas el Joint Information Systems Comité (JISC) ha desarrollado el 
+	  		proyecto ROMEO (Rights Metadata for Open Archiving) para investigar los aspectos legales que afectan al auto-archivo 
+	  		en la comunidad científica &lt;<link xl:href="http://www.lboro.ac.uk/departments/ls/disresearch/romeo" />&gt;. Así mismo 
+	  		dentro del marco del propio JISC existe SHERPA (Publisher Copyright Policies and Self-Archiving) en la Universidad de 
+	  		Nottingham, una base de datos con los detalles de las políticas de auto-archivo de los editores consultables por 
+	  		editoriales y revistas en &lt;<link xl:href="http://www.sherpa.ac.uk"/>&gt;.
+	  	</para>
+	    <informalfigure xml:id="ch02d2" xreflabel="Fig 6">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="Images/INF-2-014.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				SHERPA/RoMEO.
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+	  	</informalfigure>
+	  	<para>
+	  		Aunque el concepto de divulgación resulta útil para tutelar el interés de los autores a dar a conocer su obra en el 
+	  		momento que éstos deseen, su coexistencia con el de publicación no es fácil, ya que en la mayoría de los ordenamientos 
+	  		jurídicos de nuestro entorno, como el italiano y el francés, no se distingue entre ambas figuras -al contrario que en 
+	  		la ley alemana-, y que el concepto de publicación está ceñido al derecho moral del autor<superscript><xref linkend="ch02n23" /></superscript>. 
+	  		En España el concepto de divulgación engloba el de publicación.
+	  	</para>
+	  	<para>
+	  		Respecto a los <emphasis>preprint</emphasis> puede decirse que poner una obra a disposición del público en un sitio 
+	  		web supone una divulgación en la red, pero no es una publicación en su sentido jurídico.
+	  	</para>
+    </section>
+    <section xml:id="ch02d02">
+    	<title>Creative Commons</title>
+    	<para>
+    		Creative Commons ha desarrollado una serie de licencias que posibilitan que los propios autores retengan una serie de 
+    		derechos sobre su propio trabajo, tales como el derecho de copia, de uso público y distribución para uso con fines 
+    		de docencia e investigación. Creative Commons<superscript><xref linkend="ch02n24" /></superscript> (bienes “Comunes 
+    		Creativos”) es una Organización política No/Neo-Gubernamental (ONG), sin fines de lucro, que fue fundada y actualmente 
+    		es presidida por Lawrence Lessig, profesor de derecho en la Universidad de Stanford y especialista en ciberderechos. 
+    		Esta organización desarrolla planes para ayudar a reducir las barreras legales de la creatividad por medio de nueva 
+    		legislación y de las nuevas tecnologías.
+    	</para>
+    	<para>
+    		Creative Commons está inspirada en la licencia GPL (General Public License) de la Free Software Foundation. La idea 
+    		principal es posibilitar un modelo legal ayudado de herramientas informáticas para así facilitar la distribución y 
+    		el uso de contenidos para el dominio público.
+    	</para>
+    	<para>
+    		Ofrece una serie de licencias, cada una con diferentes configuraciones o principios como el derecho del autor 
+    		original a dar libertad para citar su obra, reproducirla, crear obras derivadas, ofrecerlo públicamente y con 
+    		diferentes restricciones como no permitir el uso comercial o respetar la autoría original.
+    	</para>
+    	<informalfigure xml:id="ch02d3" xreflabel="Fig 7">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="Images/INF-2-015.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				Licencia Creative Commons 2.5
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+	  	</informalfigure>
+	  	<para>
+	  		Una de las licencias ofrecidas por Creative Commons es la licencia que lleva por nombre “Developing Nations” 
+	  		(Naciones en Desarrollo). Esta licencia permite que los derechos de autor y regalías por las obras se cobren sólo 
+	  		en los países desarrollados del primer mundo, mientras que las mismas se ofrecen de forma abierta en los países 
+	  		en vías de desarrollo.
+	  	</para>
+	  	<para>
+	  		Aunque originalmente fueron redactadas en inglés, las licencias han sido adaptadas a varias legislaciones alrededor 
+	  		del mundo. Entre otros idiomas, han sido traducidas al castellano, al portugués y al catalán a través del proyecto 
+	  		International Commons. A nivel iberoamericano existen varios países que están involucrados en el proceso: Brasil, 
+	  		España, Chile y Argentina ya tienen las licencias traducidas y en funcionamiento. México, Colombia, Perú y Venezuel, 
+	  		entre muchos otros, se encuentran en proceso de traducción e implementación.
+	  	</para>
+    </section>
+  <section xml:id="ch02e">
+    <title>Objetivos del acceso abierto</title>
+    <para>
+    	El objetivo base del movimiento de acceso abierto es mejorar la comunicación científica y eliminar todo tipo de barreras 
+    	que impidan el acceso a la información, maximizando el acceso a la misma por medio del auto-archivo.
+    </para>
+    <para>
+    	A través del esquema de Steven Harnad<superscript><xref linkend="ch02n25" /></superscript> podemos ver cómo los resultados 
+    	e impacto de la investigación de los documentos en acceso abierto se maximizan, ya que en la edición tradicional hay una 
+    	limitación fundamental que es la barrera de acceso económico a través de suscripción a la publicación. Cuando el acceso 
+    	es limitado, el impacto es limitado. El acceso abierto incrementa el impacto debido a que un mayor número de científicos 
+    	pueden consultar el documento; siendo éste el argumento más persuasivo para comprometer a los autores con el acceso abierto. 
+    	De igual forma, los sistemas con acceso limitado afectan negativamente al impacto potencial de la obra. Esto ha sido 
+    	demostrado a través de numerosos estudios, proporcionando resultados variables dependiendo de las disciplinas y año con 
+    	datos que oscilan ente un 25 y un 250% de incremento de las citas recibidas<superscript><xref linkend="ch02n26" /></superscript>. 
+    	Un dato muy significativo es que los artículos de astrofísica depositados en Arxiv reciben el triple de citas que los de 
+    	la misma revista accesibles sólo a través de suscripción.
+    </para>
+    <informalfigure xml:id="ch02e1" xreflabel="Fig 8">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-016.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Esquema de Steven Harnad sobre el impacto de la investigación. 
+	  				Fuente: &lt;<xlink xl:href="http://users.ecs.soton.ac.uk/harnad/Temp/che.htm" />&gt;
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		Analizando estos datos podríamos preguntarnos a qué es debido esta ventaja. En principio, a que los artículos están 
+  		disponibles libremente; pero también hay otras cuestiones a tener en cuenta; como que el artículo es accesible antes 
+  		(<emphasis>preprint</emphasis>); pero también porque estos artículos depositados son indexados por varios servicios 
+  		de alerta y recuperación de información que proporcionan mayor visibilidad al documento (OAIster, Google Scholar, 
+  		CiteSeer...). Además también se da una cuestión de carácter psicológico, que es que el autor deposita aquellos artículos 
+  		que considera que tienen un cierto nivel de calidad, es decir, se da una selección positiva por parte del autor.
+  	</para>
+  	<para>
+  		Otra ventaja que proporciona el formato electrónico es la posibilidad de medir el número de usuarios que han descargado 
+  		el documento, que podría ser considerado un indicador de la importancia del artículo; más aún si se analiza la correlación 
+  		existente entre el número de descargas y las citas que recibe el artículo. A este respecto se han realizado varios 
+  		estudios que valoran la potencialidad de las descargas en relación a las citas que recibirá el artículo, que se estiman 
+  		entre el 054 y el 011%<superscript><xref linkend="ch02n27" /></superscript>.
+  	</para>
+  	<para>
+  		El libre acceso proporciona unas ventajas que se pueden concretar en su aspecto económico, científico y de servicios 
+  		de valor añadido para el autor:
+  	</para>
+  	<itemizedlist>
+  		<listitem>Económicas
+  			<itemizedlist>
+  				<listitem>
+  					La investigación es igualmente accesible a todos los científicos.
+  				</listitem>
+  				<listitem>
+  					Su creación tiene bajo costo y unos resultados rápidamente visibles
+  				</listitem>
+  			</itemizedlist>
+  		</listitem>
+  		<listitem>Visibilidad máxima - impacto máximo
+  			<itemizedlist>
+  				<listitem>
+  					Alta posibilidad de ser visto, leido y citado
+  				</listitem>
+  				<listitem>
+  					Crean un recurso de la calidad (metadatos) que asegura la recuperación eficaz y eficiente de la información.
+  				</listitem>
+  			</itemizedlist>
+  		</listitem>
+  		<listitem>Rapidez
+  			<itemizedlist>
+  				<listitem>
+  					Sistema en línea para entrega, arbitraje y publicación.
+  				</listitem>
+  				<listitem>
+  					Más rápido y directo acceso a los resultados de la investigación.
+  				</listitem>
+  			</itemizedlist>
+  		</listitem>
+  		<listitem>Servicios de valor añadido
+  			<itemizedlist>
+  				<listitem>
+  					Consulta y navegación
+  				</listitem>
+  				<listitem>
+  					Acceso al texto completo.
+  				</listitem>
+  				<listitem>
+  					Servicio de Alerta en línea.
+  				</listitem>
+  				<listitem>
+  					Estadísticas de consultas y descargas.
+  				</listitem>
+  				<listitem>
+  					Elaboración del Curriculum Vitae.
+  				</listitem>
+  			</itemizedlist>
+  		</listitem>
+  	</itemizedlist>
+  	<para>
+  		El propósito del acceso abierto es proporcionar una alternativa viable que aprovechando al máximo las tecnologías de la 
+  		información amplía la capacidad de distribución y reduce los costes con el fin de proporcionar un más amplio y fácil 
+  		acceso a los resultados de la investigación.
+  	</para>
+  	<para>
+  		¿Cual sería el papel de la biblioteca en el Archivo abierto?
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			Contribuir a la gestión de la producción científica
+  		</listitem>
+  		<listitem>
+  			Planificación, organización y mantenimiento del repositorio
+  		</listitem>
+  		<listitem>
+  			Agilizar la comunicación científica
+  		</listitem>
+  		<listitem>
+  			Creación de nuevos servicios
+  		</listitem>
+  		<listitem>
+  			Servicios de difusión y alerta
+  		</listitem>
+  		<listitem>
+  			Promoción del acceso abierto
+  		</listitem>
+  		<listitem>
+  			Ofrecer soporte a través de la biblioteca para ayudar a los autores a autoarchivar sus trabajos
+  		</listitem>
+  		<listitem>
+  			Contribuir a facilitar el cambio en la organización
+  		</listitem>
+  		<listitem>
+  			Posibilitar y gestionar el cambio es un factor crítico para ser considerada una parte integral de la institución
+  		</listitem>
+  	</itemizedlist>
+  </section>
+  <section xml:id="ch02f">
+    <title>Notas del capítulo 2</title>
+    <bibliolist>
+    	<bibliomixed xml:id="ch02n11" xreflabel="11">
+  			<bibliomset relation="article">
+  				Bailey, Charles W. Jr.
+  				<title role="article">What Is Open Access?</title> 
+  				en <citetitle pubwork="book">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle>
+  				<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>. 
+  				URL: <link xl:href="http://www.digital-scholarship.com/cwb/WhatIsOA.pdf" />.
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch02n12" xreflabel="12">
+  			Op. Cit Guédon, Jean-Claude (2006)
+  		</bibliomixed>
+    	<bibliomixed xml:id="ch02n13" xreflabel="13">
+    		<bibliomset relation="article">
+    			Suber, Peter.
+    			<title role="article">Una introducción al acceso abierto</title>
+    			en <citetitle>Edición electrónica, bibliotecas virtuales y portales para las ciencias sociales en América Latina y El Caribe Edición electrónica, bibliotecas virtuales y portales para las ciencias sociales en América Latina y El Caribe</citetitle>
+    			<volumenum>vol. 2006</volumenum>. URL: <link xl:href="http://bibliotecavirtual.clacso.org.ar/ar/libros/secret/babini/Peter%20Suber.pdf" />.
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n14" xreflabel="14">
+    		<bibliomset relation="book">
+    			<title role="book">Budapest Open Access Initiative</title>
+    			URL: <link xl:href="http://bibliotecnica.upc.es/Rebiun/BOAI.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n15" xreflabel="15">
+    		<bibliomset relation="book">
+    			<title role="book">Declaración de Bethesda sobre Publicación de Acceso Abierto</title>
+    			<pubdate>Publicada el 20 de Junio de 2003</pubdate>.
+    			URL: <link xl:href="http://ictlogy.net/articles/bethesda_es.html" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n16" xreflabel="16">
+    		<bibliomset relation="book">
+    			<title role="book">Declaración de Berlín sobre acceso abierto</title>
+    			URL: <link xl:href="http://www.geotropico.org/Berlin-I-2.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n17" xreflabel="17">
+    		<bibliomset relation="article">
+    			<title role="article">Iniciativa ACRL para reformar la comunicación erudita</title>
+    			URL: <link xl:href="http://www.geotropico.org/ACRL-I-2.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n18" xreflabel="18">
+    		<bibliomset relation="article">
+    			<title role="article">Declaración de Salvador sobre acceso abierto: la perspectiva del mundo en desarrollo.</title>
+    			en <citetitle>Edición electrónica, bibliotecas virtuales y portales para las ciencias sociales en América Latina y El Caribe Edición electrónica, bibliotecas virtuales y portales para las ciencias sociales en América Latina y El Caribe</citetitle>
+    			<volumenum>vol. 2006</volumenum>. URL: <link xl:href="http://bibliotecavirtual.clacso.org.ar/ar/libros/secret/babini/Decla%20Salvador.pdf" />.
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n19" xreflabel="19">
+  			Bailey, op. cit.
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch02n20" xreflabel="20">
+  			<bibliomset relation="talk">
+  				Cordón García, José Antonio.
+  				<title role="talk">De la Enciclopedia al Hipertexto</title>
+  				en <citetitle>Encontro Das Bibliotecas Do Ensino Superior</citetitle>.
+  				1º <pubdate>2003</pubdate>, Lisboa
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch02n21" xreflabel="21">
+  			<bibliomset relation="book">
+  				Carbajo Cascón, Fernando.
+  				<title role="book">Publicaciones electrónicas y propiedad intelectual.</title>
+  				<publisher><address><city>Madrid</city></address>: <publishername>Colex</publishername></publisher>, <pubdate>2002</pubdate>.
+  				<biblioid class="isbn">84-7879-724-9.</biblioid>
+  				<phrase>Carbajo lo ejemplifica con la llamada sentencia del Caso Bayer, en referencia al pleito que una editorial emprendió contra Konrad Bayer porque éste había publicado en su web una versión electrónica de sus obras completas de las que previamente había cedido el de- recho para su publicación en papel a la editorial. El tribunal dio la razón a Bayer, al entender que los derechos cedidos a la edito- rial eran solamente los de reproducción y distribución pero no los de comunicación pública (que son los que se refieren a poner a disposición del público obras en internet).</phrase>
+  			</bibliomset>
+  		</bibliomixed>
+  		<bibliomixed xml:id="ch02n22" xreflabel="22">
+    		<bibliomset relation="article">
+    			Vives i García, Josep
+    			<title role="article">Aspectos de propiedad intelectual en la creación y gestión de repositorios institucionales.</title>
+    			en <citetitle>El profesional de la información.</citetitle>
+    			<volumenum>vol. 14</volumenum>, <issuenum>n. 4</issuenum>, <pubdate>2005</pubdate>, <pagenums>267-278</pagenums>. 
+    			URL: <link xl:href="http://ejournals.ebsco.com/Journal2.asp?JournalID=105302" />.
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n23" xreflabel="23">
+    		<bibliomset relation="book">
+    			Garrote Ferenandez-Díez, Ignacio
+    			<title role="book">El derecho de autor en Internet: la directiva sobre derechos de autor y derechos afines en la sociedad de la información.</title>
+    			<publisher><address><city>Granada</city></address>: <publishername>Comares</publishername></publisher>, <pubdate>2001</pubdate>.
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n24" xreflabel="24">
+    		<phrase>Definición extraída de la página web: La enciclopedia libre: WIKIPEDIA</phrase>
+    		URL:<link xl:href="http://es.wikipedia.org/wiki/Creative_Commons" /> <date>[Consultado 08.12.2005]</date> 
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n25" xreflabel="25">
+    		<bibliomset relation="preprint">
+    			Harnad, Stevan
+    			<title role="preprint">Maximizing university research impact through self-archiving</title>
+    			<pubdate>(2003)</pubdate>. URL: <link xl:href="http://users.ecs.soton.ac.uk/ harnad/Temp/che.htm" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch02n26" xreflabel="26">
+    		<bibliomset relation="article">
+    			Hajjem, C., Harnad, S., and Gingras, Y.
+    			<title role="article">Ten-Year Cross-Disciplinary Comparison of the Growth of Open Access and How it Increases Research Citation Impact.</title>
+    			en <citetitle pubwork="journal">IEEE Data Engineering Bulletin.</citetitle>
+    			<volumenum>vol. 28</volumenum>, <issuenum>n. 4</issuenum> <pubdate>(2005)</pubdate>.
+    			URL: <link xl:href="http://eprints.ecs.soton.ac.uk/ 11688/01/ArticleIEEE.pdf" /> <date>[Consultado el 14 de abril de 2008]</date>
+    		</bibliomset>
+    	</bibliomixed>
+		<bibliomixed xml:id="ch02n27" xreflabel="27">
+  			Brody, Tim. Op. Cit (2006).
+  		</bibliomixed>
+    </bibliolist>
+  </section>
+</chapter>
