@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch04"
+	lang="es" version="5.0"
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Repositorios, recolectores y servicios</title>
+
+  <section xml:id="ch04a">
+    <title>¿Qué es un repositorio?</title>
+    <para>
+    	Una definición que podría darnos un buen punto de partida es la aportada por Lynch, cuando dice que un repositorio institucional 
+    	es un reconocimiento de la vida intelectual y académica de nuestras universidades, que permite que ésta sea representada 
+    	documentalmente y difundida en formato digital, siendo responsabilidad última de la institución hacerlo disponible y 
+    	preservarlo<superscript><xref linkend="ch04n39" /></superscript>.
+    </para>
+    <para>
+    	El término repositorio procede del latín <emphasis xml:lang="lat">Repositorium</emphasis> que significa <emphasis>armario</emphasis>. 
+    	El diccionario de la Real Academia Española lo define como el <emphasis>lugar donde se guarda algo</emphasis>; su aplicación al léxico 
+    	de la información procede, como tantos otros de este campo, del inglés <emphasis xml:lang="en">repository</emphasis> que designa a un 
+    	depósito o archivo centralizado donde se almacena y mantiene información digital.
+    </para>
+    <para>
+    	La palabra <emphasis>repositorio</emphasis> también utilizada para referirse a archivos abiertos, entraña la característica de conservación 
+    	a largo plazo; en el caso de un archivo institucional, de su propio patrimonio investigador y, cuando se trata de un repositorio disciplinar, 
+    	de la documentación accesible en red en un dominio determinado frente a la inestabilidad de los documentos en este 
+    	medio<superscript><xref linkend="ch04n40" /></superscript>..
+    </para>
+    <para>
+    	Un archivo abierto no es simplemente un repositorio donde se depositan de manera arbitraria documentos, sino que obedece a una política 
+    	preestablecida que indica cómo hacerlo y en qué condiciones. Un repositorio es una colección de objetos digitales basada en la Web, de 
+    	material académico producido por los miembros de una institución (o varias), con una política definida, cuyas características más 
+    	importantes son:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Auto-archivo. El contenido es depositado por el creador, propietario o una tercera parte en su nombre (editor).
+    	</listitem>
+    	<listitem>
+    		Interoperabilidad. Uso de procesos normalizados que posibilitarían la interconexión con otros archivos abiertos (Metadata Open Archives Initiative 
+    		– Protocol Metadata Harvesting OAI- PMH).
+    	</listitem>
+    	<listitem>
+    		Libre accesibilidad
+    	</listitem>
+    	<listitem>
+    		Preservación a largo plazo
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	Cuando se habla de archivos abiertos es práctica común considerar que el adjetivo <emphassis>abierto</emphasis> se refiere al acceso, 
+    	y aunque los archivos abiertos son de acceso libre, la calificación de abierto se refiere a la arquitectura informática del mismo, que 
+    	frente a la concepción distribuida de la WWW, presenta una arquitectura caracterizada por proveedores de datos y proveedores de servicios.
+    </para>
+    <para>	
+		Existen dos tipos de archivos abiertos:
+    </para>
+    <orderedlist>
+    	<itemizedlist>
+    		Archivos institucionales. Son los creados por las propias organizaciones para depositar, usar y conservar la producción científica que 
+    		generan sus investigadores, y que ésta esté disponible para el resto de la sociedad, considerando que el conocimiento es un activo más 
+    		de la organización que debe repercutir en su beneficio.
+    	</itemizedlist>
+    	<itemizedlist>
+    		Archivos disciplinares. Son los creados por grupos de investigadores y gestores de información en un ámbito del conocimiento para 
+    		mejorar el sistema de comunicación científica.
+    	</itemizedlist>
+    </orderedlist>
+    <para>
+    	Frecuentemente se plantea si es mejor depositar en un repositorio institucional o uno disciplinar. Hay que decir al respecto que no es 
+    	excluyente el que el documento se deposite en uno u otro, o en ambos a la vez; es perfectamente factible que el autor deposite el 
+    	documento en su página personal, también en el archivo de su institución y en un repositorio temático.
+    </para>
+    <para>
+    	Las ventajas y desventajas de depositar en uno u otro tipo de repositorio vienen dadas por:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		La página personal:
+    		<itemizedlist>
+    			<listitem>
+    				Formatos: html, pdf, Word
+    			</listitem>
+    			<listitem>
+    				No contiene metadatos
+    			</listitem>
+    			<listitem>
+    				Sin capacidad de búsqueda y recuperación
+    			</listitem>
+    			<listitem>
+    				Escasa visibilidad
+    			</listitem>
+    			<listitem>
+    				Estabilidad variable
+    			</listitem>
+    			<listitem>
+    				Permanencia no asegurada
+    			</listitem>
+    		</itemizedlist>
+    	</listitem>
+    	<listitem>
+    		Repertorio temático
+    		<itemizedlist>
+    			<listitem>
+    				Formatos: variados
+    			</listitem>
+    			<listitem>
+    				Contiene metadatos
+    			</listitem>
+    			<listitem>
+    				Capacidad de búsqueda
+    			</listitem>
+    			<listitem>
+    				Exportación de metadatos por recolectores
+    			</listitem>
+    			<listitem>
+    				Estabilidad garantizada (Asociación)
+    			</listitem>
+    		</itemizedlist>
+    	</listitem>
+    	<listitem>
+    		Repositorios institucionales
+    		<itemizedlist>
+    			<listitem>
+    				Formatos: variados
+    			</listitem>
+    			<listitem>
+    				Contiene metadatos
+    			</listitem>
+    			<listitem>
+    				Capacidad de búsqueda
+    			</listitem>
+    			<listitem>
+    				Exportación de metadatos por recolectores
+    			</listitem>
+    			<listitem>
+    				Estabilidad alta (Institución)
+    			</listitem>
+    			<listitem>
+    				Preservación de la memoria institucional
+    			</listitem>
+    		</itemizedlist>
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	El objetivo de la implementación de un repositorio en una institución es poner a disposición de la sociedad y del resto de investigadores 
+    	toda la producción científica generada por la institución y hacer que ese contenido sea fácilmente recuperable y disponible en beneficio 
+    	de la organización y del resto de la sociedad.
+    </para>
+    <para>
+    	Un repositorio institucional no solamente va a incluir artículos de revistas, también es importante que integre documentos institucionales 
+    	y patrimoniales de la entidad; así como un importante elemento para la cooperación en el aprendizaje, puede incluir distintos 
+    	usos<superscript><xref linkend="ch04n41" /></superscript>:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Comunicación científica
+    	</listitem>
+    	<listitem>
+    		Educación y enseñanza
+    	</listitem>
+    	<listitem>
+    		Preservación digital a largo plazo
+    	</listitem>
+    	<listitem>
+    		Prestigio institucional
+    	</listitem>
+    	<listitem>
+    		Gestión del conocimiento
+    	</listitem>
+    	<listitem>
+    		Evaluación investigadora
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	Es conveniente recordar que el repositorio no es una alternativa a las revistas; simplemente es una herramienta que contribuye a favorecer la 
+    	visibilidad de la entidad y de sus investigadores; ya que este contenido –sus metadatos– son recogidos por recolectores generales y 
+    	especializados que contribuirán decisivamente a su difusión.
+    </para>
+    <para>
+    	El repositorio supone una ventaja competitiva para la propia organización que proporciona un valor añadido, que es el acceso libre a su producción 
+    	científica, a la vez que incrementa la visibilidad y el impacto propio y de sus investigadores llegando a ser en palabras de Kircz 
+    	<quote>el metabolismo central del conocimiento</quote><superscript><xref linkend="ch04n42" /></superscript>.
+    </para>
+    <para>
+    	El coste económico del diseño y puesta en marcha del repositorio institucional depende en muy buena medida de las infraestructuras y 
+    	recursos humanos disponibles en la propia universidad, que puede aprovechar los existentes; a pesar de todo, se trata de un coste mínimo 
+    	respeto al presupuesto general de la entidad. Otras prácticas, como crear una revista de acceso abierto, convertir las existentes o aportar 
+    	financiación para la publicación en abierto en general son mucho más complejas y caras que implementar un repositorio.
+    </para>
+    <para>
+    	En un archivo abierto el autor conserva los derechos de propiedad e integridad de la obra, y es el responsable único de su vulneración; además, 
+    	conserva la capacidad para decidir si conserva o retira la obra del mismo, siempre que no se trate de un archivo institucional y la propia 
+    	entidad le obligue a mantenerla.
+    </para>
+    <para>
+    	Existen estudios que sitúan en torno a un 14% los enlaces y documentos que perduran en internet. Un archivo abierto es una herramienta para la 
+    	preservación digital; buena prueba de ello es que los aproximadamente 1,25 millones de documentos depositados durante los últimos quince años 
+    	siguen estando en sus enlaces iniciales.
+    </para>
+    <para>
+    	En conclusión, la implementación de un repositorio en una institución tiene un coste relativamente bajo, ya que se puede implementar con un 
+    	programa de código abierto cuyo desarrollo ya tiene un nivel de madurez suficientemente alto, su mantenimiento va a requerir una parte del 
+    	tiempo de un empleado, y los beneficios para la institución son altos ya que mejoran la visibilidad de la institución y el impacto de los 
+    	artículos de sus investigadores y, por lo tanto, de la propia institución.
+    </para>
+    <informalfigure xml:id="ch04a1" xreflabel="Fig 14">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-022.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Arquitectura OAI-PMH. Fuente: OAI for Beginners: <link xl:href="http://www.oaforum.org" />
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+  <section xml:id="ch04b">
+    <title>Auto-archivo de documentos</title>
+    <para>
+    	Se denomina auto-archivo al proceso de depósito de los documentos en un repositorio por parte de sus autores para facilitar su acceso libre 
+    	y gratuito en Internet. Se trata de la segunda vía para conseguir el acceso abierto o ruta verde.
+    </para>
+    <para>
+    	El proceso de auto-archivo conlleva el registro del autor en el propio repositorio, con lo cual se le otorgará un espacio propio desde el 
+    	cual puede incorporar sus documentos. El procedimiento es muy sencillo y además suele contar con tutoriales de apoyo, que facilitan el 
+    	procedimiento: el requisito previo es que deberá asegurarse que se conoce la situación de los derechos de autor en la que su documento fue 
+    	publicado; después introducirá los metadatos requeridos a través de formularios, y finalmente depositará el documento, que quedará en una 
+    	zona no visible al usuario externo pendiente de la aceptación por parte de los gestores del repositorio, llamados editores, que una vez 
+    	aceptado y revisados los metadatos podrá visualizarse públicamente. El repositorio E-LIS dispone de un tutorial en Flash que puede ser muy 
+    	útil para aprender este proceso &lt;<link xl:href="http://elisdocs.rclis.org//Subsmission_gif.html" />&gt;.
+    </para>
+    <para>
+    	La versión digital de un documento de investigación se denomina <emphasis xml:lang="en">e-print</emphasis>. Por lo general se trata de un 
+    	artículo de revista, pero también podría ser una tesis, conferencias, el capítulo de un libro o una monografía, que es accesible en línea 
+    	en un repositorio. Se pueden archivar los documentos como <emphasis xml:lang="en">preprint</emphasis> y <emphasis xml:lang="en">postprint</emphasis>. 
+    	Un <emphasis xml:lang="en">preprint</emphasis> es el texto de un documento antes de que haya sido sometido a revisión por pares o publicado 
+    	por una revista.
+    </para>
+    <para>
+    	<emphasis xml:lang="en">Postprint</emphasis> es la versión final de un artículo; es decir, un texto después de haber sido publicado y, por tanto, 
+    	sometido a una revisión por pares y seguido de todo el proceso editorial. Se trata de una actualización del <emphasis xml:lang="en">preprint</emphasis> 
+    	que refleja algunos cambios hechos durante la revisión y el proceso editorial.
+    </para>
+    <para>
+    	El intercambio de <emphasis xml:lang="en">preprints</emphasis> entre los investigadores en el área científica fue una política común anterior a 
+    	la web, sobre todo en el ámbito científico-técnico. Al principio se hizo mediante el correo postal, y posteriormente, en la era Internet, se 
+    	utilizó el correo electrónico y el servicio FTP. La llegada de los repositorios supone un salto cualitativo en esta práctica, ya que los documentos 
+    	se intercambian, se almacenan, se organizan y se disponen para el intercambio y difusión entre los miembros de toda una comunidad científica.
+    </para>
+    <para>
+    	En general, los repositorios no establecen un sistema de control de la calidad como es la revisión por pares de las revistas, pero algunos de 
+    	ellos sí limitan el depósito en función de un mínimo nivel de calidad, sobre todo de los documentos que no han sido revisados 
+    	(<emphasis xml:lang="en">preprints</emphasis>).
+    </para>
+    <para>
+    	Casi todos los archivos abiertos proporcionan por defecto libre acceso a los documentos; pero en algunos casos, debido a posibles períodos 
+    	de embargo, es posible restringir el nivel de acceso a los mismos. A su vez, los autores pueden depositar un <emphasis xml:lang="en">postprint</emphasis> 
+    	cuando previamente han retenido el derecho de comunicación pública de la obra, porque sólo transfieren algunos derechos de los denominados 
+    	exclusivos a los editores; o cuando, a pesar de haber transmitido todos los derechos los editores, los editores permiten a los autores 
+    	distribuir <emphasis xml:lang="en">preprints</emphasis> bajo determinadas condiciones.
+    </para>
+    <para>
+    	No son muchos los autores que saben en qué condiciones han publicado sus trabajos y desconocen qué derechos tienen sobre ellos; consecuentemente, 
+    	una de las cuestiones que habitualmente se hacen los autores que desean auto-archivar sus documentos en un repositorio es si están autorizados a 
+    	hacerlo. Para conocer las condiciones en que publicaron pueden consultar el proyecto Sherpa/Romeo, base de datos pública de editores y políticas 
+    	de auto-archivo. Algunas universidades como la Universidad de Queensland (Australia), para favorecer la política de auto-archivo de sus 
+    	investigadores, les recomiendan que ellos únicamente se preocupen de depositar el documento, y que las cuestiones de permisos las gestione el 
+    	propio repositorio, de manera que una vez evaluado le comunican si el documento va a estar en acceso libre o restringido.
+    </para>
+    <informalfigure xml:id="ch04b1" xreflabel="Fig 15">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-023.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				ROARMAP (Registry of Open Access Repository Material Archiving Policies).
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		Pero incluso para aquellos casos en los que no se permita el auto-archivo (actualmente sólo un 7%) se recomienda que deberían ser depositados en 
+  		repositorios, aunque el acceso al texto completo sea restringido, de manera que al menos los metadatos serían visibles, y podrían ser recuperados 
+  		incluyendo la dirección de correo electrónico del autor para poder solicitar una copia privada para usos de investigación y docencia. Ya que 
+  		auto-archivar es producir vías de acceso al propio producto<superscript><xref linkend="ch04n43" /></superscript>.
+  	</para>
+  	<para>
+  		Algunas instituciones han establecido un mandato de auto-archivo como Queensland University of Technology<superscript><xref linkend="ch04n44" /></superscript>  
+  		(Australia), Universidade do Minho<superscript><xref linkend="ch04n45" /></superscript>  (Portugal), UK Research Council (RCUK) y CERN (Suiza). 
+  		Es decir, es obligatorio depositar una copia del artículo revisado en el repositorio de la institución que ha patrocinado o financiado esa investigación. 
+  		Podemos ver un registro de estas políticas en ROARMAP (Registry of Open Access Repository Material Archiving Policies<superscript><xref linkend="ch04n46" /></superscript>) 
+  		que es un registro sobre políticas institucionales de auto-archivo clasificadas por países.
+  	</para>
+  	<para>
+  		El mandato, a pesar de las dificultades que entraña, es un método eficiente para lograr el acceso abierto, ya que aquellas instituciones que lo 
+  		han puesto en marcha han logrado compilar alrededor del 90% de la producción científica. Como podemos apreciar, las implicaciones de establecer 
+  		un mandato de auto-archivo son claras en cuanto al porcentaje de lo recopilado, ya que una institución que invierte su dinero, tiempo y energía 
+  		en financiar la investigación e implementar un repositorio es la primera en tener un interés de cubrir la mayoría de su producción científica. 
+  		Si echamos un vistazo al Registro de Repositorios en Acceso Abierto, podemos ver claramente cómo una buena mayoría de ellos apenas llega al millar 
+  		de documentos depositados, algunos con varios años de funcionamiento.
+  	</para>
+  	<para>
+  		Todos los organismos financiados con fondos públicos deberían tener su propio repositorio institucional y una política encaminada a la promoción 
+  		de la práctica del auto-archivo entre sus investigadores. Existen diversas acciones para promover el auto-archivo, como pueden ser actividades 
+  		de formación y marketing para dar a conocer los beneficios que reporta el acceso abierto. En algunos casos las propias instituciones sirven de 
+  		soporte inicial a los autores para que depositen sus documentos, de manera que puedan convencerse de la facilidad y poca inversión de tiempo que 
+  		conlleva, siendo en muchos de los casos los propios investigadores los principales impulsores del proceso entre sus colegas.
+  	</para>
+  	<para>
+  		Muchas instituciones han comenzado con una colección inicial de documentos de los que generalmente poseen los derechos de autor, tales como tesis, 
+  		revistas e informes técnicos de manera que puedan disponer de salida de una mínima masa crítica de documentos con la que promocionar el repositorio.
+  	</para>
+  	<para>
+  		Existen otras formas de persuasión, la principal es el incremento exponencial de la visibilidad, ya que el número de descargas del documento tiene 
+  		una traducción en el número de citas que recibirá en el futuro ese documento. Por lo tanto, los autores deben aprovechar la oportunidad que les 
+  		ofrece el entorno digital, ya que los documentos depositados en un archivo abierto serán visibles en Google Scholar y todos los recolectores de 
+  		metadatos que utilizan el protocolo OAI.
+  	</para>
+  	<para>
+  		Google Scholar busca los artículos y los ordena en función de las citas recibidas, haciendo lo posible por encontrar los artículos citados. Hasta 
+  		hace bien poco esta posibilidad sólo podía obtenerse a través de servicio comerciales como ISI Web of Science. Actualmente, este servicio de Google 
+  		extrae esta información de manera automática de los artículos libremente disponibles en Internet, y posibilita un servicio similar al ofrecido por 
+  		ISI gratis para todos. Un problema adicional es que editores como Elsevier que controlan aproximadamente el 20% de la información científica no 
+  		permite que estos artículos sean indexados por Google<superscript><xref linkend="ch04n47" /></superscript>.
+  	</para>
+  	<para>
+  		Es importante matizar que depositar es comunicar públicamente, no es publicar, el acceso abierto es un suplemento no una sustitución de la edición.
+  	</para>
+  </section>
+  <section xml:id="ch04c">
+    <title>Aspectos técnicos de los repositorios</title>
+    <para>
+    	Desde sus primeros momentos de desarrollo, Internet sirve de soporte a la comunicación científica, como un medio eficiente para el intercambio de 
+    	documentos e información entre autores, a través del correo electrónico y del servicio FTP; pero será la creación de ArXiv la que proporcione una 
+    	herramienta que hace posible que los documentos sean depositados, organizados y recuperados en beneficio de una amplia comunidad de usuarios. Su 
+    	éxito sirve de ejemplo para el desarrollo de iniciativas similares en otros campos (CogPrints, RePec, NDLTD) que proporcionarán una base para el 
+    	desarrollo de repositorios a nivel mundial y la concreción de unos principios organizativos tendentes a facilitar la interoperatividad entre los 
+    	distintos depósitos de <emphasis xml:lang="en">e-prints</emphasis>.
+    </para>
+    <section xml:id="ch04c1">
+    	<title>Protocolo OAI-PMH</title>
+    	<para>
+    		La reunión celebrada en Santa Fe en 1999 se convocó con la idea de que la interoperabilidad de los archivos de <emphasis xml:lang="en">e-prints</emphasis> 
+    		era clave para aumentar su impacto entre la comunidad académica. A partir de aquí, se establece la Open Archives Iniative, organización que 
+    		tiene como objetivo el desarrollo y promoción de estándares de interoperabilidad para facilitar la difusión eficiente de contenidos en Internet, 
+    		en definitiva, para incrementar la visibilidad y disponibilidad de las publicaciones científicas. El resultado de la reunión fue un conjunto de 
+    		acuerdos técnicos y organizativos conocidos como la Convención de Santa Fe<superscript><xref linkend="ch04n48" /></superscript>. Los aspectos 
+    		técnicos incluían tres puntos fundamentales:
+    	</para>
+    	<itemizedlist>
+    		<listitem>
+    			un formato para los metadatos
+    		</listitem>
+    		<listitem>
+    			un protocolo
+    		</listitem>
+    		<listitem>
+    			un sistema de identificación
+    		</listitem>
+    	</itemizedlist>
+    	<para>
+    		Los participantes establecieron que una solución minimalista era imprescindible si se quería alcanzar una amplia adopción entre la comunidad de 
+    		proveedores de <emphasis xml:lang="en">e-prints</emphasis>. La solución adoptada fue establecer un sistema basado en la recolección de metadatos 
+    		(<emphasis xml:lang="en">metadata harvesting</emphasis>).
+    	</para>
+    	<para>
+    		Las especificaciones revisadas fueron hechas públicas en Enero de 2001, con la publicación del Open Archives Initiative – Protocol for Metadata 
+    		Harvesting (OAI-PMH) versión 1.0 <superscript><xref linkend="ch04n49" /></superscript>. La versión OAI-PMH 2 del protocolo aparece en Junio de 
+    		2002<superscript><xref linkend="ch04n50" /></superscript>.
+    	</para>
+    	<para>
+    		Desde ese momento, la implementación del protocolo comenzó, y aparecieron las primeras instituciones que lo utilizaron para hacer disponible a 
+    		través de Internet sus metadatos. Igualmente han aparecido toda una serie de herramientas de software destinadas a facilitar la creación y 
+    		mantenimiento de repositorios.
+    	</para>
+    	<para>
+    		OAI-PMH es un protocolo para la definición e intercambio de metadatos de un archivo. En la práctica esto implica que los archivos que cumplen 
+    		con la normativa OAI y se inscriben en un registro central pueden ser tratados como un único y gran archivo virtual con propósitos de búsqueda. 
+    		A partir de este desarrollo se pueden federar varios archivos, intercambiar registros o realizar búsquedas en disciplinas relacionadas al mismo 
+    		tiempo, así como implementar nuevos servicios.
+    	</para>
+    	<para>
+    		El mecanismo consiste en la posibilidad de recolectar metadatos de diferentes proveedores de manera que puedan compilarse tanto en un archivo 
+    		central como en varios archivos temáticos o regionales y puedan ser consultados de manera independiente.
+    	</para>
+    	<para>
+    		En base a esto, se establecen dos formas de participación:
+    	</para>
+    	<itemizedlist>
+    		<listitem>
+    			Proveedores de datos. Que son los propios archivos de <emphasis xml:lang="en">e-prints</emphasis> que recogen documentos y metadatos.
+    		</listitem>
+    		<listitem>
+    			Proveedores de servicios. Recopilan los metadatos de diferentes archivos para proporcionar servicios a los usuarios finales.
+    		</listitem>
+    	</itemizedlist>
+    	<para>
+    		En la propia página web de la OAI podemos encontrar una lista de proveedores de datos y de servicios<superscript><xref linkend="ch04n51" /></superscript>.
+    	</para>
+    	<para>
+    		La interoperabilidad de los archivos tiene varias facetas como son, por ejemplo: sistemas de identificación, formatos de metadatos, modelos 
+    		de documentos o protocolos comunes.
+    	</para>
+    	<para>
+    		El protocolo OAI-PMH requiere adhesión al estándar de metadatos Dublin Core, pero permite y aún apoya formatos de metadatos más 
+    		expresivos<superscript><xref linkend="ch04n52" /></superscript>. Se adapta el modelo Dublín Core porque es muy sencillo, ya que contiene en su 
+    		versión no cualificada quince elementos repetibles y opcionales, siendo muy flexible y pudiendo ser soportado por la mayoría de los proveedores 
+    		de datos y servicios.
+    	</para>
+    	<para>
+    		El protocolo trata de cumplir un objetivo básico que es facilidad y flexibilidad para adaptarse a cualquier entorno; también puede servir de 
+    		soporte para cualquier tipo de recurso, sean estos físicos o digitales. De cara a su exportación resulta fácilmente codificable en otros formatos 
+    		(EAD, E-prints, XML MARC, etc.).
+    	</para>
+    	<para>
+    		Además de implementar mecanismos para ser recolectado total o parcialmente. Aún así, los metadatos a transmitir vía OAI-PMH deberán codificarse 
+    		en Dublin Core sin calificar con el objeto de minimizar los problemas derivados de las conversiones entre múltiples formatos. Por lo tanto, el 
+    		protocolo de la OAI puede combinarse con otros protocolos y normas de bibliotecas digitales para facilitar un buen rango de funcionalidades. Un 
+    		aspecto que no trata el protocolo son, por ejemplo, cuestiones de gestión o autorización para el acceso de los clientes. El servidor deberá 
+    		recurrir a métodos externos si desea limitar los clientes a los que sirva información.
+    	</para>
+    	<para>
+    		Por otra parte, OAI-PMH tampoco define o prescribe ningún esquema para la gestión de derechos, ya que considera que los temas relacionados con 
+    		restricciones en el acceso y gestión de la propiedad intelectual son responsabilidad de los proveedores de datos.
+    	</para>
+    </section>
+    <section xml:id="ch04c2">
+    	<title>Software</title>
+    	<para></para>
+    </section>
+  </section>
+  <section xml:id="ch04d">
+    <title>Recolectores generales</title>
+  </section>
+  <section xml:id="ch04e">
+    <title>Servicios de valor añadido</title>
+  </section>
+  <section xml:id="ch04f">
+    <title>Revistas en libre acceso</title>
+  </section>
+  <section xml:id="ch04g">
+    <title>Notas del capítulo 4</title>
+    <bibliolist>
+    	<bibliomixed xml:id="ch04n39" xreflabel="39">
+    		
+    	</bibliomixed>
+    </bibliolist>
+  </section>
+</chapter>
