@@ -274,7 +274,7 @@
     <informalfigure xml:id="ch04b1" xreflabel="Fig 15">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-023.jpg" />
+	  			<imagedata fileref="Images/INF-2-025.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -431,17 +431,253 @@
     </section>
     <section xml:id="ch04c2">
     	<title>Software</title>
-    	<para></para>
+    	<para>
+    		OAI-PMH es solamente es una interfaz sumamente sencilla para acceder a la información bibliográfica disponible en un archivo o repositorio. Por 
+    		lo tanto, cualquiera puede realizar una implementación del mismo para poner a disposición de la comunidad Internet los datos que hasta ahora 
+    		estaban ocultos en bases de datos o catálogos.
+    	</para>
+    	<para>
+    		Para facilitar esta tarea han aparecido una serie de programas que permiten a cualquier institución (universidad o centro de investigación) 
+    		crear su propio archivo al tiempo que hacerlo compatible con OAI-PMH.
+    	</para>
+    	<para>
+    		La mayoría de los programas y sobre todo los más conocidos utilizan software libre, aunque también han aparecido empresas comerciales que 
+    		también han desarrollado sus propios programas (ProQuest, Innoate…). Los programas más extendidos son:
+    	</para>
+    	<itemizedlist>
+    		<listitem>
+    			Eprints University of Southampton. &lt;<link xl:href="http://www.eprints.org" />&gt;. Es un software desarrollado en el seno del 
+    			Open Citation Project dirigido por Stevan Harnad en la Universidad de Southampton (UK).
+    		</listitem>
+    		<listitem>
+    			Dspace &lt;<link xl:href="http://www.dspace.org"/>&gt;. Está desarrollado por la empresa HP y las bibliotecas del MIT.
+    		</listitem>
+    		<listitem>
+    			CDSware &lt;<link xl:href="http://cdsware.cern.ch"/>&gt; CERN.
+    		</listitem>
+    		<listitem>
+    			Fedora. &lt;<link xl:href="http://fedoraproject.org" />&gt;. Cornell University.
+    		</listitem>
+    	</itemizedlist>
+    	<informalfigure xml:id="ch04c1" xreflabel="Fig 16">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="Images/INF-2-026.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				Principales programas para la creación de repositorios.
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+  		</informalfigure>
+  		<para>
+  			Independientemente de la plataforma utilizada un archivo abierto tiene dos componentes comunes básicos<superscript><xref linkend="ch04n53" /></superscript>:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				Mecanismos de depósito
+  			</listitem>
+  			<listitem>
+  				Mecanismo de acceso
+  			</listitem>
+  		</itemizedlist>
+  		<para>
+  			Los mecanismos de depósito facilitan que los propios investigadores de manera voluntaria auto-archiven sus documentos de investigación con el 
+  			objeto de promover la difusión y la discusión de ideas. Los archivos de e-prints buscan facilitar esta tarea a través de sistemas de autoayudas, 
+  			formularios y apoyo personalizado, pues si este procedimiento es sencillo animará muchos investigadores a implicarse en el proceso.
+  		</para>
+  		<para>
+  			Los mecanismos de acceso posibilitan la recuperación de la información a través de mecanismos de búsqueda sencilla, avanzada y por a través de 
+  			búsquedas indexadas (<emphasis xml:lang="en">browser</emphasis>) con el fin de flexibilizar las posibilidades de recuperación.
+  		</para>
+  		<para>
+  			La implementación de un archivo abierto incluye aspectos técnicos y estratégicos. Por una parte, será fundamental, en primer lugar, desarrollar 
+  			una buena planificación en la cual tengamos una visión clara de la naturaleza del contenido del repositorio; decidir qué tipo de material va a 
+  			ser objeto de depósito, naturaleza del contenido; establecer qué política institucional vamos a desarrollar para favorecer el auto-archivo qué 
+  			sistema de control de calidad se va a considerar, su fase de implementación, mantenimiento y desarrollo y posibilidades de cooperación interna 
+  			y externa. Por otro lado, hemos de considerar la arquitectura técnica, es decir, cuál es la interfaz que vamos a utilizar, su capacidad y 
+  			flexibilidad para el intercambio de metadatos. Se puede decir que actualmente la tecnología desarrollada por el movimiento de 
+  			<emphasis xml:lang="en">open acces</emphasis> es suficientemente madura para dar soporte a la comunicación científica en acceso abierto.
+  		</para>
     </section>
   </section>
   <section xml:id="ch04d">
     <title>Recolectores generales</title>
+    <para>
+    	Un recolector de recursos digitales es una herramienta para acceder a los documentos a texto completo contenidos en bibliotecas digitales o en 
+    	repositorios que cumplan el protocolo Open Archives Initiative – Protocol for Metadata Harvesting (OAI-PMH). El recolector se actualiza de forma 
+    	periódica, ampliando su base de datos de forma continua.
+    </para>
+    <para>
+    	Un recolector es un proveedor de servicios, que recoge simplemente los metadatos de diferentes repositorios (proveedores de datos) total o 
+    	parcialmente para organizarlos en función de intereses sectoriales, o locales.
+    </para>
+    <para>
+    	Entre los más conocidos recolectores está <emphasis role="strong">OAIster</emphasis><superscript><xref linkend="ch04n54" /></superscript>, un 
+    	proyecto de la University Michigan Digital Library Production Service cuya meta es crear una colección de recursos digitales académicos de 
+    	fácil acceso. Empezó a funcionar en el 2002 y hoy ofrece ya 15 millones de registros de libros electrónicos, artículos de revistas, archivos 
+    	de audio y video, imágenes, etc., que abarcan una variada temática (documentación, historia, literatura, etc.).
+    </para>
+    <para>
+    	OAIster se define a sí mismo como un catálogo colectivo de recursos digitales. Proporciona acceso a esos recursos recolectando sus metadatos 
+    	de los repositorios en que se encuentran, a través delprotocolo OAI-PMH, que facilita la interoperabilidad. Así, OAIster es un sitio central 
+    	donde buscar toda esa documentación, de un modo más preciso y exhaustivo que por medio de los motores de búsqueda en Internet.
+    </para>
+	<informalfigure xml:id="ch04d1" xreflabel="Fig 17">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-030.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				OAIster
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<informalfigure xml:id="ch04d2" xreflabel="Fig 18">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-032.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				DRIVER
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<informalfigure xml:id="ch04d3" xreflabel="Fig 19">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-031.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				DOAJ
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Otro recolector importante es <emphasis role="strong">Google académico</emphasis>. Las estadísticas de los repositorios se dispararon cuando Google 
+		Search anunció en 2004 que recolecta de los metadatos de la OAI, pues una buena parte de las entradas a éstos proceden de esta fuente; además, estas 
+		entradas corresponden a descargas ya que Google Search sólo indexa de estos los documentos con extensión PDF<superscript><xref linkend="ch04n55" /></superscript>, 
+		lo que explica que en un archivo de <emphasis xml:lang="en">eprints</emphasis> a veces encontramos en las estadística de uso de un documento que el 
+		número de descargas supera al de consulta de sus metadatos. Esta cuestión es fundamental para la visibilidad, ya que prácticamente el 80% de los 
+		usuarios utiliza Google como herramienta de búsqueda en Internet, y prácticamente sólo los propios investigadores de la institución acceden al 
+		repositorio desde la página de búsqueda del mismo; diferentes grupos de clientes acceden por otros medios. Por lo tanto, los recolectores 
+		proporcionan la multiplicación de posibles rutas de acceso que permiten <emphasis>descubrir</emphasis> esa información.
+	</para>
+	<para>
+		También es importante <emphasis role="strong">SDL Search Digital Libraries In Library and Information Science</emphasis><superscript><xref linkend="ch04n56" /></superscript>, 
+		recolector especializado en el área de la documentación. De igual forma, destaca <emphasis role="strong">Driver</emphasis><superscript><xref linkend="ch04n57" /></superscript>, 
+		recolector de la red europea de repositorios de investigación.
+	</para>
   </section>
   <section xml:id="ch04e">
     <title>Servicios de valor añadido</title>
+    <para>
+    	A partir de los datos generados por los repositorios es posible implementar servicios de valor añadido, tales como agregadores, evaluación 
+    	científica y estadísticas. Entre estos los más conocidos son algunos de los siguientes:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		<emphasis role="strong">Celestial:</emphasis> &lt;<link xl:href="http://celestial.eprints.org"/>&gt; es un agregador de contenidos de 
+    		repositorios OAI en fase experimental desarrollado por Tim Brody de la Universidad de Southampton.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">CiteSeer:</emphasis> &lt;<link xl:href="http://citeseer.ist.psu.edu"/> es una página de búsqueda y una biblioteca 
+    		digital de documentos científicos y académicos. Citeseer es también desarrollado y mantenido por Tim Brody y tiene más de 700.000 documentos. 
+    		Es un servicio gratuito, y por ello se considera parte del movimiento del acceso libre.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">Citebase:</emphasis> &lt;<link xl:href="http://www.citebase.org/search"/> es un índice de citas en fase experimental de 
+    		la literatura de investigación en línea. Se recolectan datos de los diferentes documentos auto-archivados en acceso abierto con el metadato OAI-PMH.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">Open Citation Project:</emphasis> &lt;<link xl:href="http://opcit.eprints.org/opcitresearch.shtml"/>se trata de un proyecto 
+    		que permite realizar estudios bibliométricos desarrollados con el protocolo de la OAI.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">Registered Data Providers (OAI):</emphasis> Registro de Proveedores de datos OAI. &lt;<link xl:href="http://www.openarchives.org/Register/BrowseSites"/>&gt;
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">Registered Service Providers (OAI):</emphasis> &lt;<link xl:href="http://www.openarchives.org/service/listproviders.html"/>. 
+    		Registro de Proveedores de servicios OAI.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">Registry of Open Access Repositories (ROAR):</emphasis> &lt;<link xl:href="http://roar.eprints.org"/>&gt;. Registro de 
+    		repositorios de acceso abierto mantenido por la Universidad de Southampton. Podemos encontrar estadísticas sobre OA, repositorios clasificados por 
+    		países, por el software utilizado y por el contenido.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">ROARMAP (Registry of Open Access Repository Material Archiving Policies):</emphasis> &lt;<link xl:href="http://www.eprints.org/openaccess/policysignup"/>&gt; 
+    		&lt;<link xl:href="http://www.uv.es/=barrueco/declaration.sp.html"/>&gt; Registro sobre Políticas Institucionales de Auto-Archivo clasificadas por países.
+    	</listitem>
+    	<listitem>
+    		<emphasis role="strong">Directory of Open Access Journals (DOAJ):</emphasis> <http://www.doaj.org> Directorio de revistas en libre acceso a texto 
+    		completo desarrollado por la Universidad de Lund. Recoge más de 3000 títulos con clasificaciones temáticas y posibilidad de búsqueda.
+    	</listitem>
+    </itemizedlist>
+    <informalfigure xml:id="ch04d4" xreflabel="Fig 20">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-033.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Ejemplo de Metadatos OIA-PMH. Fuente: Herbert Van de Sompel. OAI-PMH for Resources Harvesting. 
+	  				<link xl:href="http://public.laml.gov/herbertv"/>.
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
   </section>
   <section xml:id="ch04f">
     <title>Revistas en libre acceso</title>
+    <para>
+    	Las revistas en libre acceso conforman lo que se ha venido denominando <emphasis>Ruta dorada</emphasis> dentro del movimiento para el acceso abierto. 
+    	Podemos encontrar todas estas revistas a través de la base de datos DOAJ - Directory of Open Access Journals &lt;<link xl:href="http://www.doaj.org"/>&gt; 
+    	mantenida por la Universidad de Lund (Suecia), desde donde podemos acceder a las revistas libremente disponibles para el usario final con posibilidad de 
+    	búsqueda por título y por disciplinas. Actualmente recoge 3.700 revistas.
+    </para>
+    <para>
+    	Otra fuente es Open Science Directory &lt;<link xl:href="http://www.opensciencedirectory.net"/>&gt;, directorio de revistas en acceso abierto que 
+    	ofrece actualmente acceso a más de 13.000 revistas científicas.
+    </para>
+    <para>
+    	Las revistas en libre acceso tienen unas características generales que comparten con las revistas digitales e impresas y otras específicas relativas 
+    	a sus niveles de accesibilidad. En primer lugar, se trata de publicaciones científicas que, al igual que las que se reciben por suscripción, tienen 
+    	sus propios mecanismos de control de calidad; su formato es digital, son libremente accesibles y los autores retienen sus derechos a través de 
+    	licencias Creative Commons (sólo acceso, copia…).
+    </para>
+    <para>
+    	En cuanto a su origen tenemos diferentes tipos de revistas en acceso abierto:
+    </para>
+    <itemizedlist>
+    	<listitem>
+    		Revistas OA nacidas con vocación de acceso abierto, como BioMed Central.
+    	</listitem>
+    	<listitem>
+    		Editores convencionales, que ofrecen también revistas OA, tales como Springer Open Choice Program<superscript><xref linkend="ch04n58" /></superscript>.
+    	</listitem>
+    	<listitem>
+    		Editores no convencionales, revistas editadas por asociaciones, departamentos e investigadores.
+    	</listitem>
+    </itemizedlist>
+    <para>
+    	Que una revista esté en libre acceso no quiere decir que no obedezca a fines mercantiles, ya que, aparte de las revistas en OA que no tienen fines 
+    	comerciales como PloS, otras tienen intereses comerciales como BioMed Central. En ambos casos, el acceso a la revista es libre, lo único es que 
+    	aquellos que tienen interés en la difusión de los contenidos pagan sus costes de producción por adelantado. En el caso de las revistas que no tienen 
+    	fines comerciales, son subsidiadas por una universidad o por un centro de investigación.
+    </para>
+    <para>
+    	Un mito muy generalizado es considerar que las revistas en acceso abierto son gratuitas, pero las revistas OA no son gratuitas, o al menos no lo son 
+    	del todo; ya que al igual que las que las tradicionales tienen unos costes de producción, pero son más sostenibles económicamente, ya que tienen unos 
+    	costes más bajos que los que las entidades están pagando por las revistas comerciales en la actualidad.
+    </para>
   </section>
   <section xml:id="ch04g">
     <title>Notas del capítulo 4</title>
