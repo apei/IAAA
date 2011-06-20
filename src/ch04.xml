@@ -49,7 +49,7 @@
     	</listitem>
     </itemizedlist>
     <para>
-    	Cuando se habla de archivos abiertos es práctica común considerar que el adjetivo <emphassis>abierto</emphasis> se refiere al acceso, 
+    	Cuando se habla de archivos abiertos es práctica común considerar que el adjetivo <emphasis>abierto</emphasis> se refiere al acceso, 
     	y aunque los archivos abiertos son de acceso libre, la calificación de abierto se refiere a la arquitectura informática del mismo, que 
     	frente a la concepción distribuida de la WWW, presenta una arquitectura caracterizada por proveedores de datos y proveedores de servicios.
     </para>
@@ -617,7 +617,7 @@
     		&lt;<link xl:href="http://www.uv.es/=barrueco/declaration.sp.html"/>&gt; Registro sobre Políticas Institucionales de Auto-Archivo clasificadas por países.
     	</listitem>
     	<listitem>
-    		<emphasis role="strong">Directory of Open Access Journals (DOAJ):</emphasis> <http://www.doaj.org> Directorio de revistas en libre acceso a texto 
+    		<emphasis role="strong">Directory of Open Access Journals (DOAJ):</emphasis> &lt;<link xl:href="http://www.doaj.org"/>&gt; Directorio de revistas en libre acceso a texto 
     		completo desarrollado por la Universidad de Lund. Recoge más de 3000 títulos con clasificaciones temáticas y posibilidad de búsqueda.
     	</listitem>
     </itemizedlist>
@@ -683,7 +683,134 @@
     <title>Notas del capítulo 4</title>
     <bibliolist>
     	<bibliomixed xml:id="ch04n39" xreflabel="39">
-    		
+    		<bibliomset relation="article">
+    			Lynch, Clifford A.
+    			<title role="article">Institutional Repositories: Essential Infrastructure For Scholarship In The Digital Age portal: Libraries and the Academy 3:2 portal: Libraries and the Academy 3.2</title>
+    			<pubdate>2003</pubdate>, <pagenums>327-336</pagenums>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n40" xreflabel="40">
+    		<bibliomset>
+    			Ortega, José Luis; Prieto, José Antonio; Arroyo, Natalia; Pareja, Víctor M., and Aguillo, Isidro F.
+    			<title>Análisis de la persistencia y del estado de páginas web en los resultados de Google</title>
+    			<citetitle>Jornadas Españolas de Documentación</citetitle>. 9as <publisher><address><city>Bilbao</city></address></publisher>, <pubdate>2005</pubdate>.
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n41" xreflabel="41">
+    		<bibliomset relation="chapter">
+    			Steele, Colin
+    			<title role="chapter">Open all hours? Institutional models for open access.</title> 
+    			<citetitle pubwork="book">Open Access: Key Strategic, Technical and Economic Aspects</citetitle> cap.13
+    			<pubdate>2006</pubdate>. <link xl:href="http://eprints.anu.edu.au/archive/00003422/01/Open_Access_Repositories_article.pdf"/>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n42" xreflabel="42">
+    		<bibliomset>
+    			Kircz, J. G.
+    			<title>Making the strategic case for Institutional Repositories A conference report</title>
+    			<citetitle pubwork="conference">Making the strategic case for institutional repositories</citetitle>
+    			<pubdate>2005</pubdate>. <link xl:href="http://www.surffoundation.nl/download/report%20cni-jisc-surf-conference.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n43" xreflabel="43">
+    		<bibliomset>
+    			Harnad, S.
+    			<title>Opening Access by Overcoming Zeno’s Paralysis</title>
+    			<citetitle>Open Access: Key Strategic, Technical and Economic Aspects</citetitle>, <volumenum>Nº 8</volumenum>,
+    			<pubdate>2006</pubdate>. <link xl:href="http://eprints.ecs.soton.ac.uk/12094/02/harnad-jacobsbook.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n44" xreflabel="44">
+    		<bibliomset>
+    			<link xl:href="http://eprints.qut.edu.au/"/>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n45" xreflabel="45">
+    		<bibliomset>
+    			<link xl:href="http://repositorium.sdum.uminho.pt/dspace/" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n46" xreflabel="46">
+    		<bibliomset>
+    			<title>ROARMAP (Registry of Open Access Repository Material Archiving Policies)</title>
+    			<link xl:href="http://www.eprints.org/openaccess/policysignup/" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n47" xreflabel="47">
+    		<bibliomset>
+    			Cockerill, M.
+    			<title>Business models in open access publishing</title>
+    			<citetitle>Open Access: Key Strategic, Technical and Economic Aspects</citetitle>, <volumenum>Nº 11</volumenum>,
+    			<pubdate>2006</pubdate>. URL: <link xl:href="http://demo.openrepository.com/demo/bitstream/2384/2367/4/businessmodelsinoa.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n48" xreflabel="48">
+    		<bibliomset>
+    			Van de Sompel, Herbet; Lagoze, Carl
+    			<title>The Santa Fe Convention of the Open Archives Initiative in D-Lib Magazine</title>
+    			<pubdate>2000</pubdate>. <volumenum>Volume 6 Number 2</volumenum>.
+    			<link xl:href="http://www.dlib.org/dlib/february00/vandesompel-oai/02vandesompel-oai.html" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n49" xreflabel="49">
+    		<bibliomset>
+    			<link xl:href="http://www.openarchives.org/OAI/1.1/openarchivesprotocol.htm" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n50" xreflabel="50">
+    		<bibliomset>
+    			<link xl:href="http://www.openarchives.org/OAI/openarchivesprotocol.html" />
+    		</bibliomset>
+    	</bibliomixed> 
+    	<bibliomixed xml:id="ch04n51" xreflabel="51">
+    		<bibliomset>
+    			Registered Data Providers (OAI). <link xl:href="http://www.openarchives.org/Register/BrowseSites" /> and 
+    			Registered Service Providers (OAI). <link xl:href="http://www.openarchives.org/service/listproviders.html" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n52" xreflabel="52">
+    		<bibliomset relation="article">
+    			Subirats Coll, Imma and Barrueco, José Manuel. 
+    			<title role="article">Un archivo abierto en ciencias de la documentación e información</title>. 
+    			<citetitle pubwork="journal">El profesional de la información</citetitle>. <volumenum>vol. 13 n.5</volumenum> <pubdate>(2004)</pubdate>
+    			<link xl:href="http://eprints.rclis.org/archive/00002472/01/barcelona.pdf" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n53" xreflabel="53">
+    		<bibliomset>
+    			Awre, Chris.
+    			<title>The technology of open access.</title>. En: <citetitle pubwork="journal">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle>
+    			<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>.
+    			URL: <link xl:href="http://eprints.rclis.org/archive/00006680/" />. <date>[Consultado el 14 de abril de 2004]</date>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n54" xreflabel="54">
+    		<bibliomset>
+    			Oaister <link xl:href="http://www.oaister.org/index.html" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n55" xreflabel="55">
+    		<bibliomset>
+    			Sale, Arthur.
+    			<title>A researcher’s viewpoint</title>. En: <citetitle pubwork="journal">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle>
+    			<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>.
+    			URL: <link xl:href="http://eprints.comp.utas.edu.au:81/archive/00000257/" />. <date>[Consultado el 22 de abril de 2008]</date>
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n56" xreflabel="56">
+    		<bibliomset>
+    			<link xl:href="http://drtc.isibang.ac.in/sdl/" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n57" xreflabel="57">
+    		<bibliomset>
+    			Driver <link xl:href="http://www.driver-support.eu/en/index.html" />
+    		</bibliomset>
+    	</bibliomixed>
+    	<bibliomixed xml:id="ch04n58" xreflabel="58">
+    		<bibliomset>
+    			Springer Open Choice <link xl:href="http://www.springer.com/open+choice?SGWID=0-40359-0-0-0" />
+    		</bibliomset>
     	</bibliomixed>
     </bibliolist>
   </section>
