@@ -1,0 +1,3290 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch06"
+	lang="es" version="5.0"
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Recursos de información</title>
+
+  <section xml:id="ch06a">
+    <title>Fuentes de información</title>
+    <section xml:id="ch06a01">
+    	<title>Bibliografía</title>
+    	<bibliolist>
+    		<biblioentry>
+    			<title>Open Access Bibliography</title> <subtitle>Liberating Scholarly Literature with E-Prints and Open Access Journals</subtitle>
+    			<author>
+    				<personname>
+    					<firstname>Charles W.</firstname><surname>Bailey</surname>, <phrase>Jr.</phrase>
+    				</personname>
+    			</author>
+    			<bibliomisc role="uri">
+    				<link xl:href="http://www.escholarlypub.com/oab/oab.htm" />
+    			</bibliomisc>
+    		</biblioentry>
+    		<biblioentry>
+    			<title>Lists Related to The Open Access Movement</title>
+    			<author>
+    				<personname>
+    					<firstname>Peter</firstname><surname>Suber</surname>
+    				</personname>
+    			</author>
+    			<bibliomisc role="uri">
+    				<link xl:href="http://www.earlham.edu/~peters/fos/lists.htm" />
+    			</bibliomisc>
+    		</biblioentry>
+    	</bibliolist>
+    </section>
+    <section xml:id="ch06a02">
+    	<title>Blogs</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Acceso abierto a la literature ciéntífica y académica</term>
+    			<listitem>
+    				<para>
+    					<link xl:ref="http://a-abierto.blogspot.com" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Contenidos-Abiertos-Reutilizables</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://contenidos-abiertos-reutilizables.blogspot.com/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>La Ecología de los Repositorios</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://ecologia-repositorios.blogspot.com/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>EPrints Insiders: The EPrints Community blog</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.eprints.org/community/blog/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Open Access Archivangelism</term>
+    			<listitem>
+    				<para>Blogs de Stevan Harnad</para>
+    				<para>
+    					<link xl:href="http://openaccess.eprints.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OA Librarian</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://oalibrarian.blogspot.com/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OA News</term>
+    			<listitem>
+    				<para>Peter Suber</para>
+    				<para>
+    					<link xl:href="http://www.earlham.edu/~peters/fos/fosblog.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Open Access : acceso abierto a la literatura científica</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://weblogs.madrimasd.org/openaccess/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Propiedad Intelectual y Contenidos Abiertos</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://copyleft-contenidos-abiertos.blogspot.com/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a03">
+    	<title>Datos y cifras</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Registry of Open Access Repositories (ROAR)</term>
+    			<listitem>
+    				<para>
+    					Registro de repositorios de acceso abierto mantenido por la Universidad de Southampton. Podemos encontrar estadísticas sobre OA, 
+    					repositorios clasificados por países, por el software utilizado y por el contenido.
+    				</para>
+    				<para>
+    					<link xl:href="http://roar.eprints.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Webmetrics Ranking of World Universities</term>
+    			<listitem>
+    				<para>Supporting Open Access Initiatives Worldwide</para>
+    				<para>
+    					<link xl:href="http://www.webometrics.info/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Ranking Mundial de Repositorios</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://repositories.webometrics.info/top300_rep.asp" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a04">
+    	<title>Declaraciones</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>ACRL Principles and Strategies for the Reform of Scholarly Communication, Agosto, 2003</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.ala.org/ala/acrl/acrlpubs/whitepapers/principlesstrategies.htm" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Declaración de Berlín</term>
+    			<listitem>
+    				<para>Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities</para>
+    				<para>
+    					<link xl:href="http://oa.mpg.de/openaccess-berlin/berlindeclaration.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Declaración de Bethesda</term>
+    			<listitem>
+    				<para>Bethesda Statement on Open Access Publishing (Jun 2003)</para>
+    				<para>
+    					<link xl:href="http://www.earlham.edu/~peters/fos/bethesda.htm" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Declaración de Budapest</term>
+    			<listitem>
+    				<para>Budapest Open Access Initiative (BOAI)</para>
+    				<para>
+    					<link xl:href="http://www.ceniap.gov.ve/pbd/RevistasCientificas/ZootecniaTropical/oai/oai.pdf" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>IFLA Statement on Open Access to Scholarly Literature and Research Documentation, Febrero, 2004</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.ifla.org/V/cdoc/open-access04.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>UN World Summit on the Information Society Declaration of Principles and Plan of Action, Diciembre 2003</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.itu.int/wsis/index.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OECD Declaration on Access to Research Data From Public Funding Enero 2004</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.oecd.org/document/0,2340,en_2649_34487_25998799_1_1_1_1,00.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Wellcome Trust position statement on open access, Octubre, 2003</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.wellcome.ac.uk/en/1/awtvispolpub.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    	<informalfigure xml:id="ch06img1" xreflabel="Fig 25">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="Images/INF-2-038.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				IFLA Statement on Open Access to Sholarly Literature and Research Documentation.
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+    </section>
+    <section xml:id="ch06a05">
+    	<title>Glosarios</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Glosario E-Prints</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.eprints.org/glossary/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Guide to the Open Access Movement – Peter Suber</term>
+    			<listitem>
+    				<para>Guía y glosario del movimiento de Acceso Abierto traducida al castellano</para>
+    				<para>
+    					<link xl:href="http://www.infodoctor.org/bibliotecapublicadelaciencia/glosario.php" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Glosario Open Archive Forum</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.oaforum.org/tutorial/english/page6.htm#section3" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Bailey, Charles W. Key Open Access Concepts.</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.digital-scholarship.com/oab/keyoaconcepts.htm" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a06">
+    	<title>Instituciones</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>BioMed Central</term>
+    			<listitem>
+    				<para>
+    					Editor de revistas electrónicas en el campo de la biología y medicina que soporta el acceso libre a sus artículos de investigación.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.biomedcentral.com/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Bireme</term>
+    			<listitem>
+    				<para>Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud</para>
+    				<para>
+    					<link xl:href="http://www.bireme.br/bvs/bireme/I/homepage.htm" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Coalition for Networked Information (CNI)</term>
+    			<listitem>
+    				<para>Coalición de más de 200 organizaciones cuyo propósito es mejorar la comunicación académica</para>
+    				<para>
+    					<link xl:href="http://www.cni.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Joint Information Systems Committee (JISC)</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.jisc.ac.uk/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>National Library of Medicine (NLM)</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.nlm.nih.gov/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Open Archives Initiative (OAI)</term>
+    			<listitem>
+    				<para>
+    					Organización que desarrolla y promueve estándares de interoperabilidad que pretenden facilitar la difusión eficiente 
+    					de contenidos en Acceso Abierto.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.openarchives.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Public Library of Science (PLoS)</term>
+    			<listitem>
+    				<para>
+    					Una organización sin fines de lucro de científicos y médicos que desarrolla iniciativas de acceso abierto a través de 
+    					la puesta en marcha y publicación de las revistas de acceso abierto.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.plos.org" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>PubMed</term>
+    			<listitem>
+    				<para>
+    					Es un proyecto desarrollado por la National Center for Biotechnology Information (NCBI) en la National Library of Medicine 
+    					(NLM). Permite el acceso a bases de datos bibliográficas compiladas por la NLM (Medline, PreMedline…).
+    				</para>
+    				<para>
+    					<link xl:href="http://www.ncbi.nlm.nih.gov/pubmed/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Scholarly Publishing and Academic Resources Coalition (SPARC)</term>
+    			<listitem>
+    				<para>
+    					Coalición mundial de de institutos de investigación, bibliotecas y otro tipo de organizaciones que pretende 
+    					<quote>fomentar la competencia en el mercado de publicaciones científicas</quote>.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.arl.org/sparc/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Wellcome Trust Position Statement on Open Access</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.wellcome.ac.uk/en/1/awtvispolpub.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a07">
+    	<title>Licencias y derechos de autor</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Creative Commons</term>
+    			<listitem>
+    				<para>
+    					Es una organización no gubernamental sin ánimo de lucro que desarrolla planes para ayudar a reducir las barreras legales de 
+    					la creatividad, por medio de nueva legislación y nuevas tecnologías. La idea principal es posibilitar un modelo legal ayudado 
+    					por herramientas informáticas para así facilitar la distribución y el uso de contenidos para el dominio público.
+    				</para>
+    				<para>
+    					<link xl:href="http://creativecommons.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>GNU General Public License</term>
+    			<listitem>
+    				<para>
+    					Licencia creada por la Free Software Foundation orientada principalmente a proteger la libre distribución, modificación y 
+    					uso de software.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.gnu.org/copyleft/gpl.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Publishers’ License Agreements (EBSCO)</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://ejournals.ebsco.com/ejournals/license.asp" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>RomeO Project (Rights MEtadata for Open archiving)</term>
+    			<listitem>
+    				<para>
+    					Proyecto mantenido por Joint Information Systems Committee (JISC) para investigar las cuestiones de derechos en torno a la 
+    					<emphasis>auto-archivo</emphasis>.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.lboro.ac.uk/departments/ls/disresearch/romeo/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Sherpa</term>
+    			<listitem>
+    				<para>
+    					Servicio que permite a los autores conocer cuales son los derechos de autor de sus publicaciones, y si pueden autoarchivarlas.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.sherpa.ac.uk/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a08">
+    	<title>Listas de correo</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>American Scientist Open Access Forum</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://amsci-forum.amsci.org/archives/American-Scientist-Open-Access-Forum.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>BOAI Forum</term>
+    			<listitem>
+    				<para>Moderada por Peter Suber</para>
+    				<para>
+    					<link xl:href="http://www.soros.org/openaccess/forum.shtml" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Economics of Open Access</term>
+    			<listitem>
+    				<para>Lista moderada por Alastair Dryburgh</para>
+    				<para>
+    					<link xl:href="http://www.communityzero.com/econoa" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Eprints Community</term>
+    			<listitem>
+    				<para>Foro relativo a cuestiones del software de Eprints.</para>
+    				<para>
+    					<link xl:href="http://www.eprints.org/community/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OAI-Eprints</term>
+    			<listitem>
+    				<para>Lista de la Open Archives Initiative.</para>
+    				<para>
+    					<link xl:href="http://lists.openlib.org/mailman/listinfo/oai-eprints" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Open Data</term>
+    			<listitem>
+    				<para>Lista sobre OA de SPARC. Moderada por Peter Murray-Rust</para>
+    				<para>
+    					<link xl:href="http://www.arl.org/sparc/opendata/index.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OS-Repositorios</term>
+    			<listitem>
+    				<para>Lista de distribución española sobre Acceso abierto.</para>
+    				<para>
+    					<link xl:href="http://listserv.rediris.es/archives/os-repositorios.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>PLoS Community Boards</term>
+    			<listitem>
+    				<para>Lista de la Public Library of Science.</para>
+    				<para>
+    					<link xl:href="http://www.plos.org/community/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>ScholComm</term>
+    			<listitem>
+    				<para>
+    					Lista sobre acceso abierto de la American Library Association. On scholarly communication.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.ala.org/ala/acrl/acrlissues/scholarlycomm/scholcommdiscussion.htm" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>SPARC-IR</term>
+    			<listitem>
+    				<para>Lista de SPARC sobre repositorios institucionales</para>
+    				<para>
+    					<link xl:href="https://mx2.arl.org/Lists/SPARC-IR/List.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a09">
+    	<title>Normas</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)</term>
+    			<listitem>
+    				<para>Metadato que posibilita la intemporalidad entre repositorios.</para>
+    				<para>
+    					<link xl:href="http://www.openarchives.org/pmh/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Open Archival Information System (OAIS)</term>
+    			<listitem>
+    				<para>Un estándar de ISO (ISO 14721:2003) propone un marco de referencia para la preservación de colecciones digitales en un sistema abierto.</para>
+    				<para>
+    					<link xl:href="http://www.ccsds.org/rpa117/rpa117.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a10">
+    	<title>Repositorios</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Arxiv</term>
+    			<listitem>
+    				<para>
+    					Repositorio que proporcionar acceso a medio millón de publicaciones en los campos de la Física, Matemáticas, Informática 
+    					y Biología Cuantitativa.
+    				</para>
+    				<para>
+    					<link xl:href="http://arxiv.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Cogprints</term>
+    			<listitem>
+    				<para>
+    					Repositorio de eprints especializado en el campo de las ciencias cognitivas y la psicología. Se trata de una de las 
+    					experiencias pioneras en el Acceso Abierto.
+    				</para>
+    				<para>
+    					<link xl:href="http://cogprints.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>E-LIS</term>
+    			<listitem>
+    				<para>
+    					E-prints in Library and Information Science es un archivo abierto dedicado a las ciencias de la documentación e información.
+    				</para>
+    				<para>
+    					<link xl:href="http://eprints.rclis.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Networked Digital Library of Theses and Dissertations (NDLTD)</term>
+    			<listitem>
+    				<para>
+    					Un repositorio de tesis académicas digitales.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.ndltd.org" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Research Papers in Economics (RePEc)</term>
+    			<listitem>
+    				<para>
+    					La mayor base de datos del mundo sobre Economía, y uno de los pioneros del movimiento para el acceso abierto.
+    				</para>
+    				<para>
+    					<link xl:href="http://repec.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>SciELO (Scientific Electronic Library Online)</term>
+    			<listitem>
+    				<para>
+    					El proyecto SciELO es una iniciativa de FAPESP y de BIREME. Contempla el desarrollo una colección de artículos 
+    					científicos en línea en texto completo, de publicaciones científicas hispanoamericanas.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.scielo.org" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    	<informalfigure xml:id="ch06img2" xreflabel="Fig 26">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="Images/INF-2-039.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				E-prints in Library and Information Science.
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+    </section>
+    <section xml:id="ch06a11">
+    	<title>Revistas</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Ariadne</term>
+    			<listitem>
+    				<para>Revista sobre el Movimiento para el Acceso Abierto.</para>
+    				<para>
+    					<link xl:href="http://www.ariadne.ac.uk/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>D-Lib Magazine</term>
+    			<listitem>
+    				<para>Una revista que cubre aspectos relacionados con el movimiento por el acceso abierto.</para>
+    				<para>
+    					<link xl:href="http://www.dlib.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a12">
+    	<title>Programas (Software)</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>CDSware</term>
+    			<listitem>
+    				<para>Programa diseñado por el CERN para la creación de repositorios.</para>
+    				<para>
+    					<link xl:href="http://cdsware.cern.ch/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>DSpace</term>
+    			<listitem>
+    				<para>Sofware libre para la creación de repositorios en Acceso abierto de la MIT en colaboración con Hewlett Packard.</para>
+    				<para>
+    					<link xl:href="http://www.dspace.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Eprints.org</term>
+    			<listitem>
+    				<para>Software libre desarrollado por la Universidad de Southampton para la creación de repositorios de acceso abierto.</para>
+    				<para>
+    					<link xl:href="http://www.eprints.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>FedoraFedora es un programa basado en Linux en software libre y de código abierto para la creación de repositorios digitales.</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.fedora.info/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a13">
+    	<title>Proveedores de servicios</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>Celestial</term>
+    			<listitem>
+    				<para>Agregador de contenidos de repositorios OAI en fase experimental desarrollado por Tim Brody.</para>
+    				<para>
+    					<link xl:href="http://celestial.eprints.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Cross Ref</term>
+    			<listitem>
+    				<para>
+    					El objetivo de CrossRef en el automatizar el enlace de referencias de de la literatura científica en 
+    					línea por medio del número DOI (Digital Object Identifier).
+    				</para>
+    				<para>
+    					<link xl:href="http://www.crossref.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>CiteSeer</term>
+    			<listitem>
+    				<para>
+    					Es una página de búsqueda y una biblioteca digital de documentos científicos y académicos. Citeseer 
+    					es mantenida por la Southampton University y tiene más de 700,000 documentos. Es un servicio gratuito, 
+    					y por ello se considera parte del movimiento del acceso libre.
+    				</para>
+    				<para>
+    					<link xl:href="http://citeseer.ist.psu.edu" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Citebase</term>
+    			<listitem>
+    				<para>
+    					Citebase es un índice de citas en fase experimental de la literatura de investigación en línea. 
+    					Se recolectan datos de los diferentes documentos auto-archivados en acceso abierto con el metadato OAI-PMH.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.citebase.org/search" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Directory of Open Access Journals (DOAJ)</term>
+    			<listitem>
+    				<para>
+    					Directorio de revista en libre acceso a texto completo. Recoge más de 3000 títulos con clasificaciones temáticas 
+    					y posibilidad de búsqueda.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.doaj.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Open Citation Project</term>
+    			<listitem>
+    				<para>Estudios bibliométricos desarrollados con el protocolo de la OAI.</para>
+    				<para>
+    					<link xl:href="http://opcit.eprints.org/opcitresearch.shtml" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Registered Data Providers (OAI)</term>
+    			<listitem>
+    				<para>Registro de Proveedores de datos OAI.</para>
+    				<para>
+    					<link xl:href="http://www.openarchives.org/Register/BrowseSites" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Registered Service Providers (OAI)</term>
+    			<listitem>
+    				<para>Registro de Proveedores de servicios OAI</para>
+    				<para>
+    					<link xl:href="http://www.openarchives.org/service/listproviders.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Registry of Open Access Repositories (ROAR)</term>
+    			<listitem>
+    				<para>
+    					Registro de repositorios de acceso abierto mantenido por la Universidad de Southampton. Podemos encontrar estadísticas sobre 
+    					OA, repositorios clasificados por países, por el software utilizado y por el contenido.
+    				</para>
+    				<para>
+    					<link xl:href="http://roar.eprints.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>ROARMAP (Registry of Open Access Repository Material Archiving Policies)</term>
+    			<listitem>
+    				<para>Registro sobre Políticas Institucionales de Auto-Archivo clasificadas por países.</para>
+    				<para>
+    					<link xl:href="http://www.eprints.org/openaccess/policysignup/" />
+    				</para>
+    				<para>
+    					<link xl:href="http://www.uv.es/=barrueco/declaration.sp.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Web Citation Index</term>
+    			<listitem>
+    				<para>Proyecto de ISI Thompson que recoge tanto repositorios como registros en Acceso Abierto.</para>
+    				<para>
+    					<link xl:href="http://library.wellcome.ac.uk/doc_WTX03284.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a14">
+    	<title>Recolectores</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>DRIVER</term>
+    			<listitem>
+    				<para>
+    					Recolector europeo de metadatos de recolectores creado en el 7th Framework Programme of the European Commission.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.driver-repository.eu/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OAIster</term>
+    			<listitem>
+    				<para>
+    					Permite la búsqueda de artículos en línea los recursos en repositorios acceso abierto.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.oaister.org" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>OpenDOAR</term>
+    			<listitem>
+    				<para>
+    					Directorio de los repositorios de acceso abierto. Podemos buscar tanto repositorios sobre un tema como en los 
+    					contenidos de todos ellos a la vez. Así como listas de repositorios por países y estadísticas.
+    				</para>
+    				<para>
+    					<link xl:href="http://www.opendoar.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Scientific Commons</term>
+    			<listitem>
+    				<para>Con 19 millones de registros.</para>
+    				<para>
+    					<link xl:href="http://www.scientificcommons.org/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>SDL Search Digital</term>
+    			<listitem>
+    				<para>Libraries In Library and Information Science. Recolector especializado en Ciencias de La Información y la Documentación.</para>
+    				<para>
+    					<link xl:href="http://drtc.isibang.ac.in/sdl/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+    <section xml:id="ch06a15">
+    	<title>Tutoriales</title>
+    	<variablelist>
+    		<varlistentry>
+    			<term>OAI for Beginners - the Open Archives Forum online tutorial</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.oaforum.org/tutorial/english/intro.htm" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Guide to Business Planning for Converting a Subscription-based Journal to Open Access</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.soros.org/openaccess/oajguides/business_converting.pdf" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Guide to Business Planning for Launching a New Open Access Journal</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.soros.org/openaccess/oajguides/business_planning.pdf" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Publishing Open-Access Journals (Libro Blanco de Plos)</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.plos.org/downloads/oa_whitepaper.pdf" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>SPARC Checklist &amp; Resource Guide, by Raym Crowe</term>
+    			<listitem>
+    				<para>Guía de SPARC para la implementación de un repositorio institucional.</para>
+    				<para>
+    					<link xl:href="http://www.arl.org/sparc/IR/ir.html" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    		<varlistentry>
+    			<term>Self-Archiving FAQ</term>
+    			<listitem>
+    				<para>
+    					<link xl:href="http://www.eprints.org/openaccess/self-faq/" />
+    				</para>
+    			</listitem>
+    		</varlistentry>
+    	</variablelist>
+    </section>
+  </section>
+  <section xml:id="ch06b">
+    <title>Bibliografía citada</title>
+    <bibliolist>
+    	<biblioentry xml:id="bib01">
+    		<authorgroup>
+    			<author>
+    				<personname>
+    					<firstname>Christine</firstname>
+    					<surname>AUBRY</surname>
+    				</personname>
+    			</author>
+    			<author>
+    				<personname>
+    					<firstname>Joanna</firstname>
+    					<surname>JANIK</surname>
+    				</personname>
+    			</author>
+    		</authorgroup>
+    		<title>Les archives ouvertes</title>
+    		<subtitle>enjeux et pratiques. Guide à l’usage des professionnels de l’information</subtitle>
+    		<publisher>
+    			<address>
+    				<city>París</city>
+    			</address>
+    			<publishername>ADBS</publishername>
+    			<pubdate>2005</pubdate>
+    		</publisher>
+    		<bibliosource class="uri">
+    			<!-- no existe <link xl:href="http://www.adbs.fr/site/publications/ouvrages/archives-ouvertes.php" /> -->
+    			<link xl:href="http://www.adbs.fr/les-archives-ouvertes-enjeux-et-pratiques-guide-a-l-usage-des-professionnels-de-l-information-19200.htm?RH=ACCUEIL" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib02">
+    		<author>
+    			<personname>
+    				<firstname>Chris</firstname><surname>AWRE</surname>
+    			</personname>
+    		</author>
+    		<title>The technology of open access</title>
+    		<citetitle pubwork="book">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 6</volumenum>
+    		<pubdate>2006</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.rclis.org/archive/00006680" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib03">
+    		<author>
+    			<personname>
+    				<firstname>Charles W. Jr.</firstname><surname>BAILEY</surname>
+    			</personname>
+    		</author>
+    		<title>What Is Open Access?</title>
+    		<citetitle pubwork="book">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 2</volumenum>
+    		<pubdate>2006</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.digital-scholarship.com/cwb/WhatIsOA.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib04">
+    		<author>
+    			<personname>
+    				<firstname>Charles W. Jr.</firstname><surname>BAILEY</surname>
+    			</personname>
+    		</author>
+    		<title>Key Open Access Concepts</title>
+    		<citetitle pubwork="book">Open Access Bibliography</citetitle>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.digital-scholarship.com/oab/keyoaconcepts.htm" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib05">
+    		<authorgroup>
+    			<author>
+    				<personname><firstname>José Manuel</firstname><surname>BARRUECO CRUZ</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>Inma</firstname><surname>SUBIRATS COLL</surname></personname>
+    			</author>
+    		</authorgroup>
+    		<title>Open archives initiative. Protocol for metadata harvesting (OAI-PMH)</title>
+    		<subtitle>descripción, funciones y aplicaciones de un protocolo</subtitle>
+    		<citetitle pubwork="journal">El Profesional de la Información</citetitle>
+    		<volumenum>vol 12</volumenum><issuenum>n. 2</issuenum><pubdate>(2003)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.rclis.org/archive/00000177/02/cardedeu.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib06">
+    		<author>
+    			<personname><firstname>Matthew</firstname><surname>COCKERILL</surname></personname>
+    		</author>
+    		<title>Business models in open access publishing</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 11</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://demo.openrepository.com/demo/bitstream/2384/2367/4/businessmodelsinoa.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib07">
+    		<author>
+    			<personname><firstname>M. Cari</firstname><surname>DROTT</surname></personname>
+    		</author>
+    		<title>Open Access</title>
+    		<citetitle pubwork="journal">Annual Review of Information Science and Technology (ARIST).</citetitle>
+    		<volumenum>vol. 40</volumenum><issuenum>n. 1</issuenum><pubdate>2006</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www3.interscience.wiley.com/cgi-bin/fulltext/116324760/PDFSTART" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib08">
+    		<author>
+    			<personname><firstname>Frederick J.</firstname><surname>FRIEND</surname></personname>
+    		</author>
+    		<title>Towards open access to UK research</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 16</volumenum><pubdate>(2006)</pubdate> 
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.ucl.ac.uk/archive/00002090/02/Microsoft_Word__OA_book_chapter_published_version.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib09">
+    		<author>
+    			<personname><firstname>Jean-Claude</firstname><surname>GUÉDON</surname></personname>
+    		</author> 
+    		<title>Open access</title>
+    		<subtitle>a symptom and a promise</subtitle> 
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle> 
+    		<volumenum>vol. 3</volumenum><pubdate>(2006)</pubdate>
+    	</biblioentry>
+    	<biblioentry xml:id="10">
+    		<author>
+    			<personname><firstname>Stevan</firstname><surname>HARNAD</surname></personname>
+    		</author>
+    		<title>Maximizing university research impact through self-archiving</title>
+    		<pubdate>(2003)</pubdate>
+    		<emphasis>[Preprint]</emphasis>
+    		<bibliosource class="uri">
+    			<link xl:href="http://users.ecs.soton.ac.uk/harnad/Temp/che.htm" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib11">
+    		<author>
+    			<personname><firstname>Stevan</firstname><surname>HARNAD</surname></personname>
+    		</author>
+			<title>Opening Access by Overcoming Zeno’s Paralysis</title>
+			<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+			<volumenum>vol. 8</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.ecs.soton.ac.uk/12094/02/harnad-jacobsbook.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib12">
+	    	<authorgroup>
+	    		<author>
+	    			<personname><firstname>Mary Anne</firstname><surname>KENNAN</surname></personname>
+	    		</author>
+	    		<author>
+	    			<personname><firstname>Karlheinz</firstname><surname>KAUTZ</surname></personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>Scholarly Publishing and Open Access</title>
+    		<subtitle>Searching for Understanding of an Emerging IS Phenomenon</subtitle>
+    		<citetitle pubwork="journal">European Conference on Information Systems</citetitle>
+    		<volumenum>vol. 15</volumenum><pubdate>(2007)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://dlist.sir.arizona.edu/1867/01/ECIS2007.schol.pub.reviewed.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib13">
+    		<authorgroup>
+    			<author>
+    				<personname><firstname>Robert</firstname><surname>KILEY</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>Robert</firstname><surname>TERRY</surname></personname>
+    			</author>
+    		</authorgroup>
+    		<title>Open access to the research literature</title>
+    		<subtitle>a funders perspective</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumennum>vol. 101-111</volumennum><issuenum>n. 10</issuenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.rclis.org/archive/00006224/01/Chapter_10_final.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib14">
+    		<authorgroup>
+    			<author>
+    				<personname><firstname>Michael</firstname><surname>KURTZ</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>Tim</firstname><surname>BRODY</surname></personname>
+    			</author>
+    		</authorgroup>
+    		<title>The impact loss to authors and research</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 5</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.soton.ac.uk/40867/02/chapter5distro.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib15">
+    		<author>
+    			<personname><firstname>Clifford</firstname><surname>LYNCH</surname></personname>
+    		</author>
+    		<title>Open Computation</title>
+    		<subtitle>: Beyond Human-Reader-Centric Views of Scholarly Literatures</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 19</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.cni.org/staff/cliffpubs/OpenComputation.htm" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib16">
+    		<author>
+    			<personname><firstname>Marco</firstname><surname>MARANDOLA</surname></personname>
+    		</author>
+    		<title>El sistema de las Creative Commons</title>
+    		<citetitle pubwork="journal">El profesional de la información</citetitle>
+    		<volumennum>vol. 14</volumennum><issuenum>n. 4</issuenum><pubdate>(2006)</pubdate>
+    		<bibliosource xml:id="bib17">
+    			<link xl:href="http://www.elprofesionaldelainformacion.com/contenidos/2005/julio/285.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib17">
+    		<author>
+    			<personname><firstname>Remedios</firstname><surname>MELERO</surname></personname>
+    		</author>
+    		<title>Acceso abierto a las publicaciones científicas</title>
+    		<subtitle>definición, recursos, copyright e impacto</subtitle>
+    		<citetitle pubwork="journal">El profesional de la información</citetitle>
+    		<volumennum>vol. 14</volumennum><issuenum>n. 4</issuenum><pubdate>(2005)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.rclis.org/archive/00004371/01/EPI-rmelero.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib18">
+    		<author>
+    			<personname><firstname>Andrew</firstname><surname>ODLYZKO</surname></personname>
+    		</author>
+    		<title>Economic costs of toll access</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 4</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.dtc.umn.edu/%7Eodlyzko/doc/OpenAccess_book-odlyzko-chapter.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib19">
+    		<title>Open Access</title>
+    		<subtitle>key strategic, technical and economy aspects</subtitle>
+    		<emphasis>edited by</emphasis> <editor><personname><firstname>Nel</firstname><surname>Jacobs</surname></personname></editor>
+    		<edition>1st ed.</edition>
+    		<publisher>
+    			<address><city>Oxford</city></address><publishername>Chandos</publishername><pubdate>2006</pubdate>
+    		</publisher>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.eprints.org/community/blog/index.php?/archives/93-Open-Access-Key-Strategic,-Technical-and-Economic-Aspects.html"/>
+    		</bibliosource>
+    		<bibliomisc>
+    			<phrase>[Consultado el 8 de abril de 2008]</phrase>
+    		</bibliomisc>
+    	</biblioentry>
+    	<biblioentry xml:id="bib20">
+    		<author>
+    			<personname><firstname>Joaquín</firstname><surname>RODRÍGUEZ LÓPEZ</surname></personname>
+    		</author>
+    		<title>Ciencia y comunicación científica</title>
+    		<subtitle>edición digital y otros fundamentos del libre acceso al conocimiento</subtitle>
+    		<citetitle pubwork="journal">El profesional de la información</citetitle>
+    		<volumenum>vol. 14</volumenum><issuenum>n. 4</issuenum><pubdate>(2005)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.elprofesionaldelainformacion.com/contenidos/2005/julio/246.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib21">
+    		<author>
+    			<personname><firstname>Jane M.</firstname><surname>RUSSELL</surname></personname>
+    		</author>
+    		<title>La comunicación científica a comienzos del siglo XXI</title>
+    		<citetitle pubwork="journal">Revista internacional de ciencias sociales</citetitle>
+    		<volumenum>vol. 168</volumenum><pubdate>(2001)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.oei.es/salactsi/rusell.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib22">
+    		<authorgroup>
+    			<author>
+    				<personname><firstname>DK</firstname><surname>SAHU</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>Ramesh</firstname><surname>PARMAR</surname></personname>
+    			</author>
+    		</authorgroup>
+    		<title>The position around the world</title>
+    		<subtitle>Open Access in India</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 18</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://openmed.nic.in/1599/01/Open_Access_in_India.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib23">
+    		<author>
+    			<personname><firstname>Arthur</firstname><surname>SALE</surname></personname>
+    		</author>
+    		<title>A researcher’s viewpoint</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 9</volumenum><pubdate>(2005)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.comp.utas.edu.au:81/archive/00000257/" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib24">
+    		<authorgroup>
+    			<author>
+    				<personname><firstname>N.</firstname><surname>SHADBOLT</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>T.</firstname><surname>BRODY</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>L.</firstname><surname>CARR</surname></personname>
+    			</author>
+    			<author>
+    				<personname><firstname>S.</firstname><surname>HARNAD</surname></personname>
+    			</author>
+    		</authorgroup>
+    		<title>The Open Research Web</title>
+    		<subtitle>A Preview of the Optimal and the Inevitable</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 20</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.ecs.soton.ac.uk/12369/03/shad-bch.rtf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib25">
+    		<author>
+    			<personname><firstname>John</firstname><surname>SHIPP</surname></personname>
+    		</author>
+    		<title>Open Access in Australia</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 17</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://ses.library.usyd.edu.au/bitstream/2123/883/1/Shipp2006_Open_Access_+in_+Australia.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib26">
+    		<author>
+    			<personname><firstname>Colin</firstname><surname>STEELE</surname></personname>
+    		</author>
+    		<title>Open all hours?</title>
+    		<subtitle>Institutional models for open access</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 13</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.anu.edu.au/archive/00003422/01/Open_Access_Repositories_article.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib27">
+    		<author>
+    			<personname><firstname>Peter</firstname><surname>SUBER</surname></personname>
+    		</author>
+    		<title>Open Access in the United States</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 15</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.rclis.org/archive/00006671/01/Suber_2006.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib28">
+    		<author>
+    			<personname><firstname>Peter</firstname><surname>SUBER</surname></personname>
+    		</author>
+    		<title>Una introducción al acceso abierto</title>
+    		<phrase>En publicación:</phrase>
+    		<person><surname>Babini</surname><firstname>Dominique</firstname></person>
+    		<person><surname>Fraga</surname><firstname>Jorge</firstname></person>
+    		<publisher>
+    			<publishername>CLACSO, Consejo Latinoamericano de Ciencias Sociales</publishername>
+    			<address><city>Ciudad de Buenos Aires</city><country>Argentina</country></address>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    		<pagenums>pp 15-33</pagenums>
+    		<biblioid class="isbn">987-1183-53-4</biblioid>
+    		<bibliosource class="uri">
+    			<link xl:href="http://bibliotecavirtual.clacso.org.ar/ar/libros/secret/babini/Peter%20Suber.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib29">
+    		<author>
+    			<personname><firstname>A</firstname><surname>SWAN</surname></personname>
+    		</author>
+    		<title>The culture of Open Access</title>
+    		<subtitle>researchers’ views and responses</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 7</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://eprints.ecs.soton.ac.uk/12428/01/asj7.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib30">
+    		<author>
+    			<personname><firstname>Josep</firstname><surname>VIVES I GRÁCIA</surname></personname>
+    			<title>Aspectos de propiedad intelectual en la creación y gestión de repositorios institucionales</title>
+    			<citetitle pubwork="journal">El profesional de la información</citetitle>
+    			<volumenum>vol. 14</volumenum><issuenum>n. 4</issuenum><pubdate>(2005)</pubdate>
+    			<bibliosource class="uri">
+    				<link xl:href="http://eprints.rclis.org/archive/00004230/01/267.pdf" />
+    			</bibliosource>
+    		</author>
+    	</biblioentry>
+    	<biblioentry xml:id="bib31">
+    		<author>
+    			<personname><firstname>Leo</firstname><surname>WAAIJERS</surname></personname>
+    		</author>
+    		<title>DARE also means dare</title>
+    		<subtitle>institutional repository status in the Netherlands as of early 2006</subtitle>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 14</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.surf.nl/download/Open_Access_Chapter_14_DARE.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="bib32">
+    		<author>
+    			<personname><firstname>Mary</firstname><surname>WALTHAM</surname></personname>
+    		</author>
+    		<title>Learned society business models and open access</title>
+    		<citetitle pubwork="journal">Open Access: Key Strategic, Technical and Economic Aspects</citetitle>
+    		<volumenum>vol. 12</volumenum><pubdate>(2006)</pubdate>
+    		<bibliosource class="uri">
+    			<link xl:href="http://www.marywaltham.com/Chapter12.pdf" />
+    		</bibliosource>
+    	</biblioentry>
+    </bibliolist>
+  </section>
+  <section xml:id="ch06c">
+    <title>El acceso abierto (y más) en 50 referencias</title>
+    <bibliolist>
+    	<biblioentry xml:id="ref01">
+    		<author>
+    			<personname><firstname>Ernest</firstname><surname>ABADAL</surname></personname>
+    		</author>
+    		<title>
+    			Revistas académicas digitales
+    		</title>
+    		<subtitle>
+    			nuevos modelos de edición y distribución
+    		</subtitle>
+    		<person>
+    			<phrase>En</phrase>
+    			<personname><surname>Tramullas</surname><firstname>Jesús</firstname></personname>
+    			<affiliation><jobtitle>(coord.)</jobtitle></affiliation>
+    		</person>
+    		<citetitle pubwork="book">
+				Tendencias en documentación digital.
+    		</citetitle>
+    		<publisher>
+    			<address><city>Gijón</city></address><publishername>Trea</publishername><pubdate>2006</pubdate>
+    		</publisher>
+    		<pagenums>p. 211-235</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref02">
+    		<othercredit>
+    			<personname><firstname>Christine</firstname><surname>AUBRY</surname></personname>
+    			<personname><firstname>Joanna </firstname><surname>JANIK</surname></personname>
+    			<affiliation><jobtitle>(coors.)</jobtitle></affiliation>
+    		</othercredit>
+    		<title>
+    			Archives Ouvertes
+    		</title>
+    		<subtitle>
+    			enjeux et pratiques. Guide à l’usage des professionnels de l’information
+    		</subtitle>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<publisher>
+    			<address><city>París</city></address>
+    			<publishername>ADBS</publishername>
+    			<pubdate>2005</pubdate>
+    		</publisher>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.adbs.fr"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref03">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Charles W.
+    				</firstname>
+    				<surname>
+    					BAILEY
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Open Access Bibliography
+    		</title>
+    		<subti 
+    			Liberating Scholarly Literature with E-Prints and Open Access Journals
+    		</subtitle>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<publisher>
+    			<publishername>Washington Association of Research Libraries</publishername>
+    			<pubdate>2005</pubdate>
+    		</publisher>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.escholarlypub.com/oab/oab.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref04">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Charles W.
+    				</firstname>
+    				<surname>
+    					BAILEY
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			What is Open Access?
+    		</title>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.digital-scholarship.com/cwb/WhatIsOA.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref05">
+    		<author>
+    			<personname>
+    				<firstname>
+    					José Manuel
+    				</firstname>
+    				<surname>
+    					BARRUECO CRUZ
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Fuentes en Internet para el estudio del acceso abierto a la literatura científica
+    		</title>
+    		<othercredit>
+    			<personname><surname>Maldonado Martínez</surname><firstname>Ángeles</firstname></personname>
+    			<personname><surname>Rodríguez Yunta</surname><firstname>Luis</firstname></personname>
+    			<phrase>(coors.)</phrase>
+    		</othercredit>
+    		<citetitle pubwork="book">
+    			La información especializada en Internet
+    		</citetitle>
+    		<edition>2ª ed. corr. y aum.</edition>
+    		<publisher>
+    			<address><city>Madrid</city></address>
+    			<publishername>CSIC</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    		<pagenums>p.155-172</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref06">
+    		<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					José Manuel
+	    				</firstname>
+	    				<surname>
+	    					BARRUECO
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Inma
+	    				</firstname>
+	    				<surname>
+	    					COLL SUBIRATS
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>
+    			Open Archives Initiative - Protocol for Metadata Harvesting (OAI-PMH)
+    		</title>
+    		<subtitle>
+    			descripción, funciones y aplicaciones de un protocolo
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			El profesional de la información
+    		</citetitle>
+    		<pubdate>
+    			2003
+    		</pubdate>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<volumenum>
+    			vol. 12
+    		</volumenum>
+    		<issuenum>
+    			n. 2
+    		</issuenum>
+    		<pagenums>p. 99-106</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.elprofesionaldelainformacion.com/contenidos/2003/marzo/2.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref07">
+    		<authorgroup>
+    			<author>
+	    			<personname><firstname>Chris</firstname><surname>BECKETT</surname></personname>
+	    		</author>
+	    		<author>
+	    			<personname><firstname>Simon</firstname><surname>INGER</surname></personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			Self-Archiving and Journal Subscriptions
+    		</title>
+    		<subtitle>
+    			Co-existence or Competition?
+    		</subtitle>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<publisher>
+    			<address><city>London</city></address>
+    			<publishername>Publishing Research Consortium</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.publishingresearch.org.uk"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref08">
+    		<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Antoni
+	    				</firstname>
+	    				<surname>
+	    					BORRÀS
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<othercredit><phrase>[et. al.]</phrase></othercredit>
+	    	</authorgroup>
+    		<title>
+    			Programari de codi lliure per gestionar dipòsits digitals
+    		</title>
+    		<subtitle>
+    			el procés de tria dut a terme al CBUC
+    		</subtitle>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<citetitle pubwork="journal">
+    			Bid: textos universitaris de biblioteconomia i documentació
+    		</citetitle>
+    		<pubdate>
+    			Juny 2006
+    		</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<issuenum>n. 16</issuenum>
+    		<bibliosource class="uri">
+    			Disponible en
+    			<link xl:href="http://www2.ub.edu/bid/consulta_articulos.php?fichero=16borras.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref09">
+    		<author>
+    			<personname>
+    				<firstname>
+    					María Antonia
+    				</firstname>
+    				<surname>
+    					CARRATO MENA
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Las colecciones digitales en España
+    		</title>
+    		<subtitle>
+    			situación actual y perspectivas de futuro
+    		</subtitle>
+    		<citetitle pubwork="">
+    			El Profesional de la Información
+    		</citetitle>
+    		<pubdate>julio-agosto 2008</pubdate>
+    		<volumenum>
+    			vol. 17
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>p. 418- 421</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref10">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Thierry
+    				</firstname>
+    				<surname>
+    					CHANIER
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Archives ouvertes et publication scientifique
+    		</title>
+    		<subtitle>
+    			comme mettre en place l’accès libre aux résultats de la recherche?
+    		</subtitle>
+    		<publisher>
+    			<address><city>Paris</city></address>
+    			<publishername>L’Harmattan</publishername>
+    			<pubdate>2004</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref11">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Raym
+    				</firstname>
+    				<surname>
+    					CROW
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			A guide to institutional repository software
+    		</title>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<edition>3<superscript>rd</superscript> ed.</edition>
+    		<publisher>
+    			<address><city>New York</city></address>
+    			<publishername>Open Society Institute</publishername>
+    			<pubdate>2004</pubdate>
+    		</publisher>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en: 
+    			<link xl:href="http://www.soros.org/openaccess/pdf/OSI_Guide_to_IR_Software_v3.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref12">
+    		<title>
+    			La ECOLOGÍA de los repositorios institucionales
+    		</title>
+    		<publisher>
+    			<address><city>Gijón</city></address>
+    			<pubdate>
+	    			12-14 diciembre de 2007
+	    		</pubdate>
+    		</publisher>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://ecologia-repositorios.blogspot.com"/>
+    		</bibliosource>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    	</biblioentry>
+    	<biblioentry xml:id="ref13">
+    		<editor>
+    			<personname>
+    				<firstname>
+    					Autrey
+    				</firstname>
+    				<surname>
+    					FERNEY
+    				</surname>
+    			</personname>
+    			<phrase>(ed.)</phrase>
+    		</editor>
+    		<title>
+    			Managing Digital Resources in Libraries
+    		</title>
+    		<publisher>
+    			<publishername>Haworth Information Press</publishername>
+    		</publisher>
+    		<pubdate>2005</pubdate>
+    	</biblioentry>
+    	<biblioentry xml:id="ref14">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Antonia
+    				</firstname>
+    				<surname>
+    					FERRER SAPENA
+    				</surname>
+    			</personname>
+    			<phrase>
+    				[et. al.]
+    			</phrase>
+    		</author>
+    		<title>
+    			Guía metodológica para la implantación de una biblioteca digital universitaria
+    		</title>
+    		<publisher>
+    			<address><city>Gijón</city></address>
+    			<publishername>Trea</publishername>
+    			<pubdate>2005</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref15">
+    		<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					E.A.
+	    				</firstname>
+	    				<surname>
+	    					FOX
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>S.R.</firstname>
+	    				<surname>URS</surname>
+	    			</personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>
+    			Digital libraries.
+    		</title>
+    		<citetitle pubwork="journal">
+    			Annual Review of Information Science and Technology
+    		</citetitle>
+    		<pubdate>
+    			2002
+    		</pubdate>
+    		<volumenum>
+    			vol. 36
+    		</volumenum>
+    		<pagenums>
+    			p. 503-589
+    		</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref16">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Elea
+    				</firstname>
+    				<surname>
+    					GIMÉNEZ
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Revistas electrónicas
+    		</title>
+    		<citetitle pubwork="book">
+    			La información especializada en Internet
+    		</citetitle>
+    		<othercredit>
+    			<personname><surname>Maldonado Martínez</surname><firstname>Ángeles</firstname></personname>
+    			<personname><surname>Rodríguez Yunta</surname><firstname>Luis</firstname></personname>
+    			<phrase>(coors.)</phrase>
+    		</othercredit>
+    		<edition>
+    			2ª ed. corr.y aum.
+    		</edition>
+    		<publisher>
+    			<address><city>Madrid</city></address>
+    			<publishername>CSIC</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    		<pagenums>p. 117-138</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref17">
+    		<author>
+    			<personname>
+    				<surname>
+    					GONZÁLEZ BARAHONA
+    				</surname>
+    			</personname>
+    			<phrase>[et. al.]</phrase>
+    		</author>
+    		<title>
+    			Copyleft
+    		</title>
+    		<subtitle>
+    			manual de uso
+    		</subtitle>
+			<publisher>
+				<address><city>Madrid</city></address>
+				<publishername>Traficantes de sueños</publishername>
+				<pubdate>2006</pubdate>
+			</publisher>
+			<pagenums>p. 19-40</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.manualcopyleft.net"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref18">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Jean-Claude
+    				</firstname>
+    				<surname>
+    					GUÉDON
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			The “Green” and “Gold” Roads to Open Access
+    		</title>
+    		<subtitle>
+    			The Case for Mixing and Matching
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			Serials Review
+    		</citetitle>
+    		<pubdate>2004</pubdate>
+    		<volumenum>
+    			vol. 30
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>
+    			p. 315-328
+    		</pagenums>
+    		<bibliosource class="uri">
+    			También disponible en 
+    			<link xl:href="http://eprints.rclis.org/archive/00003039/"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref19">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Stevan
+    				</firstname>
+    				<surname>
+    					HARNAD
+    				</surname>
+    			</personname>
+    			<phrase>[et. al.]</phrase>
+    		</author>
+    		<title>
+    			The Access/Impact Problem and the Green and Gold Roads to Open Access
+    		</title>
+    		<citetitle pubwork="journal">
+    			Serials Review
+    		</citetitle>
+    		<pubdate>2004</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<volumenum>
+    			vol. 30
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>
+    			p. 310-314
+    		</pagenums>
+    		<bibliosource class="uri">
+    			También accesible en 
+    			<link xl:href="http://users.ecs.soton.ac.uk/harnad/Temp/impact.htm"/>
+    		</bibliosource>
+    		<bibliomisc>
+    			<phrase>Existe una versión abreviada, titulada The green and the gold roads to Open Access” publicada en Nature [en línea], 17 mayo 2004 [Consulta 1 noviembre 2008].</phrase>
+    		</bibliomisc>
+	    	<bibliosource class="uri">
+    			Disponible en
+    			<link xl:href="http://www.nature.com/nature/focus/accessdebate/21.html" />
+    		</bibliosource>	
+    	</biblioentry>
+    	<biblioentry xml:id="ref20">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Tony
+	    				</firstname>
+	    				<surname>
+	    					HERNÁNDEZ PÉREZ
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					David
+	    				</firstname>
+	    				<surname>
+	    					RODRÍGUEZ MATEOS
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Gema
+	    				</firstname>
+	    				<surname>
+	    					BUENO DE LA FUENTE
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>	
+    		<title>
+    			Open Access
+    		</title>
+    		<subtitle>
+    			el papel de las bibliotecas en los repositorios institucionales de acceso abierto
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			Anales de documentación
+    		</citetitle>
+    		<pubdate>2007</pubdate>
+    		<issuenum>
+    			n. 10
+    		</issuenum>
+    		<pagenums>
+    			p. 185-204
+    		</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en:
+    			<link xl:href="http://www.um.es/fccd/anales/ad10/ad1010.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref21">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Terje
+	    				</firstname>
+	    				<surname>
+	    					HILLESUND
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Jon E.
+	    				</firstname>
+	    				<surname>
+	    					NORING
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>
+    			Digital libraries and the need for a universal digital publication format
+    		</title>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<citetitle pubwork="journal">
+    			Journal of Electronic Publishing
+    		</citetitle>
+    		<pubdate>Summer 2006</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<volumenum>
+    			vol. 9
+    		</volumenum>
+    		<issuenum>
+    			no. 2
+    		</issuenum>
+    		<bibliosource class="uri">
+    			Disponible en
+    			<link xl:href="http://hdl.handle.net/2027/spo.3336451.0009.203"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref22">
+    		<editor>
+    			<personname>
+    				<firstname>
+    					N.
+    				</firstname>
+    				<surname>
+    					JACOBS
+    				</surname>
+    			</personname>
+    			<phrase>(ed.)</phrase>
+    		</editor>
+    		<title>
+    			Open Access
+    		</title>
+    		<subtitle>
+    			Key strategic, technical and economic aspects
+    		</subtitle>
+    		<publisher>
+    			<address><city>Oxford</city></address>
+    			<publishername>Chandos Publishing</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref23">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Catherine
+    				</firstname>
+    				<surname>
+    					JONES
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Institutional repositories
+    		</title>
+    		<subtitle>
+    			content and culture in an open access environment
+    		</subtitle>
+    		<publisher>
+    			<address><city>London</city></address>
+    			<publishername>Chandos Publishing</publishername>
+    			<pubdate>2007</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref24">
+	    	<authorgroup>	
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Richard
+	    				</firstname>
+	    				<surname>
+	    					JONES
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Theo
+	    				</firstname>
+	    				<surname>
+	    					ANDREW
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					John
+	    				</firstname>
+	    				<surname>
+	    					MACCOLL
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			The institutional repository
+    		</title>
+    		<publisher>
+    			<address><city>London</city></address>
+    			<publishername>Chandos Publishing</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref25">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Alice
+    				</firstname>
+    				<surname>
+    					KEEFER
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Aproximació al moviment “open access”
+    		</title>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<citetitle pubwork="journal">
+    			Bid: textos universitaris de biblioteconomia i documentació
+    		</citetitle>
+    		<pubdate>
+    			desembre 2005 
+    		</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<issuenum>
+    			n. 15
+    		</issuenum>
+    		<bibliosource class="uri">
+    			Disponible en
+    			<link xl:href="http://www2.ub.edu/bid/consulta_articulos.php?fichero=15keefer.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref26">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Alice
+    				</firstname>
+    				<surname>
+    					KEEFER
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Los repositorios digitales universitarios y los autores
+    		</title>
+    		<citetitle pubwork="journal">
+    			Anales de documentación
+    		</citetitle>
+    		<pubdate>
+    			2007 
+    		</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<issuenum>
+    			n. 10
+    		</issuenum>
+    		<pagenums>
+    			p. 205-214.
+    		</pagenums>    		
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.um.es/fccd/anales/ad10/ad1011.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref27">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Rainer
+    				</firstname>
+    				<surname>
+    					KUHLEN
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Open access
+    		</title>
+    		<subtitle>
+    			un cambio de paradigma para la puesta a disposición pública del conocimiento. El desarrollo en Alemania
+    		</subtitle>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<citetitle pubwork="journal">
+    			BiD: textos universitaris de biblioteconomia i documentació
+    		</citetitle>
+    		<pubdate>
+    			jun. 2007
+    		</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<issuenum>
+    			núm. 18
+    		</issuenum>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www2.ub.edu/bid/consulta_articulos.php?fichero=18kuhle2.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref28">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Ignasi
+	    				</firstname>
+	    				<surname>
+	    					LABASTIDA JUAN
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					
+	    				</firstname>
+	    				<surname>
+	    					IGLESIAS REBOLLO
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			Guía sobre gestión de derechos de autor y acceso abierto en bibliotecas, servicios de documentación y archivos
+    		</title>
+    		<publisher>
+    			<address><city>Madrid</city></address>
+    			<publishername>CSIC</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.sedic.es/dchos_autor_normaweb.01.07.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref29">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Juan Carlos
+	    				</firstname>
+	    				<surname>
+	    					MARTÍN GARCÍA
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					José Antonio
+	    				</firstname>
+	    				<surname>
+	    					MERLO VEGA
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>
+    			Las revistas electrónicas
+    		</title>
+    		<subtitle>
+    			aracterísticas, fuentes de información y medios de acceso
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			Anales de documentación
+    		</citetitle>
+    		<pubdate>
+    			2003
+    		</pubdate>
+    		<volumenum>
+    			vol. 6
+    		</volumenum>
+    		<pagenums>
+    			p. 155-186
+    		</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en
+    			<link xl:href="http://www.um.es/fccd/anales/ad06/ad0611.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref30">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Karen
+	    				</firstname>
+	    				<surname>
+	    					MARKEY
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Soo Young
+	    				</firstname>
+	    				<surname>
+	    					RIEH
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Beth
+	    				</firstname>
+	    				<surname>
+	    					ST. JEAN
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Jihyun
+	    				</firstname>
+	    				<surname>
+	    					KIM
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Elizabeth
+	    				</firstname>
+	    				<surname>
+	    					YAKEL
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			Census of institutional repositories in the United States
+    		</title>
+    		<publisher>
+    			<address><city>Washington</city></address>
+    			<publishername>Council on Library and Information Resources</publishername>
+    			<pubdate>2007</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref31">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Saúl
+    				</firstname>
+    				<surname>
+    					MARTÍNEZ EQUIHUA
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Biblioteca digital
+    		</title>
+    		<subtitle>
+    			conceptos, recursos y estándares
+    		</subtitle>
+    		<publisher>
+    			<address><city>Buenos Aires</city></address>
+    			<publishername>Alfagrama</publishername>
+    			<pubdate>2007</pubdate>
+    		</publisher>
+    	</biblioentry>
+    	<biblioentry xml:id="ref32">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Remedios
+    				</firstname>
+    				<surname>
+    					MELERO
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Acceso abierto a las publicaciones científicas
+    		</title>
+    		<subtitle>
+    			definición, recursos, copyright e impacto
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			El profesional de la información
+    		</citetitle>
+    		<pubdate>
+    			2005
+    		</pubdate>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<date>julio-agosto</date>
+    		<volumenum>
+    			v. 15
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>
+    			p. 255-266
+    		</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.elprofesionaldelainformacion.com"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref33">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Thinh
+    				</firstname>
+    				<surname>
+    					NGUYEN
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Open doors and open minds
+    		</title>
+    		<subtitle>
+    			What faculty authors can do to ensure open access to their work through their institution
+    		</subtitle>
+    		<publisher>
+    			<address><city>Cambridge</city></address>
+    			<publishername>Science Commons</publishername>
+    			<address><city>Washington</city></address>
+    			<publishername>SPARC</publishername>
+    			<pubdate>2008</pubdate>
+    		</publisher>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.arl.org/sparc/bm~doc/opendoors_v1.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref34">
+    		<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					David
+	    				</firstname>
+	    				<surname>
+	    					NICHOLAS
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Paul
+	    				</firstname>
+	    				<surname>
+	    					HUNTINGTON
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Jamali
+	    				</firstname>
+	    				<surname>
+	    					HAMID R.
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>
+    			Open access in context
+    		</title>
+    		<subtitle>
+    			a user study
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			Journal of Documentation
+    		</citetitle>
+    		<pubdate>2007</pubdate>
+    		<volumenum>
+    			Vol. 63
+    		</volumenum>
+    		<issuenum>
+    			No. 6
+    		</issuenum>
+    		<pagenums>
+    			p. 853-878
+    		</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref35">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Elena
+    				</firstname>
+    				<surname>
+    					PRIMO PEÑA
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Plataformas de acceso a publicaciones periódicas
+    		</title>
+    		<citetitle pubwork="book">
+    			La información especializada en Internet
+    		</citetitle>
+    		<othercredit>
+    			<personname>
+    				<surname>Maldonado Martínez</surname><firstname>Ángeles</firstname>
+    			</personname>
+    			<personname>
+    				<surname>Rodríguez Yunta</surname><firstname>Luis</firstname>
+    			</personname>
+    			<phrase>(coors.)</phrase>
+    		</othercredit>
+    		<edition>
+    			2ª ed. corr.y aum.
+    		</edition>
+    		<publisher>
+    			<address><city>Madrid</city></address>
+    			<publishername>CSIC</publishername>
+    			<pubdate>2006</pubdate>
+    		</publisher>
+    		<pagenums>p. 139-154</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref36">
+    		<title>
+    			REVISTAS científicas electrónicas
+    		</title>
+    		<subtitle>
+    			estado del arte 
+    		</subtitle>
+    		<bibliomisc>
+    			<phrase>[en línea]</phrase>
+    		</bibliomisc>
+    		<publisher>
+    			<address><city>Madrid</city></address>
+    			<publishername>CINDOC</publishername>
+    			<pubdate>2004</pubdate>
+    		</publisher>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.tecnociencia.es/e-revistas/especiales/revistas/pdf/e-revistas_informe.pdf"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref37">
+    		<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Blanca
+	    				</firstname>
+	    				<surname>
+	    					RODRÍGUEZ BRAVO
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					M. Luisa
+	    				</firstname>
+	    				<surname>
+	    					ALVITE DÍEZ
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			E-science and open access repositories in Spain
+    		</title>
+    		<citetitle pubwork="journal">
+    			OCLC Systems & Services
+    		</citetitle>
+    		<pubdate>2007</pubdate>
+    		<volumenum>
+    			vol. 23
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>
+    			p. 363-371
+    		</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref38">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Adolfo
+    				</firstname>
+    				<surname>
+    					RODRÍGUEZ GALLARDO
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Acceso abierto y bibliotecas académicas
+    		</title>
+    		<citetitle pubwork="">
+    			Revista Interamericana de Bibliotecología
+    		</citetitle>
+    		<pubdate>2007</pubdate>
+    		<volumenum>
+    			vol. 30
+    		</volumenum>
+    		<issuenum>
+    			n. 1
+    		</issuenum>
+    		<pagenums>
+    			93-104
+    		</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en
+    			<link xl:href="http://eprints.rclis.org/archive/00011581"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref39">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Joaquín
+    				</firstname>
+    				<surname>
+    					RODRÍGUEZ LÓPEZ
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Ciencia y comunicación científica
+    		</title>
+    		<subtitle>
+    			edición digital y otros fundamentos del libre acceso al conocimiento
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			El profesional de la información
+    		</citetitle>
+    		<pubdate>
+    			2005
+    		</pubdate>
+    		<date>julio/agosto</date>
+    		<volumenum>
+    			vol. 14
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>pp. 246-254</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.elprofesionaldelainformacion.com"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref40">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Bernard
+    				</firstname>
+    				<surname>
+    					ROUS
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Electronic publishing models and the public good
+    		</title>
+    		<citetitle pubwork="journal">
+    			Nature
+    		</citetitle>
+    		<bibliomisc><phrase>[en línea]</phrase></bibliomisc>
+    		<pubdate>
+    			13 septiembre 2004
+    		</pubdate>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.nature.com/nature/focus/accessdebate/33.html"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref41">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Nancy
+    				</firstname>
+    				<surname>
+    					SÁNCHEZ TARRAGÓ
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			El movimiento de acceso abierto a la información y las políticas nacionales e institucionales de autoarchivo
+    		</title>
+    		<citetitle pubwork="journal">
+    			Acimed 
+    		</citetitle>
+    		<bibliomisc><phrase>[en línea]</phrase></bibliomisc>
+    		<pubdate>
+    			septiembre 2007
+    		</pubdate>
+    		<volumenum>
+    			vol. 16
+    		</volumenum>
+    		<issuenum>
+    			n. 3
+    		</issuenum>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://bvs.sld.cu/revistas/aci/vol16_3_07/acisu907.html"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref42">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Yanetsys
+	    				</firstname>
+	    				<surname>
+	    					SARDUY DOMÍNGUEZ
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Pedro
+	    				</firstname>
+	    				<surname>
+	    					URRA GONZÁLEZ
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			Sistemas de gestión de contenidos
+    		</title>
+    		<subtitle>
+    			en busca de una plataforma ideal 
+    		</subtitle>
+    		<bibliomisc><phrase>[en línea]</phrase></bibliomisc>
+    		<citetitle pubwork="journal">
+    			Acimed
+    		</citetitle>
+    		<pubdate>
+    			julio-agosto 2006
+    		</pubdate>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<volumenum>
+    			vol. 14
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://bvs.sld.cu/revistas/aci/vol14_4_06/aci11406.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref43">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Teresa
+    				</firstname>
+    				<surname>
+    					SILIÓ
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Fundamentos tecnológicos del acceso abierto
+    		</title>
+    		<subtitle>
+    			Open Archives Initiative y Open Archival Information System
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			El profesional de la información
+    		</citetitle>
+    		<pubdate>sept./oct. 2005</pubdate>
+    		<volumenum>
+    			vol. 14
+    		</volumenum>
+    		<issuenum>
+    			n. 5
+    		</issuenum>
+    		<pagenums>
+    			365-380
+    		</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.elprofesionaldelainformacion.com"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref44">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Peter
+    				</firstname>
+    				<surname>
+    					SUBER
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Guide to the Open Access Movement
+    		</title>
+    		<publisher>
+    			<address><city>Richmond</city></address>
+    			<publishername>Earlham College</publishername>
+    			<pubdate>2004</pubdate>
+    		</publisher>
+    		<bibliomisc><phrase>Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.earlham.edu/~peters/fos/guide.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref45">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Peter
+    				</firstname>
+    				<surname>
+    					SUBER
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Open Access Overview
+    		</title>
+    		<publisher>
+    			<address><city>Richmond</city></address>
+    			<publishername>Earlham College</publishername>
+    			<pubdate>2004-2007</pubdate>
+    		</publisher>
+    		<bibliomisc>
+    			<phrase>[Consulta 1 noviembre 2008]</phrase>
+    		</bibliomisc>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.earlham.edu/~peters/fos/overview.htm"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref46">
+    		<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Alma
+	    				</firstname>
+	    				<surname>
+	    					SWAN
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Sheridan
+	    				</firstname>
+	    				<surname>
+	    					BROWN
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    	</authorgroup>
+    		<title>
+    			Open access self-archiving
+    		</title>
+    		<subtitle>
+    			an author study
+    		</subtitle>
+    		<publisher>
+    			<address><city>Cornwall</city></address>
+    			<publishername>Key Perspectives Limited</publishername>
+    			<pubdate>2005</pubdate>
+    		</publisher>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.keyperspectives.co.uk"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref47">
+	    	<authorgroup>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Jesús
+	    				</firstname>
+	    				<surname>
+	    					TRAMULLAS SAZ
+	    				</surname>
+	    			</personname>
+	    		</author>
+	    		<author>
+	    			<personname>
+	    				<firstname>
+	    					Piedad
+	    				</firstname>
+	    				<surname>
+	    					GARRIDO PICAZO
+	    				</surname>
+	    			</personname>
+	    		</author>
+    		</authorgroup>
+    		<title>
+    			 Software libre para repositorios institucionales
+    		</title>
+    		<citetitle pubwork="journal">
+    			El profesional de la información
+    		</citetitle>
+    		<pubdate>
+    			mayo/junio 2006
+    		</pubdate>
+    		<volumenum>
+    			vol. 15
+    		</volumenum>
+    		<issuenum>
+    			n. 3
+    		</issuenum>
+    		<pagenums>p. 171-181</pagenums>
+    	</biblioentry>
+    	<biblioentry xml:id="ref48">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Josep
+    				</firstname>
+    				<surname>
+    					VIVES I GRÀCIA
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Aspectos de propiedad intelectual en la creación y gestión de repositorios institucionales
+    		</title>
+			<citetitle pubwork="journal">
+    			El profesional de la información
+    		</citetitle>
+    		<pubdate>2005</pubdate>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<date>julio-agosto</date>
+    		<volumenum>
+    			v. 15
+    		</volumenum>
+    		<issuenum>
+    			n. 4
+    		</issuenum>
+    		<pagenums>
+    			p. 267-278
+    		</pagenums>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.elprofesionaldelainformacion.com"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref49">
+    		<author>
+    			<personname>
+    				<firstname>
+    					Raquel
+    				</firstname>
+    				<surname>
+    					XALABARDER PLANTADA
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			Las licencias Creative Commons
+    		</title>
+    		<subtitle>
+    			¿una alternativa al copyright?
+    		</subtitle>
+    		<citetitle pubwork="journal">
+    			UOC Papers
+    		</citetitle>
+    		<pubdate>
+    			2006
+    		</pubdate>
+    		<bibliomisc><phrase>[Consulta 1 noviembre 2008]</phrase></bibliomisc>
+    		<issuenum>
+    			n. 2
+    		</issuenum>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://www.uoc.edu/uocpapers/dt/esp/xalabarder.html"/>
+    		</bibliosource>
+    	</biblioentry>
+    	<biblioentry xml:id="ref50">
+    		<author>
+    			<personname>
+    				<firstname>
+    					John
+    				</firstname>
+    				<surname>
+    					WILLINSKY
+    				</surname>
+    			</personname>
+    		</author>
+    		<title>
+    			The Access Principle
+    		</title>
+    		<subtitle>
+    			The Case for Open Access to Research and Scholarship
+    		</subtitle>
+    		<publisher>
+    			<address><city>Cambridge</city></address>
+    			<publishername>MIT Press</publishername>
+    			<pubdate>2005</pubdate>
+    		</publisher>
+    		<bibliosource class="uri">
+    			Disponible en 
+    			<link xl:href="http://mitpress.mit.edu"/>
+    		</bibliosource>
+    	</biblioentry>
+    </bibliolist>
+  </section>
+  <section xml:id="ch06d">
+    <title>Declaraciones</title>
+    <section xml:id="ch06d1">
+    	<title>Iniciativa de Budapest para el acceso abierto 1 y 2 de diciembre de 2001</title>
+    	<para>
+    		Una vieja tradición y una nueva tecnología convergen para hacer posible un bien público sin precedente. La vieja tradición es el deseo de 
+    		los científicos y académicos por publicar los frutos de su investigación en revistas académicas sin tener que pagar por ello, tan solo por 
+    		el gusto de indagar y por el conocimiento. La nueva tecnología es Internet. El bien público  que hacen posible es la distribución electrónica 
+    		en la red de redes de literatura periódica revisada por pares completamente gratuita y sin restricciones de acceso por todos los científicos, 
+    		académicos, maestros, estudiantes y otras mentes curiosas. Retirar las barreras de acceso a esta literatura acelerará la investigación, 
+    		enriquecerá la educación, compartirá el aprendizaje de los ricos con los pobres y el de los pobres con el de los ricos, hará esta literatura 
+    		tan útil como sea posible y sentará los cimientos para unir a la humanidad en una conversación intelectual común y búsqueda del conocimiento.
+    	</para>
+    	<para>
+    		Por varias razones este tipo de disponibilidad en línea gratuita y sin restricciones, que llamaremos libre acceso, ha sido limitada hasta la 
+    		fecha a pequeñas porciones de literatura periódica. Pero aún en estas limitadas colecciones, muchas y diversas iniciativas  han demostrado 
+    		que el acceso abierto es económicamente viable (posible), que le da a los lectores un poder extraordinario para encontrar y usar literatura 
+    		relevante, y que ofrece a los autores y a sus trabajos una nueva visibilidad, legibilidad e impacto,  vastos y medibles. Para asegurar estos 
+    		beneficios para todos, hacemos un llamado a todas las instituciones e individuos interesados para que ayuden a incrementar al acceso abierto 
+    		al resto de este tipo de literatura y retiren las barreras, en especial las barreras de precio que se interponen en este camino. Mientras más 
+    		nos sumemos en el esfuerzo para el avance de esta causa, más rápido disfrutaremos de los beneficios del acceso abierto.
+    	</para>
+    	<para>
+    		La literatura que debería accesarse libremente en línea, es aquella que los académicos dan al mundo sin la expectativa de recibir pago. 
+    		Básicamente, es la categoría compuesta por sus artículos revisados por pares, destinados a publicaciones periódicas; pero también incluye 
+    		cualquier preprint sin revisión que quizás les gustaría poner en línea para comentar o alertar a otros colegas sobre la importancia de hallazgos 
+    		de investigación. Hay muchos grados y tipos de acceso amplio y fácil a esta literatura. Por "acceso abierto" a esta literatura queremos decir su 
+    		disponibilidad gratuita en Internet público, permitiendo a cualquier usuario leer, descargar, copiar, distribuir, imprimir, buscar o usarlos con 
+    		cualquier propósito legal, sin ninguna barrera financiera, legal o técnica, fuera de las que son inseparables de las que implica acceder a Internet 
+    		mismo. La única limitación en cuanto a reproducción y distribución  y el único rol del copyright en este dominio, deberá ser dar a los autores el 
+    		control sobre la integridad de sus trabajos y el derecho de ser adecuadamente reconocidos y citados.
+    	</para>
+    	<para>
+    		Mientras que la literatura periódica revisada por pares debería des accesible en línea sin costo para los lectores, producirla no sucede sin costos.  
+    		Sin embargo hay experimentos que demuestran que en costo promedio de proveer acceso abierto a esta literatura, es mucho más bajo que el costo 
+    		tradicional de las formas tradicionales de diseminación.  Esta oportunidad de ahorrar dinero y expandir al mismo tiempo la cobertura de la 
+    		diseminación, representan un fuerte incentivo para profesionales, asociaciones, universidades, bibliotecas, fundaciones, etc., para abrazar el 
+    		acceso abierto como un medio de avanzar en sus misiones. Alcanzar el acceso abierto nuevos modelos de recuperación de costos y mecanismos de 
+    		financiación, pero la significativa reducción promedio del costo de la diseminación es una razón para confiar en que el objetivo el alcanzable y 
+    		no solo preferible o utópico.
+    	</para>
+    	<para>
+    		Para lograr el acceso abierto a la literatura periódica académica, recomendamos dos estrategias complementarias:
+    	</para>
+    	<orderedlist numeration="upperroman">
+    		<listitem>
+    			<para>
+    				Auto Archivo: Primero: Los académicos requieren herramientas y asistencia para depositar sus artículos referidos en archivos electrónicos 
+    				abiertos, una prácticas comúnmente denominada "auto-archivo". Cuando estos archivos alcanzan los estándares creados por la Iniciativa de 
+    				Acceso Abierto, los buscadores y otras herramientas pueden tratar los archivos separados como uno. Los usuarios no necesitan saber qué 
+    				archivos existen o dónde se localizan para encontrarlos y usar su contenido.
+    			</para>
+    		</listitem>
+    		<listitem>
+    			<para>
+    				Publicaciones periódicas de Acceso Abierto: Segundo, Los académicos necesitan los medios para crear una nueva generación de publicaciones 
+    				periódicas comprometidas con el acceso abierto y para ayudar a las existentes que son elegibles para hacer la transición al acceso abierto. 
+    				Debido a que los artículos de estas publicaciones deberán diseminarse tan ampliamente como sea posible, las nuevas publicaciones no podrán 
+    				invocar restricciones de acceso por asuntos del copyright del material que publican. En cambio, usarán el copyright y otras herramientas 
+    				para asegurarse del permanente acceso abierto a todos los artículos que publiquen. Debido a que el precio es una barrera al acceso, estas 
+    				nuevas publicaciones no cargarán cuotas de suscripción ni acceso y buscarán otras formas para cubrir sus gastos. Hay muchas fuentes 
+    				alternativas de financiamiento, incluyendo fundaciones y financiamiento de la investigación por parte del gobierno, las universidades y 
+    				laboratorios que emplean investigadores, donaciones organizadas por disciplina o institución, amigos de la causa del acceso abierto, 
+    				ganancias de las ventas de anuncios en textos básicos, recu8peración de fondos de la disminución o cancelación de suscripciones a publicaciones 
+    				tradicionales o cuotas de acceso, o incluso contribuciones de los propios investigadores. No hay necesidad de favorecer una sola de estas 
+    				soluciones sobre las demás para todas las áreas del conocimiento o para todas las naciones, ni tampoco se trata de dejar de buscar otras 
+    				alternativas creativas.
+    			</para>
+    		</listitem>
+    	</orderedlist>
+    	<para>
+    		El objetivo es el acceso abierto a literatura periódica revisada por pares. El auto-archivo (I) y una nueva generación de publicaciones periódicas 
+    		de acceso abierto (II) son los caminos para alcanzar este objetivo. No sólo son medios directos y efectivos hacia este fin, sino que están al 
+    		alcance inmediato de los propios académicos y no requieren de tiempos de espera por asuntos del mercado o de legislación. Mientras avalemos estas 
+    		dos estrategias recién descritas, también estaremos impulsando la experimentación con nuevas formas de hacer la transición de los métodos actuales 
+    		de diseminación hacia el acceso abierto. La flexibilidad, la experimentación y la adaptación a las circunstancias locales son la mejor forma de 
+    		asegurar que el progreso en regiones y ambientes diversos sea rápido, seguro y duradero.
+    	</para>
+    	<para>
+    		La red original del Instituto para un Sociedad Abierta (Open Society Institute OSI), fundada por el filántropo George Soros, está comprometida a 
+    		proveer la ayuda inicial y el apoyo para alcanzar este objetivo. Usará sus recursos e influencia para extender y promover el auto-archivo 
+    		institucional, el lanzamiento de publicaciones de acceso abierto y para ayudar a que un sistema de publicaciones de acceso abierto llegue a 
+    		ser auto-sustentable. En tanto que el compromiso y los recursos del Instituto para una Sociedad Abierta sean sustanciales, esta iniciativa 
+    		requiere del enorme apoyo de otras organizaciones que sumen su esfuerzo y sus recursos.
+    	</para>
+    	<para>
+    		Invitamos a gobiernos, universidades, bibliotecas, editores de publicaciones periódicas, fundaciones, asociaciones profesionales, clubes y 
+    		académicos e investigadores que compartan nuestra visión, a que se unan a la tarea de remover las barreras que se oponen al acceso abierto y 
+    		construyamos un futuro en el que la investigación y la educación, en todas partes del mundo, florezca con mucha más libertad.
+    	</para>
+    	<para>
+    		Fuente: <citation>Open Society Institute and Soros Foundation Network</citation>. 
+    		&lt;<link xl:href="http://www.soros.org/openaccess/esp/read.shtml" />&gt;
+    	</para>
+    </section>
+    <section xml:id="ch06d2">
+    	<title>Declaración de Berlín sobre acceso abierto al conocimiento en ciencias y humanidades20 de octubre de 2003</title>
+    	<section>
+    		<title>Prefacio</title>
+    		<para>
+    			La Internet ha cambiado fundamentalmente las realidades prácticas y económicas relacionadas con la distribución del conocimiento científico 
+    			y el patrimonio cultural. Por primera vez en todos los tiempos, la Internet nos ofrece la oportunidad de construir una representación global 
+    			e interactiva del conocimiento humano, incluyendo el patrimonio cultural, y la perspectiva de acceso a escala mundial.
+    		</para>
+    		<para>
+    			Quienes firmamos este documento, nos sentimos obligados a considerar los retos de la Internet como medio funcional emergente para la 
+    			distribución del conocimiento. Obviamente, estos desarrollos podrán modificar de manera significativa la naturaleza de hacer la publicación 
+    			científica, lo mismo que el actual sistema de certificación de la calidad.
+    		</para>
+    		<para>
+    			En concordancia con el espíritu de la Declaración de la Iniciativa sobre Acceso Abierto de Budapest, la Carta de ECHO y la Declaración de 
+    			Bethesda sobre Publicación para Acceso Abierto, hemos redactado la Declaración de Berlín para promover la Internet como el instrumento 
+    			funcional que sirva de base global del conocimiento científico y la reflexión humana, y para especificar medidas que deben ser tomadas en 
+    			cuenta por los encargados de las políticas de investigación, y por las instituciones científicas, agencias de financiamiento, bibliotecas, 
+    			archivos y museos.
+    		</para>
+    	</section>
+    	<section>
+    		<title>Metas</title>
+    		<para>
+    			Nuestra misión de diseminar el conocimiento será incompleta si la información no es puesta a disposición de la sociedad de manera expedita 
+    			y amplia. Es necesario apoyar nuevas posibilidades de diseminación del conocimiento, no solo a través de la manera clásica, sino también 
+    			utilizando el paradigma del acceso abierto por medio de la Internet. Definimos el acceso abierto como una amplia fuente de conocimiento 
+    			humano y patrimonio cultural aprobada por la comunidad científica.
+    		</para>
+    		<para>
+    			Para que se pueda alcanzar la visión de una representación del conocimiento global y accesible, la Web del futuro tiene que ser sustentable, 
+    			interactiva y transparente. El contenido y las herramientas de software deben ser libremente accesibles y compatibles.
+    		</para>
+    	</section>
+    	<section>
+    		<title>Definición de una contribución de acceso abierto</title>
+    		<para>
+    			Para establecer el acceso abierto como un procedimiento meritorio, se requiere idealmente el compromiso activo de todos y cada uno de quienes 
+    			producen conocimiento científico y mantienen el patrimonio cultural. Las contribuciones del acceso abierto incluyen los resultados de la 
+    			investigación científica original, datos primarios y metadatos, materiales fuentes, representaciones digitales de materiales gráficos y 
+    			pictóricos, y materiales eruditos en multimedia.
+    		</para>
+    		<para>
+    			Las contribuciones de acceso abierto deben satisfacer dos condiciones:
+    		</para>
+    		<orderedlist>
+    			<listitem>
+    				<para>
+    					El(los) autor(es) y depositario(s) de la propiedad intelectual de tales contribuciones deben garantizar a todos los usuarios por igual, 
+    					el derecho gratuito, irrevocable y mundial de acceder a un trabajo erudito, lo mismo que licencia para copiarlo, usarlo, distribuirlo, 
+    					transmitirlo y exhibirlo públicamente, y para hacer y distribuir trabajos derivativos, en cualquier medio digital para cualquier 
+    					propósito responsable, todo sujeto al reconocimiento apropiado de autoría (los estándares de la comunidad continuarán proveyendo 
+    					los mecanismos para hacer cumplir el reconocimiento apropiado y uso responsable de las obras publicadas, como ahora se hace), lo 
+    					mismo que el derecho de efectuar copias impresas en pequeño número para su uso personal.
+    				</para>
+    			</listitem>
+    			<listitem>
+    				<para>
+    					Una versión completa del trabajo y todos sus materiales complementarios, que incluya una copia del permiso del que se habla arriba, en 
+    					un conveniente formato electrónico estándar, se deposita (y así es publicado) en por lo menos un repositorio online, que utilice 
+    					estándares técnicos aceptables (tales como las definiciones del acceso abierto), que sea apoyado y mantenido por una institución 
+    					académica, sociedad erudita, agencia gubernamental, o una bien establecida organización que busque la implementación del acceso 
+    					abierto, distribución irrestricta, interoperabilidad y capacidad archivística a largo plazo.
+    				</para>
+    			</listitem>
+    		</orderedlist>
+    	</section>
+    	<section>
+    		<title>Apoyo de la transición al paradigma del acceso abierto electrónico</title>
+    		<para>
+    			Nuestras organizaciones tienen interés en la mayor promoción del nuevo paradigma del acceso abierto para obtener el máximo beneficio para 
+    			la ciencia y la sociedad. En consecuencia, intentamos progresar en este empeño:
+    		</para>
+    		<itemizedlist>
+    			<listitem>
+    				<para>
+    					estimulando a nuestros investigadores/beneficiarios de ayuda a publicar sus trabajos de acuerdo con los principios del paradigma 
+    					del acceso abierto.
+    				</para>
+    			</listitem>
+    			<listitem>
+    				<para>
+    					estimulando a los depositarios del patrimonio cultural para que apoyen el acceso abierto distribuyendo sus recursos a través de 
+    					la Internet.
+    				</para>
+    			</listitem>
+    			<listitem>
+    				<para>
+    					desarrollando medios y maneras de evaluar las contribuciones de acceso abierto y las revistas electrónicas, para mantener estándares 
+    					de garantía de calidad y práctica científica sana.
+    				</para>
+    			</listitem>
+    			<listitem>
+    				<para>
+    					abogando porque la publicación en acceso abierto sea reconocida como factor de evaluación para efectos de ascensos y tenencia académica.
+    				</para>
+    			</listitem>
+    			<listitem>
+    				<para>
+    					reclamando el mérito intrínseco de las contribuciones a una infraestructura de acceso abierto mediante el desarrollo de herramientas 
+    					de software, provisión de contenido, creación de metadatos, o la publicación de artículos individuales.
+    				</para>
+    			</listitem>
+    		</itemizedlist>
+    		<para>
+    			Nos damos cuenta de que el proceso de desplazarse al acceso abierto cambia la diseminación de conocimiento en lo que respecta a cuestiones 
+    			legales y financieras. Nuestras organizaciones tienen el propósito de encontrar soluciones que ayuden a un mayor desarrollo de los marcos 
+    			legales y financieros existentes, con el fin de facilitar óptimo uso y acceso.
+    		</para>
+    		<para>
+    			Fuente: <citation>Traducción al español de GeoTrópico</citation>
+    			&lt;<link xl:href="http://www.geotropico.org/1_2_Documentos_Berlin.html" />&gt;
+    		</para>
+    	</section>
+    </section>
+  </section>
+</chapter>

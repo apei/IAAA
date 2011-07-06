@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appendix xml:id="bio"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Autores</title>
+  <section xml:id="bio01">
+  	<title>Julio Alonso Arévalo</title>
+  	<informalfigure xml:id="bio01img">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-041.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Julio Alonso Arévalo 
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Julio Alonso Arévalo es Jefe de Biblioteca de la Facultad de Traducción y Documentación de la Universidad de Salamanca. Es creador y coordinador 
+		de la lista de información en Documentación InfoDOC. Desde hace más de diez años pertenece al Grupo RCLIS desde donde se han impulsado proyectos 
+		tan destacados como DoIS (Documents in Information Science) y el archivo abierto E-LIS (Eprints in Library and Information Science).Es autor de 
+		diferentes artículos y presentaciones a cursos y reuniones cientificas, con una orientación hacia los recursos de apoyo a la investigación y al 
+		acceso abierto a la producción intelectual.
+	</para>
+  </section>
+  <section xml:id="bio02">
+  	<title>Inma Subirats Coll</title>
+  	<informalfigure xml:id="bio02img">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-040.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Inma Subirats Coll 
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Imma Subirats Coll es Licenciada en Documentación por la Universidad de Barcelona. Actualmente trabaja en la Food and Agriculture Organization (FAO) 
+		de las Naciones Unidas como especialista en gestión de la información. Colabora en la creación del archivo abierto de la FAO así como en proyectos 
+		internacionales para la promoción y gestión del libre acceso a la información científica dentro del campo de la agricultura, pesca y foresta. Ha 
+		publicado varios trabajos sobre acceso abierto a la información científica, bibliotecas digitales y gestión de información electrónica. Es coordinadora 
+		y responsable de E-LIS, Eprints in Library and Information Science, repositorio temático dedicado a la Biblioteconomía y Documentación creado en el 2003.
+	</para>
+  </section>
+  <section xml:id="bio03">
+  	<title>María Luisa Martínez Conde</title>
+  	<informalfigure xml:id="bio03img">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="Images/INF-2-042.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				María Luisa Martínez Conde 
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		María Luisa Martínez Conde pertenece al Cuerpo Facultativo de Archiveros, Bibliotecarios y Arqueólogos. Ha sido Jefe del Servicio de Bases de 
+		Datos Bibliográficas de la Biblioteca Nacional y Consejera Técnica de la Subdirección General de Coordinación Bibliotecaria. Actualmente es jefe 
+		del Área de Proyectos de la SGCB, entre los que se encuentran el Directorio y Recolector de Recursos Digitales, la Biblioteca Virtual de Prensa 
+		Histórica y la Biblioteca Virtual del Patrimonio Bibliográfico. Ha sido miembro del comité permanente de la Sección de Tecnologías de la 
+		Información de IFLA y participa en el proyecto EuropeanaLocal que tiene entre sus objetivos promover la implementación de repositorios OAI-PMH 
+		en el área de las bibliotecas regionales y locales.
+	</para>
+  </section>
+</appendix>
