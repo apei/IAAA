@@ -16,65 +16,94 @@
     </para>
     <para>
     	A fecha de julio de 2008, se han implementado en España, de acuerdo con los datos que recoge el <emphasis role="strong">Directorio y 
-    	recolector de recursos digitales</emphasis><superscript><xref linkend="ch05n59" /></superscript> del Ministerio de Cultura, 56 repositorios 
-    	OAI-PMH de los que 43 corresponden a iniciativas de 31 universidades<superscript><xref linkend="ch05n60" /></superscript>  y al Consejo 
-    	Superior de Investigaciones Científicas (CSIC), 3 a iniciativas de los Ministerios de Cultura y Educación y Ciencia<superscript><xref linkend="ch05n61" /></superscript>, 
-    	3 a bibliotecas nacionales o regionales<superscript><xref linkend="ch05n62" /></superscript> y el resto a distintas iniciativas públicas y 
-    	privadas<superscript><xref linkend="ch05n63" /></superscript>.
+    	recolector de recursos digitales</emphasis><footnote><para><link xl:href="http://roai.mcu.es" /></para></footnote> del Ministerio de Cultura, 56 repositorios 
+    	OAI-PMH de los que 43 corresponden a iniciativas de 31 universidades<footnote><para>Disponen de uno o más repositorios las siguientes universidades: Universidad 
+    	Abat Oliba, Universidad Abierta de Cataluña, Universidad Autónoma de Barcelona, Universidad Autónoma de Madrid, Universidad Carlos III de Madrid, Universidad 
+    	Complutense de Madrid, Universidad de A Coruña, Universidad de Alcalá de Henares, Universidad de Alicante, Universidad de Barcelona, Universidad de Burgos, 
+    	Universidad de Cantabria, Universidad de Girona, Universidad de les Illes Balears, Universidad Jaume I, Universidad de La Rioja, Universidad de Lleida, 
+    	Universidad de Murcia, Universidad de Navarra, Universidad de Oviedo, Uni- versidad de Valencia, Universidad de Vic, Universidad de Zaragoza, Universidad 
+    	Internacional de Cataluña, Universidad Nacional de Educación a Distancia, Universidad Politécnica de Cataluña, Universidad Politécnica de Madrid, Universidad 
+    	Pompeu Fabra, Universidad Ramon Llull, Universidad Rovira i Virgili y Universidad Rey Juan Carlos.</para></footnote> y al Consejo 
+    	Superior de Investigaciones Científicas (CSIC), 3 a iniciativas de los Ministerios de Cultura y Educación y Ciencia<footnote><para>Biblioteca Virtual de Prensa 
+    	Histórica y Biblioteca Virtual del Patrimonio Bibliográfico, del Ministerio de Cultura y REDINED (Red de Bases de Datos de Información Educativa) del Ministerio 
+    	de Educación y Ciencia.</para></footnote>, 3 a bibliotecas nacionales o regionales<footnote><para>Biblioteca Nacional, Biblioteca de Cataluña y Biblioteca 
+    	Virtual de Andalucía</para></footnote> y el resto a distintas iniciativas públicas y privadas<footnote><para>Se trata de la Biblioteca Virtual de Derecho Aragonés, 
+    	la Biblioteca Lastanosa del Instituto de Estudios Altoaragoneses, E-Lis, Invenia y Temaria.</para></footnote>.
     </para>
     <para>
     	En los dos últimos años el número de repositorios ha experimentado un crecimiento del 125%. Así, en marzo de 2006, fecha en la que se puso 
     	en producción el referido Directorio, la cifra era de 25, de los que 23 eran repositorios universitarios. Hay que tener en cuenta, además, 
     	que un número importante se encuentra en fase de desarrollo. Entre estos, un total de 21 financiados total o parcialmente por medio de la 
-    	convocatoria de ayudas de la Dirección General del Libro, Archivos y Bibliotecas del Ministerio de Cultura<superscript><xref linkend="ch05n64" /></superscript> 
-    	deberán estar operativos antes de finales de 2008.
+    	convocatoria de ayudas de la Dirección General del Libro, Archivos y Bibliotecas del Ministerio de Cultura<footnote><para>Resolución de 10 
+    	de mayo de 2007 (BOE de 27 de mayo) por la que se convocan ayudas para la creación y transformación de recursos digitales y su difusión y 
+    	preservación mediante repositorios OAI-PMH</para></footnote> deberán estar operativos antes de finales de 2008.
     </para>
     <para>
     	Por otra parte, en ese período de tiempo, se han implementados dos recolectores, el del Ministerio de Cultura y, en febrero de este año, 
-    	el portal <emphasis role="strong">Recolecta</emphasis><superscript><xref linkend="ch05n65" /></superscript>.
+    	el portal <emphasis role="strong">Recolecta</emphasis><footnote><para><link xl:href="http://www.recolecta.net/buscador/" /></para></footnote>.
     </para>
     <para>
-    	En este sentido, fue pionero el proyecto <emphasis role="strong">TDX</emphasis> (Tesis Doctorals en Xarxa)<superscript><xref linkend="ch05n66" /></superscript> 
+    	En este sentido, fue pionero el proyecto <emphasis role="strong">TDX</emphasis> (Tesis Doctorals en Xarxa)<footnote><para>
+    	<link xl:href="http://www.tdx.cesca.es/" />, <link xl:href="http://www.tdcat.cbuc.es/" /></para></footnote>
     	promovido por un amplio conjunto de bibliotecas universitarias catalanas en el marco de la iniciativa Networked Digital Library of Theses and 
-    	Dissertations (NDLTD) <superscript><xref linkend="ch05n67" /></superscript>, organización internacional en la que participan más de 200 
+    	Dissertations (NDLTD)<footnote><para><link xl:href="http://www.ndltd.org/" /></para></footnote>, organización internacional en la que participan más de 200 
     	instituciones, que promueve la difusión y preservación de tesis doctorales en soporte electrónico.
     </para>
     <para>
-    	TDX, coordinado por el Consorci de Biblioteques Universitàries de Catalunya (CBUC)<superscript><xref linkend="ch05n68" /></superscript> 
-    	y el Centre de Supercomputació de Catalunya (CESCA)<superscript><xref linkend="ch05n69" /></superscript> y patrocinado por la Generalitat 
-    	de Catalunya, permite el acceso a 6.099 tesis de veinte universidades<superscript><xref linkend="ch05n70" /></superscript> que participan 
-    	en el proyecto<superscript><xref linkend="ch05n71" /></superscript>. Se inició en febrero de 2001 y cuenta desde 2003 con un repositorio 
-    	OAI-PMH y desde 2007 recolecta tesis de otros repositorios de las universidades españolas que soportan este protocolo.
+    	TDX, coordinado por el Consorci de Biblioteques Universitàries de Catalunya (CBUC)<footnote><para><link xl:href="http://www.cbuc.es/" />,
+    	<link xl:href="http://www.cesca.es/" /></para></footnote> y el Centre de Supercomputació de Catalunya (CESCA)<footnote><para>Correo 
+    	bibliotecario: boletín informativo de la Subdirección General de Coordinación Bibliotecaria. n. 95 (junio 2007)</para></footnote>
+    	y patrocinado por la Generalitat de Catalunya, permite el acceso a 6.099 tesis de veinte universidades<footnote><para>Universitat 
+    	de Barcelona, Universitat Autònoma de Barcelona, Universitat Politècnica de Catalunya, Universitat Pompeu Fabra, Universitat de Girona, 
+    	Universitat de Lleida, Universitat Rovira i Virgili, Universitat Oberta de Catalunya, Universitat Ramon Llull, Universitat de Vic, Universitat 
+    	Internacional de Catalunya, Universitat Abat Oliba, Universitat de les Illes Balears, Universitat de València, Universitat Jaume I, Universidad 
+    	de Cantabria, Universidad de Murcia, Universidad de Zaragoza y Universidad da Coruña</para></footnote>
+    	que participan en el proyecto<footnote><para>Fecha de la consulta: 1 de julio de 2008</para></footnote>. Se inició en febrero de 2001 y cuenta 
+    	desde 2003 con un repositorio OAI-PMH y desde 2007 recolecta tesis de otros repositorios de las universidades españolas que soportan este protocolo.
     </para>
     <para>
     	Además de TDX, se han iniciado en Cataluña otros cuatro repositorios colectivos creados como iniciativa cooperativa de la mayoría de las 
-    	universidades catalanas que forman parte del CBUC y el CESCA<superscript><xref linkend="ch05n72" /></superscript>: <emphasis role="strong">RECERCAT</emphasis>
-    	<superscript><xref linkend="ch05n73" /></superscript> (Dipòsit de la Recerca de Catalunya) que incluye la literatura producida por las 
-    	universidades y centros de documentación de Cataluña, <emphasis role="strong">RACO</emphasis><superscript><xref linkend="ch05n74" /></superscript> 
-    	(Revistes Catalanes amb Accès Obert), en el que también participa la Biblioteca de Cataluña, PADICAT<superscript><xref linkend="ch05n75" /></superscript> 
-    	(Patrimonio Digital de Cataluña), proyecto iniciado en septiembre de 2006 por la Biblioteca de Cataluña con el objetivo de garantizar el acceso 
-    	permanente a las páginas web catalanas en formato digital y <emphasis role="strong">Memoria Digital de Cataluña</emphasis><superscript><xref linkend="ch05n76" /></superscript>, 
-    	iniciado en noviembre de 2007, que permite la consulta, entre otros documentos de revistas, mapas, posters y ex libris antiguos.
+    	universidades catalanas que forman parte del CBUC y el CESCA<footnote><para>Politiquees i experiències catalanes en depòsits coperatius / 
+    	Miquel Huguet, Lluís M. Anglada i de Ferrer, Ricard de la Vega Sivera. En: Coneixement i Societat: Revista d’Universitats, Recerca i Societat 
+    	de la Informació, ISSN 1696-7380, n. 13 (2007) p. 114-129</para></footnote>: <emphasis role="strong">RECERCAT</emphasis>
+    	<footnote><para><link xl:href="http://www.recercat.net/" /></para></footnote> (Dipòsit de la Recerca de Catalunya) que incluye la literatura 
+    	producida por las universidades y centros de documentación de Cataluña, <emphasis role="strong">RACO</emphasis><footnote><para>
+    	<link xl:href="http://www.raco.cat/" /></para></footnote> (Revistes Catalanes amb Accès Obert), en el que también participa la Biblioteca de 
+    	Cataluña, PADICAT<footnote><para><link xl:href="http://www.padicat.cat/" /></para></footnote> (Patrimonio Digital de Cataluña), proyecto 
+    	iniciado en septiembre de 2006 por la Biblioteca de Cataluña con el objetivo de garantizar el acceso permanente a las páginas web 
+    	catalanas en formato digital y <emphasis role="strong">Memoria Digital de Cataluña</emphasis><footnote><para>
+    	<link xl:href="http://mdc.cbuc.cat/index.php" /></para></footnote>, iniciado en noviembre de 2007, que permite la consulta, entre 
+    	otros documentos de revistas, mapas, posters y ex libris antiguos.
     </para>
     <para>
     	A la iniciativa TDX se sumó con una metodología marcadamente diferenciada, también en 2001, el proyecto <emphasis role="strong">Dialnet</emphasis>
-    	<superscript><xref linkend="ch05n77" /></superscript> de la Universidad de La Rioja que, se ha convertido en uno de los más importantes proyectos 
-    	documentales españoles habiendo incorporado importantes servicios como pueden ser las ayudas, las alertas y recientemente los servicios RSS.
+    	<footnote><para><link xl:href="http://dialnet.unirioja.es/" /></para></footnote> de la Universidad de La Rioja que, se ha convertido en uno de los 
+    	más importantes proyectos documentales españoles habiendo incorporado importantes servicios como pueden ser las ayudas, las alertas y recientemente 
+    	los servicios RSS.
     </para>
     <para>
-    	Esta base de datos que cuenta con 4.962 revistas y 1.702.035 documentos<superscript><xref linkend="ch05n78" /></superscript> (artículos de obras 
-    	colectivas, tesis doctorales, documentos de trabajo y prepublicaciones, libros y reseñas bibliográficas, muchos de ellos a texto completo) y 
-    	recoge las tesis de 22 universidades<superscript><xref linkend="ch05n79" /></superscript>  puede dividirse en dos fases fundamentales: una primera 
-    	en la que sólo se dispone de referencias bibliográficas y una segunda en la que se dispone de documentos completos. Recoge un amplio número de 
-    	publicaciones periódicas, no sólo hispanas<superscript><xref linkend="ch05n80" /></superscript>, y facilita a los usuarios 
-    	registrados<superscript><xref linkend="ch05n81" /></superscript> alertas<superscript><xref linkend="ch05n82" /></superscript> sobre las publicaciones 
-    	seleccionadas por éstos.
+    	Esta base de datos que cuenta con 4.962 revistas y 1.702.035 documentos<footnote><para>Fecha de la consulta: 1 de julio de 2008</para></footnote>
+    	(artículos de obras colectivas, tesis doctorales, documentos de trabajo y prepublicaciones, libros y reseñas bibliográficas, muchos de ellos a texto 
+    	completo) y recoge las tesis de 22 universidades<footnote><para>Universidad Autónoma de Madrid, Universidad Carlos III, Universidad de Alcalá de 
+    	Henares, Universidad de Burgos, Universidad de Cantabria, Universidad de Extremadura, Universidad de La Laguna, Universidad de La Rioja, Universidad 
+    	de Las Palmas de Gran Canaria, Universidad de León, Universidad de Murcia, Universidad de Oviedo, Universidad de Zaragoza, Universidad Politécnica de 
+    	Madrid, Universidad Pública de Navarra, Universidad Rey Juan Carlos, Universidad de A Coruña, Universidad Autónoma de Barcelona, Universidad de Alicante, 
+    	Universidad de Barcelona, Universidad de Girona, Universidad de les Illes Balears, Universidad de Lleida, Universidad de València, Universidad de Vic, 
+    	Universidad Jaume I, Universitat Oberta de Catalunya, Universidad Politécnica de Catalunya, Universidad Pompeu Fabra, Universidad Ramon Lluch y 
+    	Universidad Rovira i Virgili.</para></footnote> puede dividirse en dos fases fundamentales: una primera 
+    	en la que sólo se dispone de referencias bibliográficas y una segunda en la que se dispone de documentos completos. Recoge un amplio número de publicaciones 
+    	periódicas, no sólo hispanas<footnote><para>Dialnet, una hemeroteca virtual de revistas hispanas sobre la base de la cooperación bibliotecaria / Joaquín León 
+    	Marín y Marta Magriñá Contreras// El profesional de la información. ISSN1386-6710, v. 13, n. 4 (2004) <link xl:href="http://www.elprofesionaldelainformacion.com/contenidos/2004/julio/3.pdf" />
+    </para></footnote>, y facilita a los usuarios registrados<footnote><para>5.624.203 alertas y 268.290 usuarios registrados (a la misma fecha)</para></footnote>
+    	alertas<footnote><para>DIANET: difusión de alertas en la red / Marta Magriñá Contreras, Joaquín León Marín // III Jornadas de Bibliotecas Digitales : 
+    	(JBIDI’02) : El Escorial (Madrid) 18-19 de Noviembre de 2002. ISBN 84-688-0205-0; p. 197-200</para></footnote>
+    	sobre las publicaciones seleccionadas por éstos.
     </para>
     <para>
     	Dialnet también se ha ocupado de un tipo de publicación que contiene con frecuencia información muy importante, pero que no siempre se vacía, como 
-    	es la referente a los congresos. Lo mismo que TDX, es recolectada por OAIster<superscript><xref linkend="ch05n83" /></superscript> desde donde se 
-    	puede acceder a toda aquella información de la que Dialnet posee el documento primario lo que incide en una amplia visibilidad de las publicaciones 
-    	españolas.
+    	es la referente a los congresos. Lo mismo que TDX, es recolectada por OAIster<footnote><para><link xl:href="http://www.oaister.org/"/></para></footnote>
+    	desde donde se puede acceder a toda aquella información de la que Dialnet posee el documento primario lo que incide en una amplia visibilidad de las 
+    	publicaciones españolas.
     </para>
     <informalfigure xml:id="ch05a1" xreflabel="Fig 21">
 	  	<mediaobject>
@@ -95,25 +124,29 @@
 		pero que parece estar actuando directamente sobre la base de datos.
 	</para>
 	<para>
-		En el entorno universitario ha sido muy importante la iniciativa <emphasis role="strong">E-ciencia</emphasis><superscript><xref linkend="ch05n84" /></superscript>, 
-		buscador de archivos abiertos de la Consejería de Educación de la Comunidad de Madrid y el Consorcio Madroño<superscript><xref linkend="ch05n85" /></superscript>, 
-		integrado por las universidades públicas de la Comunidad de Madrid, la UNED y el CSIC, plataforma digital de acceso abierto a la producción 
-		científica de dichas universidades, que tiene previsto ampliarse a todos los científicos e investigadores de la Comunidad de Madrid. Se puede 
+		En el entorno universitario ha sido muy importante la iniciativa <emphasis role="strong">E-ciencia</emphasis><footnote>
+		<para><link xl:href="http://www.madrimasd.org/informacionidi/e-ciencia/" /></para></footnote>, 
+		buscador de archivos abiertos de la Consejería de Educación de la Comunidad de Madrid y el Consorcio Madroño<footnote><para><link xl:href="http://www.consorciomadrono.es/index.html" />
+		</para></footnote>, integrado por las universidades públicas de la Comunidad de Madrid, la UNED y el CSIC, plataforma digital de acceso abierto a la 
+		producción científica de dichas universidades, que tiene previsto ampliarse a todos los científicos e investigadores de la Comunidad de Madrid. Se puede 
 		integrar en la red cualquier repositorio institucional que soporte el protocolo OAI-PMH y permita el acceso abierto al texto completo de los 
 		documentos.
 	</para>
 	<para>
 		Más recientemente, en febrero de 2008, se lanzó el portal <emphasis role="strong">Recolecta</emphasis> (Recolector de Ciencia Abierta), 
-		iniciativa conjunta de la Red de Bibliotecas Universitarias (REBIUN)<superscript><xref linkend="ch05n86" /></superscript> y de la Fundación 
-		Española para la Ciencia y la Tecnología (FECyT)<superscript><xref linkend="ch05n87" /></superscript>, que dispone no ya de repositorios 
+		iniciativa conjunta de la Red de Bibliotecas Universitarias (REBIUN)<footnote><para><link xl:href="http://www.rebiun.org/" /></para></footnote> 
+		y de la Fundación 
+		Española para la Ciencia y la Tecnología (FECyT)<footnote><para><link xl:href="http://www.fecyt.es/fecyt/home.do" /></para></footnote>, 
+		que dispone no ya de repositorios 
 		OAI-PMH, sino también de un recolector que permite agregar y buscar la información de los diversos repositorios universitarios y ofrece 
 		un registro interdisciplinar de investigadores. Recolecta, que incluye más 300.000 documentos a texto completo en acceso abierto, tiene 
 		como objetivo coordinar la creación de una infraestructura nacional de repositorios digitales interoperables e impulsar su integración 
-		en las redes internacionales del conocimiento<superscript><xref linkend="ch05n88" /></superscript>.
+		en las redes internacionales del conocimiento<footnote><para>López Medina, Alicia. El marco y los objetivos de Recolecta // Jornada 
+		de Trabajo Recolecta, 24 de abril de 2008 <link xl:href="http://www.recolecta.net/buscador/documentos/marcorecolecta.pdf"/></para></footnote>.
 	</para>
 	<para>
 		La iniciativa más amplia en cuanto a número de páginas disponibles y acceso a las mismas como es la <emphasis role="strong">Biblioteca Virtual Miguel de Cervantes</emphasis>
-		<superscript><xref linkend="ch05n89" /></superscript>, que además este año cumple sus diez años de existencia, no dispone por el momento 
+		<footnote><para><link xl:href="http://www.cervantesvirtual.com/" /></para></footnote>, que además este año cumple sus diez años de existencia, no dispone por el momento 
 		de un repositorio o repositorios OAI que faciliten la recolección de datos y la visibilidad en la red de los mismos.
 	</para>
 	<para>
@@ -124,14 +157,16 @@
 	</para>
 	<para>
 		Por eso, desde el momento en que se inició la <emphasis role="strong">Biblioteca Virtual de Prensa Histórica</emphasis>
-		<superscript><xref linkend="ch05n90" /></superscript> se previó la necesidad de contar con un directorio de los proyectos de las colecciones 
-		digitales existentes en España y, además, con un recolector que pudiera recuperar la información de los repositorios existentes.
+		<footnote><para><link xl:href="http://prensahistorica.mcu.es" /></para></footnote> se previó la necesidad de contar con un directorio de 
+		los proyectos de las colecciones digitales existentes en España y, además, con un recolector que pudiera recuperar la información de los 
+		repositorios existentes.
 	</para>
 	<para>
 		Cuando tres años más tarde (septiembre de 2007) se creó la <emphasis role="strong">Biblioteca Virtual del Patrimonio</emphasis>
-		<superscript><xref linkend="ch05n91" /></superscript> o Recolector de recursos digitales, dando así un primer paso para evitar sistemáticamente 
-		las duplicaciones. En esa fecha un proyecto como la <emphasis role="strong">Biblioteca Virtual de Andalucía</emphasis>
-		<superscript><xref linkend="ch05n92" /></superscript>, que precedió a la Biblioteca Virtual del Patrimonio Bibliográfico en dos años, contaba 
+		<footnote><para><link xl:href="http://bvpb.mcu.es"/></para></footnote> o Recolector de recursos digitales, dando así un primer paso para evitar 
+		sistemáticamente las duplicaciones. En esa fecha un proyecto como la <emphasis role="strong">Biblioteca Virtual de Andalucía</emphasis>
+		<footnote><para><link xl:href="http://www.juntadeandalucia.es/cultura/bibliotecavirtualandalucia/inicio/inicio.cmd" /></para></footnote>, 
+		que precedió a la Biblioteca Virtual del Patrimonio Bibliográfico en dos años, contaba 
 		con su correspondiente repositorio OAI-PMH, lo que ha permitido planificar las digitalizaciones correspondientes e incluso conformar colecciones 
 		complementarias que se pueden recolectar simultáneamente.
 	</para>
@@ -158,17 +193,23 @@
     <section xml:id="ch05b1">
     	<title>Directorio y recolector de recursos digitales</title>
     	<para>
-    		En marzo de 2006, coincidiendo con la celebración de las Jornadas de Preservación del Patrimonio Digital<superscript><xref linkend="ch05n93" /></superscript>, 
-    		se puso en producción el <emphasis role="strong">Directorio y recolector de recursos digitales</emphasis><superscript><xref linkend="ch05n94" /></superscript>, 
-    		resultado del Grupo de Trabajo de Colecciones Digitales del Ministerio de Cultura y las Comunidades Autónomas<superscript><xref linkend="ch05n95" /></superscript>. 
+    		En marzo de 2006, coincidiendo con la celebración de las Jornadas de Preservación del Patrimonio Digital<footnote><para><link xl:href="http://www.mcu.es/bibliotecas/CE/jppd/index.htm" /></para></footnote>, 
+    		se puso en producción el <emphasis role="strong">Directorio y recolector de recursos digitales</emphasis><footnote><para><link xl:href="http://roai.mcu.es" /></para></footnote>, 
+    		resultado del Grupo de Trabajo de Colecciones Digitales del Ministerio de Cultura y las Comunidades Autónomas<footnote><para><link xl:href="http://www.mcu.es/bibliotecas/CE/Cooperacion/CongJornadas/Jornadas.html" /></para></footnote>. 
     		Es, por tanto, un proyecto cooperativo. Todas las Comunidades Autónomas son administradoras del sistema y gestionan en línea los datos de sus proyectos.
     	</para>
     	<para>
-    		Se trata, en realidad, de tres aplicaciones distintas: un directorio LDAP<superscript><xref linkend="ch05n96" /></superscript> de proyectos de 
-    		digitalización, basado en el formato MARC21<superscript><xref linkend="ch05n97" /></superscript>, que recoge los proyectos e iniciativas existentes 
-    		en España; un recolector de recursos digitales que soporta el protocolo OAI-PMH<superscript><xref linkend="ch05n98" /></superscript> y permite acceder 
+    		Se trata, en realidad, de tres aplicaciones distintas: un directorio LDAP<footnote><para>El Protocolo de Acceso Directo a Directorio, más conocido por sus siglas 
+    		en inglés LDAP (Lightweight Directory Access Protocol) <link xl:href="http://www.openldap.org/"/> es el protocolo utilizado para acceder a la información 
+    		almacenada en un directorio. Se basa en el estándar X500, pero es más simple y soporta TCP/IP</para></footnote> de proyectos de 
+    		digitalización, basado en el formato MARC21<footnote><para>Específicamente en el MARC21 format for Community information 
+    		<link xl:href="http://www.loc.gov/marc/community/eccihome.html"/></para></footnote>, que recoge los proyectos e iniciativas existentes 
+    		en España; un recolector de recursos digitales que soporta el protocolo OAI-PMH<footnote><para>Open Archives Initiative – Protocol for 
+    		Metadata Harvesting v.2 <link xl:href="http://www.openarchives.org/OAI/openarchivesprotocol.html" /></para></footnote> y permite acceder 
     		a los recursos de todos los proyectos o bases de datos que dispongan de repositorios OAI-PMH y una aplicación de búsqueda y recuperación de la 
-    		información incluida tanto en el directorio como en el recolector<superscript><xref linkend="ch05n99" /></superscript>.
+    		información incluida tanto en el directorio como en el recolector<footnote><para>La Subdirección General de Coordinación Bibliotecaria y la 
+    		preservación del patrimonio digital: normativa y programas / María Antonia Carrato Mena // Jornadas de Preservación del Patrimonio Digital 
+    		<link xl:href="http://www.mcu.es/bibliotecas/CE/jppd/ficheros/mariaantonia_carrato_jpd.ppt"/></para></footnote>.
     	</para>
     	<para>
     		Son objetivos de este recurso:
@@ -199,18 +240,23 @@
     	</para>
     	<para>
     		Esta iniciativa se ajusta a la Recomendación de la Comisión Europea sobre digitalización y accesibilidad en línea del material cultural y la 
-    		preservación digital de 24 de agosto de 2006<superscript><xref linkend="ch05n100" /></superscript>, cuyo objetivo es contribuir a la acción 
+    		preservación digital de 24 de agosto de 2006<footnote><para><link xl:href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:236:0028:0030:EN:PDF"/></para></footnote>, 
+    		cuyo objetivo es contribuir a la acción 
     		coordinada de los estados miembro en estos ámbitos. Entre las medidas recomendadas, pueden destacarse: reunir información sobre la digitalización 
     		en curso y prevista, objetivo del directorio de proyectos de digitalización, y recolección en la web, <foreignphrase xml:lang="en">web harvesting</foreignphrase>, 
-    		objetivo del recolector de recursos digitales. Puede consultarse, de acuerdo con iniciativas como Michael Plus<superscript><xref linkend="ch05n101" /></superscript>, 
+    		objetivo del recolector de recursos digitales. Puede consultarse, de acuerdo con iniciativas como Michael Plus<footnote>
+    		<para><link xl:href="http://www.mcu.es/bibliotecas/CE/jppd/index.htm"/> Los projectos Michael y Michael Plus (Multilingual Inventory tienen como 
+    		objetivo la integración de iniciativas nacionales de digitalización del patrimonio cultural y la interoperabilidad entre los distintos portales 
+    		culturales nacionales para promover el acceso a los contenidos digitales de archivos, bibliotecas y museos</para></footnote>, 
     		en todas las lenguas oficiales y en inglés.
     	</para>
     	<para>
-    		Por otra parte, la recolección de metadatos siguiendo el protocolo OAI-PMH es una de las acciones promovidas por ICABS<superscript><xref linkend="ch05n102" /></superscript> 
+    		Por otra parte, la recolección de metadatos siguiendo el protocolo OAI-PMH es una de las acciones promovidas por ICABS<footnote><para>La recolección de 
+    		metadatos en España / Xavier Agenjo, Francisca Hernández // 9as Jornadas Españolas de Documentación </para></footnote> 
     		(IFLA-CDNL Alliance for Bibliographic Standards). En concreto, se trata de la primera de las acciones de su cuarto objetivo, es decir, promover 
     		el avance de las cuestiones relacionadas con el almacenamiento a largo plazo de los recursos electrónicos y, específicamente, investigar y 
-    		promover métodos de recolección de la web<superscript><xref linkend="ch05n103" /></superscript>. La Biblioteca Nacional de Australia es la 
-    		institución responsable de esta acción.
+    		promover métodos de recolección de la web<footnote><para><link xl:href="http://www.ifla.org/VI/7/annual/icabs-sp2005-2006.pdf"/></para></footnote>. 
+    		La Biblioteca Nacional de Australia es la institución responsable de esta acción.
     	</para>
     	<para>
     		El sistema que soporta el Directorio y recolector de recursos digitales cuenta con una estructura de perfiles de usuario que permite el mantenimiento 
@@ -220,19 +266,20 @@
     	</para>
     	<para>
     		Tanto el Directorio como el Recolector de recursos digitales, que es uno de los 32 proveedores de servicios de la Iniciativa de Archivos Abiertos
-    		<superscript><xref linkend="ch05n104" /></superscript>, han experimentado a lo largo de estos dos años un importante desarrollo. El número de 
+    		<footnote><para><link xl:href="http://www.openarchives.org/service/listproviders.html"/> [Consultado 29-06-2008]</para></footnote>, han 
+    		experimentado a lo largo de estos dos años un importante desarrollo. El número de 
     		proyectos de digitalización recogidos en el directorio ha pasado de 55 proyectos de digitalización en marzo de 2006 a 196 en junio de 2008. El 
     		número de repositorios OAI-PMH recolectados periódicamente ha pasado de 25 en marzo de 2006 a 56 en julio de 2008 y el número de recursos digitales 
-    		recolectado de casi 111.000 en marzo de 2006 a más de 370.000 en junio de 2008<superscript><xref linkend="ch05n105" /></superscript>.
+    		recolectado de casi 111.000 en marzo de 2006 a más de 370.000 en junio de 2008<footnote><para>105 Fecha de consulta: 30-06-2008</para></footnote>.
     	</para>
     	<para>
     		La Subdirección General de Coordinación Bibliotecaria ha desarrollado una nueva versión del Directorio y recolector y de recursos digitales que 
     		permitirá no sólo acceder a repositorios estructurados según Dublin Core sin cualificar, sino también a otros esquemas de metadatos. La próxima 
-    		versión que estará disponible en el tercer trimestre de 2008 incorporará el esquema MARC XML<superscript><xref linkend="ch05n106" /></superscript> 
+    		versión que estará disponible en el tercer trimestre de 2008 incorporará el esquema MARC XML<footnote><para><link xl:href="http://www.loc.gov/standards/marcxml/"/></para></footnote> 
     		para recuperar registros bibliográficos, constituyendo así catálogos colectivos bibliográficos virtuales y aumentando su visibilidad en la red. 
     		Además, se incluirán estructuras XML para los <foreignphrase xml:lang="en">e-prints</foreignphrase> lo que hará posible una recuperación de 
     		recursos electrónicos vinculados al campo académico verdaderamente importante. De la misma manera, se recuperarán los metadatos de la documentación 
-    		de los archivos mediante la aplicación de la Document Type Definition (DTD) de Encoding Archival Description (EAD)<superscript><xref linkend="ch05n107" /></superscript>.
+    		de los archivos mediante la aplicación de la Document Type Definition (DTD) de Encoding Archival Description (EAD)<footnote><para><link xl:href="http://www.loc.gov/ead/"/></para></footnote>.
     	</para>
     	<para>
     		Hay que tener en cuenta además que tanto los registros de <foreignphrase xml:lang="en">e-prints</foreignphrase> como los de EAD o MARC XML 
@@ -241,20 +288,23 @@
     	</para>
     	<para>
     		Es de esperar que esta iniciativa vaya confluyendo con la recientemente puesta en producción por REBIUN, denominada Recolecta
-    		<superscript><xref linkend="ch05n108" /></superscript>, puesto que algunos de los subconjuntos que en el futuro estarán identificados mediante las 
+    		<footnote><para><link xl:href="http://www.recolecta.net/buscador/"/></para></footnote>, puesto que algunos de los subconjuntos que en el futuro 
+    		estarán identificados mediante las 
     		reglas que establece DRIVER resultarán de interés para el patrimonio bibliográfico español como se ha puesto de manifiesto en la citada resolución 
     		por la que se han subvencionado diferentes proyectos de bibliotecas universitarias para digitalizar importantes fondos históricos.
     	</para>
     	<para>
     		Una de las líneas de trabajo de la Subdirección General de Coordinación Bibliotecaria será analizar la posibilidad, siempre en línea con los 
-    		objetivos de <emphasis role="strong">Europeana</emphasis><superscript><xref linkend="ch05n109" /></superscript>, la Biblioteca Digital Europea, 
-    		de futuras ampliaciones a nuevos esquemas de metadatos como MDA Spectrum<superscript><xref linkend="ch05n110" /></superscript> para la descripción 
-    		de las colecciones y recursos de los museos o <foreignphrase xml:lang="en">Learning Object Metadata</foreignphrase>
-    		<superscript><xref linkend="ch05n111" /></superscript> (LOMS) para la descripción de los recursos didácticos, así como el esquema de delimitación 
-    		de subconjuntos de información basados en Digital Repository Infraestructure Vision for European Research<superscript><xref linkend="ch05n112" /></superscript> 
+    		objetivos de <emphasis role="strong">Europeana</emphasis><footnote><para><link xl:href="http://www.europeana.eu"/></para></footnote>, la Biblioteca Digital Europea, 
+    		de futuras ampliaciones a nuevos esquemas de metadatos como MDA Spectrum<footnote><para><link xl:href="http://www.mda.org.uk/stand"/></para></footnote> 
+    		para la descripción de las colecciones y recursos de los museos o <foreignphrase xml:lang="en">Learning Object Metadata</foreignphrase>
+    		<footnote><para><link xl:href="http://ltsc.ieee.org/wg12/files/LOM_1484_12_1_v1_Final_Draft.pdf"/></para></footnote> (LOMS) para la descripción de 
+    		los recursos didácticos, así como el esquema de delimitación 
+    		de subconjuntos de información basados en Digital Repository Infraestructure Vision for European Research<footnote><para><link xl:href="http://www.driver-support.eu/en/index.html"/></para></footnote> 
     		(DRIVER), que permite establecer conjuntos y subconjuntos dentro de un repositorio concreto, determinando las características de los materiales 
     		que se ofrecen a la recolección, o las nuevas funcionalidades que supone OAI-ORE (Open Archives Initiative – Object Reuse and Exchange)
-    		<superscript><xref linkend="ch05n113" /></superscript> cuya versión beta se presentó en junio de 2008<superscript><xref linkend="ch05n114" /></superscript> 
+    		<footnote><para><link xl:href="http://www.openarchives.org/ore/"/></para></footnote> cuya versión beta se presentó en junio de 
+    		2008<footnote><para><link xl:href="http://www.openarchives.org/ore/documents/oreBetaPressRelease.pdf"/></para></footnote> 
     		y que permitirá la reutilización de los recursos recolectados.
     	</para>
 	    <informalfigure xml:id="ch05b01" xreflabel="Fig 22">
@@ -283,18 +333,20 @@
     	<title>Política de apoyo a la creación de repositorios OAI-PMH</title>
     	<para>
     		La Dirección General del Libro, Archivos y Bibliotecas, a través de la Subdirección General de Coordinación Bibliotecaria, ha promovido otra 
-    		iniciativa que se refleja en la resolución ministerial de 10 de mayo de 2007, publicada en el BOE de 27 de mayo de 2007<superscript><xref linkend="ch05n115" /></superscript>, 
+    		iniciativa que se refleja en la resolución ministerial de 10 de mayo de 2007, publicada en el BOE de 27 de mayo de 2007<footnote><para><link xl:href="http://www.boe.es/boe/dias/2007/05/25/pdfs/A22817-22830.pdf"/></para></footnote>, 
     		por la que se convocan ayudas para la creación y transformación de recursos digitales y su difusión y preservación mediante repositorios OAI-PMH, 
     		cuyo objetivo es la creación de recursos digitales mediante la digitalización de materiales que formen parte del patrimonio bibliográfico español 
     		o se encuentren en el dominio público así como la asignación de los datos y metadatos que codifiquen sus descripciones, es decir, Dublin Core 
     		como mínimo aunque no exclusivamente, que permitan su carga en repositorios OAI definidos conforme a las especificaciones citadas
-    		<superscript><xref linkend="ch05n116" /></superscript> que permiten su recolección. Incluirán además estructuras METS (Metadata Encoding Transmision 
+    		<footnote><para>Implementation Guidelines for Open Archives Initiative Protocolfor Metadata Harvesting. Protocol version 2.0 of 2002.06-14</para></footnote> 
+    		que permiten su recolección. Incluirán además estructuras METS (Metadata Encoding Transmision 
     		Standard) en las que se encapsulan otros metadatos como PREMIS, que describen los términos para la preservación de la copia digital.
     	</para>
     	<para>
     		Por otra parte, se pretende incrementar la visibilidad y accesibilidad de los recursos digitales procedentes no sólo de procesos de digitalización 
     		llevados a cabo con este objetivo sino también la transformación de los recursos digitales existentes en recursos digitales accesibles, esto es 
-    		sujetos a la norma ISO 15836<superscript><xref linkend="ch05n117" /></superscript> en un repositorio OAI-PMH.
+    		sujetos a la norma ISO 15836<footnote><para><link xl:href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=37629"/></para></footnote> 
+    		en un repositorio OAI-PMH.
     	</para>
     	<para>
     		Esta convocatoria, cuyo importe alcanza casi dos millones de euros, se dirige tanto a las distintas administraciones públicas como a entidades 
@@ -316,15 +368,16 @@
     		de Barcelona, Girona, Huelva, Lleida, Murcia, Oviedo, Politécnica de Valencia, Politécnica de Cataluña, Pompeu Fabra, Pontificia de Salamanca, 
     		Salamanca, Santiago de Compostela, Valladolid y Zaragoza), el consorcio Madroño, el Instituto de Estudios Altoaragoneses y entidades privadas 
     		sin ánimo de lucro como el Ateneu Barcelonés, la Fundación Sancho El Sabio y la Fundación Sierra Pambley han sido subvencionadas
-    		<superscript><xref linkend="ch05n118" /></superscript>. Así, y como resultado de esta iniciativa, se implementarán 21 nuevos repositorios antes 
-    		de finales de 2008.
+    		<footnote><para>BOE de 28-01-2008 <link xl:href="http://www.boe.es/g/es/bases_datos/doc.php?coleccion=indilex&amp;id=2008/01493&amp;txtlen=969"/> 
+    		y BOE de 30-01-2008 <link xl:href="http://www.boe.es/g/es/bases_datos/doc.php?coleccion=indilex&amp;id=2008/01613&amp;txtlen=835"/></para></footnote>. 
+    		Así, y como resultado de esta iniciativa, se implementarán 21 nuevos repositorios antes de finales de 2008.
     	</para>
     	<para>
-    		Proyectos de digitalización como <emphasis role="strong">BIVALDI</emphasis><superscript><xref linkend="ch05n119" /></superscript> (Biblioteca 
-    		Valenciana Digital), la <emphasis role="strong">Biblioteca Digital de Galicia</emphasis><superscript><xref linkend="ch05n120" /></superscript> 
-    		o el repositorio institucional la Universidad de Salamanca<superscript><xref linkend="ch05n121" /></superscript> son ejemplos de iniciativas 
-    		muy consolidadas, pero que se estaban llevando a cabo fuera del entorno normalizado, lo que redundaba en la accesibilidad y visibilidad de sus 
-    		recursos.
+    		Proyectos de digitalización como <emphasis role="strong">BIVALDI</emphasis><footnote><para><link xl:href="http://bivaldi.gva.es/"/></para></footnote> 
+    		(Biblioteca Valenciana Digital), la <emphasis role="strong">Biblioteca Digital de Galicia</emphasis><footnote><para><link xl:href="http://www.csbg.org/bibliotecadixital/asp/index.asp"/></para></footnote>  
+    		o el repositorio institucional la Universidad de Salamanca<footnote><para><link xl:href="http://bivaldi.gva.es/"/></para></footnote> son ejemplos 
+    		de iniciativas muy consolidadas, pero que se estaban llevando a cabo fuera del entorno normalizado, lo que redundaba en la accesibilidad y 
+    		visibilidad de sus recursos.
     	</para>
     	<para>
     		Los resultados serán accesibles de forma abierta a través de diversas herramientas y, en concreto, de la nueva versión del Directorio y 
@@ -334,16 +387,19 @@
     		Por otra parte, las memorias presentadas a la convocatoria han permitido la identificación de 67 proyectos que se han dado de alta en el Directorio.
     	</para>
     	<para>
-    		Esta política puesta en marcha en 2007 ha tenido continuidad en la nueva resolución en 2008<superscript><xref linkend="ch05n122" /></superscript>, 
+    		Esta política puesta en marcha en 2007 ha tenido continuidad en la nueva resolución en 2008<footnote><para>Resolución de la Dirección General del Libro, 
+    		Archivos y Bibliotecas de 3 de marzo de 2008, BOE de 31 de marzo de 2008 <link xl:href="http://www.boe.es/boe/dias/2008/03/31/pdfs/A18106-18117.pdf"/></para></footnote>, 
     		por una cuantía similar, lo que permitirá aumentar el número tanto de repositorios OAI como de colecciones digitales accesibles mediante 
     		estructuras de metadatos a lo largo de 2009.
     	</para>
     	<para>
     		En cualquier caso, y fruto de la anterior convocatoria, se han finalizado ya los primeros proyectos como el de las bibliotecas de Institutos de 
     		Enseñanza Secundaria que conservan fondos históricos, que se han alojado en la Biblioteca Virtual del Patrimonio Bibliográfico
-    		<superscript><xref linkend="ch05n123" /></superscript>, la Biblioteca Virtual de La Rioja<superscript><xref linkend="ch05n124" /></superscript> 
-    		o la Biblioteca Virtual Lastanosa<superscript><xref linkend="ch05n125" /></superscript>, producida por el Instituto de Estudios Altoaragoneses 
-    		todas las cuales disponen ya de repositorio OAI-PMH y han sido ya recolectadas por el Recolector del Ministerio de Cultura.
+    		<footnote><para>Se trata de la colección Bibliotecas escolares históricas que se ha iniciado con 59 títulos del IES Cardenal Cisneros y 66 del 
+    			IES San Isidro, ambos de Madrid.</para></footnote>, la Biblioteca Virtual de La Rioja<footnote><para>Iniciada con 215 títulos sobre La Rioja 
+    			o de autores riojanos, está prevista su publicación en septiembre de 2008.</para></footnote> 
+    		o la Biblioteca Virtual Lastanosa<footnote><para><link xl:href="http://www.lastanosa.com/"/></para></footnote>, producida por el Instituto de Estudios 
+    		Altoaragoneses todas las cuales disponen ya de repositorio OAI-PMH y han sido ya recolectadas por el Recolector del Ministerio de Cultura.
     	</para>
     	<para>
     		Todo esto permitirá articular de una manera más eficaz los distintos proyectos de desarrollo de bibliotecas virtuales o digitales que se han 
@@ -353,10 +409,14 @@
     <section xml:id="ch05b3">
     	<title>El proyecto Europeana: EuropeanaLocal</title>
     	<para>
-    		Esta iniciativa ha coincidido en el tiempo con un importante desarrollo y paso adelante del proyecto Europeana<superscript><xref linkend="ch05n126" /></superscript>, 
+    		Esta iniciativa ha coincidido en el tiempo con un importante desarrollo y paso adelante del proyecto Europeana<footnote><para>126 nombre por el 
+    		que se conoce EDL, siglas en inglés de la Biblioteca Digital Europea, a partir de la conferencia internacional One more sep towards the European 
+    		digital library, celebrada en la Deutsche Nationalbibliothek, Frankfurt, los días 31 de enero y 1 de febrero de 2008 en la que se presentó la maqueta. 
+    		<link xl:href="http://www.edlproject.eu/conference/index.php"/></para></footnote>, 
     		la biblioteca, archivo y museo digitales europeos, iniciado en julio de 2007 y cuyo prototipo, que proporcionará acceso directo a dos millones 
-    		de objetos digitales se presentará en Bruselas, el próximo mes de noviembre. La maqueta<superscript><xref linkend="ch05n127" /></superscript> 
-    		actualmente disponible ha ido acompañada de la publicación de un amplio conjunto de documentos<superscript><xref linkend="ch05n128" /></superscript> entre los que figuran requisitos tanto técnicos 
+    		de objetos digitales se presentará en Bruselas, el próximo mes de noviembre. La maqueta<footnote><para>cf nota anterior </para></footnote> 
+    		actualmente disponible ha ido acompañada de la publicación de un amplio conjunto de documentos<footnote><para><link xl:href="http://www.europeana.eu/outcomes.php"/></para></footnote> 
+    		entre los que figuran requisitos tanto técnicos 
     		como funcionales de la aplicación y de los registros digitales que habrán de formar parte de ella. Las estructuras de información seleccionadas 
     		se corresponden en un alto porcentaje con las promovidas por la Subdirección General de Coordinación Bibliotecaria, por el Grupo de trabajo de 
     		colecciones digitales y, en definitiva, por las resoluciones de la Dirección General del Libro, Archivos y Bibliotecas del Ministerio de Cultura.
@@ -364,7 +424,8 @@
     	<para>
     		Por lo que se refiere a la elaboración de directrices para la creación de repositorios basados en la Iniciativa de Archivos Abiertos, una reciente 
     		iniciativa de la Unión Europea es la denominada <emphasis role="strong">EuropeanaLocal</emphasis>, nombre que, por analogía con Europeana, ha 
-    		venido a darse a <emphasis role="strong">EDLocal</emphasis><superscript><xref linkend="ch05n129" /></superscript>, la Biblioteca Digital Europea 
+    		venido a darse a <emphasis role="strong">EDLocal</emphasis><footnote><para><link xl:href="http://www.edlocal.eu/"/></para></footnote>, la 
+    		Biblioteca Digital Europea 
     		local, en la reunión inicial celebrada en Londres el pasado 26 de junio, y que permitirá concretar el conjunto de estándares y su aplicación y la 
     		guía de buenas prácticas que permitirá a las distintas bibliotecas digitales o virtuales formar parte de esta iniciativa.
     	</para>
@@ -386,7 +447,8 @@
 	</informalfigure>
 	<para>
 		EuropeanaLocal se enmarca en la iniciativa de la Unión Europea destinada específicamente a los contenidos digitales, es decir 
-		<emphasis role="strong">eContentplus</emphasis><superscript><xref linkend="ch05n130" /></superscript>. Su objetivo, de forma completamente análoga 
+		<emphasis role="strong">eContentplus</emphasis><footnote><para><link xl:href="http://ec.europa.eu/information_society/activities/econtentplus/index_en.htm"/></para></footnote>. 
+		Su objetivo, de forma completamente análoga 
 		a lo previsto en las mencionadas resoluciones de la Dirección General del Libro, Archivos y Bibliotecas, es convertir los recursos existentes a la 
 		estructura prevista por Europeana, así como la creación de repositorios basados en la Iniciativa de Archivos Abiertos que promueve igualmente la 
 		Unión Europea. Participan en el proyecto un total de 32 instituciones de 26 estados europeos, entre ellas la Subdirección General de Coordinación 
@@ -424,8 +486,8 @@
 		<listitem>
 			<para>Promover y apoyar, proporcionando la formación y directrices necesarias, el establecimiento en cada uno de los estados miembros y en 
 			Noruega de una red de repositorios OAI-PMH consistente con los requisitos de recolección de contenidos de Europeana
-			<superscript><xref linkend="ch05n131" /></superscript> y con sus recomendaciones en términos de protocolos, tecnología y requisitos 
-			de los metadatos.</para>
+			<footnote><para><link xl:href="http://europeana.eu/public_documents/EDLnet_D2_2_Initial_Semantic_and_Technical_Interoperability_Requirements_final.pdf"/></para></footnote> 
+			y con sus recomendaciones en términos de protocolos, tecnología y requisitos de los metadatos.</para>
 		</listitem>
 		<listitem>
 			<para>Desarrollar una herramienta que permita la instalación de repositorios OAI-PMH mediante la conversión de las bases de datos existentes 
@@ -457,14 +519,19 @@
 		Ante la más que previsible proliferación de colecciones digitales accesibles mediante OAI-PMH, resulta imprescindible ajustar todo lo que se 
 		refiere a la identificación de colecciones, estructura de la información y características de la misma (si es textual, icónica, sonora, en 
 		qué proporción, formatos de almacenamiento, etc.). En esta fase empezará a cobrar una importancia crucial el uso tanto de 
-		METS<superscript><xref linkend="ch05n132" /></superscript>, esquema para la codificación de los metadatos descriptivos, administrativos y 
+		METS<footnote><para><link xl:href="http://www.loc.gov/standards/mets/"/> Este estándar lo mantiene la Library of Congress, en concreto la Network 
+		Development and MARC Standards y su desarrollo es una iniciativa de la Digital Library Federation.</para></footnote>, esquema para la codificación 
+		de los metadatos descriptivos, administrativos y 
 		estructurales de los objetos de una biblioteca digital expresados utilizando el esquema XML, como los metadatos que describen los términos 
 		que se precisan para la preservación de la copia digital, que se obtienen del Diccionario de Datos elaborados por el Grupo de Trabajo 
 		<emphasis role="strong">PREMIS</emphasis> (PREservation Metadata Implementation Strategies) de marzo de 2008, versión 2.0. denominado 
-		PREMIS Data Dictionary for Preservation Metadata<superscript><xref linkend="ch05n133" /></superscript>, y elaborado según el Modelo de 
+		PREMIS Data Dictionary for Preservation Metadata<footnote><para>PREMIS maintenance activity mantiene el Diccionario de Datos y el esquema 
+		XML que se alojan en la Library of Congress y son accesibles en <link xl:href="http://www.oclc.org/research/projects/pmwg/"/></para></footnote>, 
+		y elaborado según el Modelo de 
 		Referencia del Open Archival Information System (OAIS) / ISO14721. Asimismo, habrán de tenerse en cuenta los diferentes perfiles, en 
-		particular el de la prensa<superscript><xref linkend="ch05n134" /></superscript>, así como el uso generalizado del METS / ALTO 
-		(Analyzed Layout and Text Object)<superscript><xref linkend="ch05n135" /></superscript> para el reconocimiento óptico 
+		particular el de la prensa<footnote><para>METS profile for historical newspapers <link xl:href="http://www.loc.gov/standards/mets/test/ndnp/00000010.html"/></para></footnote>, 
+		así como el uso generalizado del METS / ALTO 
+		(Analyzed Layout and Text Object)<footnote><para><link xl:href="http://www.loc.gov/ndnp/alto_1-1-041.xsd"/></para></footnote> para el reconocimiento óptico 
 		de caracteres y los formatos PDF/A para la preservación y PDF/X para intercambio, tal y como los recoge la nueva norma ISO/DIS 32000 
 		Document management – Portable document format – PDF 1.7.
 	</para>
@@ -482,7 +549,8 @@
 	</informalfigure>
 	<para>
 		Es muy importante que se logre, tal y como menciona la reunión de implementadores de SRU (Search and Retrieval via URL) de junio de 
-		2007<superscript><xref linkend="ch05n136" /></superscript>, una sinergia entre OAI/SRU máxime cuando SRU se está definiendo ya como un 
+		2007<footnote><para><link xl:href="http://www.loc.gov/standards/sru/june2007meeting-report.html"/></para></footnote>, una sinergia 
+		entre OAI/SRU máxime cuando SRU se está definiendo ya como un 
 		<foreignphrase xml:lang="en">web service</foreignphrase> así como el estudio de la creación de repositorios OAIS para preservar las 
 		cada vez mayores colecciones de recursos digitales.
 	</para>
@@ -496,12 +564,12 @@
 	</para>
     </section>
     <section xml:id="ch05b4">
-    	<title>La iniciativa DRIVER<superscript><xref linkend="ch05n137" /></superscript></title>
+    	<title>La iniciativa DRIVER<footnote><para><link xl:href="http://www.driver-support.eu/managers.html"/></para></footnote></title>
     	<para>
     		Dado el importante auge que en toda Europa y también en España está teniendo el uso de repositorios ha sido necesario contar con un 
     		elemento de certificación y validación que permita caracterizar las diferentes colecciones con las que cuentan o pueden llegar a 
     		contar dichos repositorios OAI. Se trata de la iniciativa que nació como consecuencia entre otras fuentes de un organismo de normalización 
-    		como es DINI (<foreignphrase xml:lang="de">Deutsche Initiative für Netzwerkinformation</foreignphrase><superscript><xref linkend="ch05n138" /></superscript>).
+    		como es DINI (<foreignphrase xml:lang="de">Deutsche Initiative für Netzwerkinformation</foreignphrase><footnote><para><link xl:href="http://www.dini.de/"/></para></footnote>).
     	</para>
     	<para>
     		DRIVER (<foreignphrase xml:lang="en">Digital Repository Infrastructure Vision for European Research</foreignphrase>) es un proyecto 
@@ -512,12 +580,15 @@
     		asegurar la más amplia explotación de contenidos.
     	</para>
     	<para>
-    		DRIVER ha publicado unas directrices<superscript><xref linkend="ch05n139" /></superscript> de aplicación a repositorios OAI-PMH para 
+    		DRIVER ha publicado unas directrices<footnote><para><link xl:href="http://www.driver-support.eu/documents/DRIVER_guidelines_1%200.pdf"/></para></footnote> 
+    		de aplicación a repositorios OAI-PMH para 
     		su adecuación a la metodología y normativa específica de la red de repositorios institucionales europeos.
     	</para>
     	<para>
     		Es importante señalar que REBIUN tiene previsto en sus líneas estratégicas la implementación de DRIVER si bien todavía ningún repositorio 
-    		cuenta con ella. En el VII Workshop REBIUN sobre jornadas digitales<superscript><xref linkend="ch05n140" /></superscript>, el Ministerio 
+    		cuenta con ella. En el VII Workshop REBIUN sobre jornadas digitales<footnote><para>La estrategia digital: ¿hacia dónde?: Madrid, 18 y 19 
+    		de octubre de 2007. Universidad Nacional de Educación a Distancia. <link xl:href="http://info-fp.uned.es/biblioteca/Workshop2007/inicio.html"/></para></footnote>, 
+    		el Ministerio 
     		de Cultura, a través de la Subdirección General de Coordinación Bibliotecaria, manifestó su intención de aplicar estas directrices tanto 
     		a los repositorios de la Biblioteca Virtual de Prensa Histórica como a la Biblioteca Virtual del Patrimonio Bibliográfico, como a aquellos 
     		repositorios que se vayan implementando como resultado de la financiación ya citada. Así, en la mencionada resolución de convocatoria de 
@@ -532,7 +603,8 @@
     	</para>
     	<para>
     		Existen varios procedimientos para crear estos subsets establecidos por DRIVER pero sin duda el más potente y eficaz es el definido por 
-    		MPEG 21, mucho más conocido por DIDL<superscript><xref linkend="ch05n141" /></superscript> (Digital Item Declaration Language).
+    		MPEG 21, mucho más conocido por DIDL<footnote><para><link xl:href="http://xml.coverpages.org/mpeg21-didl.html"/></para></footnote> 
+    		(Digital Item Declaration Language).
     	</para>
     	<para>
     		Entre otras ventajas, DRIVER tienen la virtud de introducir un grado de orden considerable en las colecciones digitales al fijar 
@@ -541,9 +613,5 @@
     		política de normalización de carácter europeo.
     	</para>
     </section>
-  </section>
-  <section xml:id="ch05c">
-    <title>Notas del capítulo 5</title>
-  	<para></para>
   </section>
 </chapter>
