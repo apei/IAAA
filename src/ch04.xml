@@ -13,7 +13,8 @@
     	Una definición que podría darnos un buen punto de partida es la aportada por Lynch, cuando dice que un repositorio institucional 
     	es un reconocimiento de la vida intelectual y académica de nuestras universidades, que permite que ésta sea representada 
     	documentalmente y difundida en formato digital, siendo responsabilidad última de la institución hacerlo disponible y 
-    	preservarlo<superscript><xref linkend="ch04n39" /></superscript>.
+    	preservarlo<footnote><para>Lynch, Clifford A. Institutional Repositories: Essential Infrastructure For Scholarship In The Digital 
+    	Age portal: Libraries and the Academy 3:2 portal: Libraries and the Academy 3.2 (2003) 327-336</para></footnote>.
     </para>
     <para>
     	El término repositorio procede del latín <emphasis xml:lang="lat">Repositorium</emphasis> que significa <emphasis>armario</emphasis>. 
@@ -25,7 +26,8 @@
     	La palabra <emphasis>repositorio</emphasis> también utilizada para referirse a archivos abiertos, entraña la característica de conservación 
     	a largo plazo; en el caso de un archivo institucional, de su propio patrimonio investigador y, cuando se trata de un repositorio disciplinar, 
     	de la documentación accesible en red en un dominio determinado frente a la inestabilidad de los documentos en este 
-    	medio<superscript><xref linkend="ch04n40" /></superscript>..
+    	medio<footnote><para>Ortega, José Luis; Prieto, José Antonio; Arroyo, Natalia; Pareja, Víctor M., and Aguillo, Isidro F. Análisis de la 
+    	persistencia y del estado de páginas web en los resultados de Google. Jornadas Españolas de Documentación. (9as. 2005; Bilbao).</para></footnote>.
     </para>
     <para>
     	Un archivo abierto no es simplemente un repositorio donde se depositan de manera arbitraria documentos, sino que obedece a una política 
@@ -151,7 +153,9 @@
     <para>
     	Un repositorio institucional no solamente va a incluir artículos de revistas, también es importante que integre documentos institucionales 
     	y patrimoniales de la entidad; así como un importante elemento para la cooperación en el aprendizaje, puede incluir distintos 
-    	usos<superscript><xref linkend="ch04n41" /></superscript>:
+    	usos<footnote><para>Steele, Colin. Open all hours? Institutional models for open access. “Open Access: Key Strategic, Technical and 
+    	Economic Aspects”. cap. 13 (2006). <link xl:href="http://eprints.anu.edu.au/archive/00003422/01/Open_Access_Repositories_article.pdf"/>
+    	</para></footnote>:
     </para>
     <itemizedlist>
     	<listitem>
@@ -181,7 +185,9 @@
     <para>
     	El repositorio supone una ventaja competitiva para la propia organización que proporciona un valor añadido, que es el acceso libre a su producción 
     	científica, a la vez que incrementa la visibilidad y el impacto propio y de sus investigadores llegando a ser en palabras de Kircz 
-    	<quote>el metabolismo central del conocimiento</quote><superscript><xref linkend="ch04n42" /></superscript>.
+    	<quote>el metabolismo central del conocimiento</quote><footnote><para>Kircz, J. G., “Making the strategic case for Institutional Repositories A 
+    	conference report”. Making the strategic case for institutional repositories, 2005. 
+    	<link xl:href="http://www.surffoundation.nl/download/report%20cni-jisc-surf-conference.pdf"/></para></footnote>.
     </para>
     <para>
     	El coste económico del diseño y puesta en marcha del repositorio institucional depende en muy buena medida de las infraestructuras y 
@@ -287,13 +293,16 @@
   		Pero incluso para aquellos casos en los que no se permita el auto-archivo (actualmente sólo un 7%) se recomienda que deberían ser depositados en 
   		repositorios, aunque el acceso al texto completo sea restringido, de manera que al menos los metadatos serían visibles, y podrían ser recuperados 
   		incluyendo la dirección de correo electrónico del autor para poder solicitar una copia privada para usos de investigación y docencia. Ya que 
-  		auto-archivar es producir vías de acceso al propio producto<superscript><xref linkend="ch04n43" /></superscript>.
+  		auto-archivar es producir vías de acceso al propio producto<footnote><para>Harnad, S., “Opening Access by Overcoming Zeno’s Paralysis “. Open 
+  		Access: Key Strategic, Technical and Economic Aspects, No. 8, 2006. <link xl:href="http://eprints.ecs.soton.ac.uk/12094/02/harnad-jacobsbook.pdf"/>
+  		</para></footnote>.
   	</para>
   	<para>
-  		Algunas instituciones han establecido un mandato de auto-archivo como Queensland University of Technology<superscript><xref linkend="ch04n44" /></superscript>  
-  		(Australia), Universidade do Minho<superscript><xref linkend="ch04n45" /></superscript>  (Portugal), UK Research Council (RCUK) y CERN (Suiza). 
+  		Algunas instituciones han establecido un mandato de auto-archivo como Queensland University of Technology<footnote><para><link xl:href="http://eprints.qut.edu.au/"/></para></footnote>  
+  		(Australia), Universidade do Minho<footnote><para><link xl:href="http://repositorium.sdum.uminho.pt/dspace/"/></para></footnote> (Portugal), UK Research Council (RCUK) y CERN (Suiza). 
   		Es decir, es obligatorio depositar una copia del artículo revisado en el repositorio de la institución que ha patrocinado o financiado esa investigación. 
-  		Podemos ver un registro de estas políticas en ROARMAP (Registry of Open Access Repository Material Archiving Policies<superscript><xref linkend="ch04n46" /></superscript>) 
+  		Podemos ver un registro de estas políticas en ROARMAP (Registry of Open Access Repository Material Archiving Policies<footnote><para>ROARMAP (Registry of 
+  		Open Access Repository Material Archiving Policies) <link xl:href="http://www.eprints.org/openaccess/policysignup/"/></para></footnote>) 
   		que es un registro sobre políticas institucionales de auto-archivo clasificadas por países.
   	</para>
   	<para>
@@ -326,7 +335,9 @@
   		hace bien poco esta posibilidad sólo podía obtenerse a través de servicio comerciales como ISI Web of Science. Actualmente, este servicio de Google 
   		extrae esta información de manera automática de los artículos libremente disponibles en Internet, y posibilita un servicio similar al ofrecido por 
   		ISI gratis para todos. Un problema adicional es que editores como Elsevier que controlan aproximadamente el 20% de la información científica no 
-  		permite que estos artículos sean indexados por Google<superscript><xref linkend="ch04n47" /></superscript>.
+  		permite que estos artículos sean indexados por Google<footnote><para>Cockerill, M., “Business models in open access publishing,” Open Access: 
+  		Key Strategic, Technical and Economic Aspects, No. 11, 2006. URL: 
+  		<link xl:href="http://demo.openrepository.com/demo/bitstream/2384/2367/4/businessmodelsinoa.pdf"/></para></footnote>.
   	</para>
   	<para>
   		Es importante matizar que depositar es comunicar públicamente, no es publicar, el acceso abierto es un suplemento no una sustitución de la edición.
@@ -349,7 +360,9 @@
     		era clave para aumentar su impacto entre la comunidad académica. A partir de aquí, se establece la Open Archives Iniative, organización que 
     		tiene como objetivo el desarrollo y promoción de estándares de interoperabilidad para facilitar la difusión eficiente de contenidos en Internet, 
     		en definitiva, para incrementar la visibilidad y disponibilidad de las publicaciones científicas. El resultado de la reunión fue un conjunto de 
-    		acuerdos técnicos y organizativos conocidos como la Convención de Santa Fe<superscript><xref linkend="ch04n48" /></superscript>. Los aspectos 
+    		acuerdos técnicos y organizativos conocidos como la Convención de Santa Fe<footnote><para>Van de Sompel, Herbet; Lagoze, Carl (2000). The 
+    		Santa Fe Convention of the Open Archives Initiative in D-Lib Magazine, Volume 6 Number 2. 
+    		<link xl:href="http://www.dlib.org/dlib/february00/vandesompel-oai/02vandesompel-oai.html"/></para></footnote>. Los aspectos 
     		técnicos incluían tres puntos fundamentales:
     	</para>
     	<itemizedlist>
@@ -370,8 +383,8 @@
     	</para>
     	<para>
     		Las especificaciones revisadas fueron hechas públicas en Enero de 2001, con la publicación del Open Archives Initiative – Protocol for Metadata 
-    		Harvesting (OAI-PMH) versión 1.0 <superscript><xref linkend="ch04n49" /></superscript>. La versión OAI-PMH 2 del protocolo aparece en Junio de 
-    		2002<superscript><xref linkend="ch04n50" /></superscript>.
+    		Harvesting (OAI-PMH) versión 1.0<footnote><para><link xl:href="http://www.openarchives.org/OAI/1.1/openarchivesprotocol.htm"/></para></footnote>. 
+    		La versión OAI-PMH 2 del protocolo aparece en Junio de 2002<footnote><para><link xl:href="http://www.openarchives.org/OAI/openarchivesprotocol.html"/></para></footnote>.
     	</para>
     	<para>
     		Desde ese momento, la implementación del protocolo comenzó, y aparecieron las primeras instituciones que lo utilizaron para hacer disponible a 
@@ -400,7 +413,9 @@
     		</listitem>
     	</itemizedlist>
     	<para>
-    		En la propia página web de la OAI podemos encontrar una lista de proveedores de datos y de servicios<superscript><xref linkend="ch04n51" /></superscript>.
+    		En la propia página web de la OAI podemos encontrar una lista de proveedores de datos y de servicios<footnote><para>Registered Data Providers 
+    		(OAI). <link xl:href="http://www.openarchives.org/Register/BrowseSites"/> and Registered Service Providers (OAI). 
+    		<link xl:href="http://www.openarchives.org/service/listproviders.html"/></para></footnote>.
     	</para>
     	<para>
     		La interoperabilidad de los archivos tiene varias facetas como son, por ejemplo: sistemas de identificación, formatos de metadatos, modelos 
@@ -408,7 +423,9 @@
     	</para>
     	<para>
     		El protocolo OAI-PMH requiere adhesión al estándar de metadatos Dublin Core, pero permite y aún apoya formatos de metadatos más 
-    		expresivos<superscript><xref linkend="ch04n52" /></superscript>. Se adapta el modelo Dublín Core porque es muy sencillo, ya que contiene en su 
+    		expresivos<footnote><para>Subirats Coll, Imma and Barrueco, José Manuel. Un archivo abierto en ciencias de la documentación e 
+    		información. “El profesional de la información”. vol. 13, n. 5 (2004), pp. <link xl:href="http://eprints.rclis.org/archive/00002472/01/barcelona.pdf"/>
+    		</para></footnote>. Se adapta el modelo Dublín Core porque es muy sencillo, ya que contiene en su 
     		versión no cualificada quince elementos repetibles y opcionales, siendo muy flexible y pudiendo ser soportado por la mayoría de los proveedores 
     		de datos y servicios.
     	</para>
@@ -472,7 +489,9 @@
 		  	</mediaobject>
   		</informalfigure>
   		<para>
-  			Independientemente de la plataforma utilizada un archivo abierto tiene dos componentes comunes básicos<superscript><xref linkend="ch04n53" /></superscript>:
+  			Independientemente de la plataforma utilizada un archivo abierto tiene dos componentes comunes básicos<footnote><para>Awre, Chris. 
+  			The technology of open access. En: Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects. Oxford : Chandos, 
+  			2006 URL: <link xl:href="http://eprints.rclis.org/archive/00006680/"/> [Consultado el 14 de abril de 2004]. </para></footnote>:
   		</para>
   		<itemizedlist>
   			<listitem>
@@ -514,7 +533,8 @@
     	parcialmente para organizarlos en función de intereses sectoriales, o locales.
     </para>
     <para>
-    	Entre los más conocidos recolectores está <emphasis role="strong">OAIster</emphasis><superscript><xref linkend="ch04n54" /></superscript>, un 
+    	Entre los más conocidos recolectores está <emphasis role="strong">OAIster</emphasis><footnote><para>Oaister 
+    	<link xl:href="http://www.oaister.org/index.html"/></para></footnote>, un 
     	proyecto de la University Michigan Digital Library Production Service cuya meta es crear una colección de recursos digitales académicos de 
     	fácil acceso. Empezó a funcionar en el 2002 y hoy ofrece ya 15 millones de registros de libros electrónicos, artículos de revistas, archivos 
     	de audio y video, imágenes, etc., que abarcan una variada temática (documentación, historia, literatura, etc.).
@@ -563,7 +583,9 @@
 	<para>
 		Otro recolector importante es <emphasis role="strong">Google académico</emphasis>. Las estadísticas de los repositorios se dispararon cuando Google 
 		Search anunció en 2004 que recolecta de los metadatos de la OAI, pues una buena parte de las entradas a éstos proceden de esta fuente; además, estas 
-		entradas corresponden a descargas ya que Google Search sólo indexa de estos los documentos con extensión PDF<superscript><xref linkend="ch04n55" /></superscript>, 
+		entradas corresponden a descargas ya que Google Search sólo indexa de estos los documentos con extensión PDF<footnote><para>Sale, Arthur. A researcher’s 
+		viewpoint. En: Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects. Oxford : Chandos, 2006 URL: 
+		<link xl:href="http://eprints.comp.utas.edu.au:81/archive/00000257/"/> [Consultado el 22 de abril de 2008]</para></footnote>, 
 		lo que explica que en un archivo de <emphasis xml:lang="en">eprints</emphasis> a veces encontramos en las estadística de uso de un documento que el 
 		número de descargas supera al de consulta de sus metadatos. Esta cuestión es fundamental para la visibilidad, ya que prácticamente el 80% de los 
 		usuarios utiliza Google como herramienta de búsqueda en Internet, y prácticamente sólo los propios investigadores de la institución acceden al 
@@ -571,8 +593,8 @@
 		proporcionan la multiplicación de posibles rutas de acceso que permiten <emphasis>descubrir</emphasis> esa información.
 	</para>
 	<para>
-		También es importante <emphasis role="strong">SDL Search Digital Libraries In Library and Information Science</emphasis><superscript><xref linkend="ch04n56" /></superscript>, 
-		recolector especializado en el área de la documentación. De igual forma, destaca <emphasis role="strong">Driver</emphasis><superscript><xref linkend="ch04n57" /></superscript>, 
+		También es importante <emphasis role="strong">SDL Search Digital Libraries In Library and Information Science</emphasis><footnote><para><link xl:href="http://drtc.isibang.ac.in/sdl/"/> </para></footnote>, 
+		recolector especializado en el área de la documentación. De igual forma, destaca <emphasis role="strong">Driver</emphasis><footnote><para>Driver. <link xl:href="http://www.driver-support.eu/en/index.html"/></para></footnote>, 
 		recolector de la red europea de repositorios de investigación.
 	</para>
   </section>
@@ -661,7 +683,8 @@
     		Revistas OA nacidas con vocación de acceso abierto, como BioMed Central.
     	</listitem>
     	<listitem>
-    		Editores convencionales, que ofrecen también revistas OA, tales como Springer Open Choice Program<superscript><xref linkend="ch04n58" /></superscript>.
+    		Editores convencionales, que ofrecen también revistas OA, tales como Springer Open Choice Program<footnote><para>Springer Open Choice 
+    		<link xl:href="http://www.springer.com/open+choice?SGWID=0-40359-0-0-0"/></para></footnote>.
     	</listitem>
     	<listitem>
     		Editores no convencionales, revistas editadas por asociaciones, departamentos e investigadores.
@@ -678,140 +701,5 @@
     	del todo; ya que al igual que las que las tradicionales tienen unos costes de producción, pero son más sostenibles económicamente, ya que tienen unos 
     	costes más bajos que los que las entidades están pagando por las revistas comerciales en la actualidad.
     </para>
-  </section>
-  <section xml:id="ch04g">
-    <title>Notas del capítulo 4</title>
-    <bibliolist>
-    	<bibliomixed xml:id="ch04n39" xreflabel="39">
-    		<bibliomset relation="article">
-    			Lynch, Clifford A.
-    			<title role="article">Institutional Repositories: Essential Infrastructure For Scholarship In The Digital Age portal: Libraries and the Academy 3:2 portal: Libraries and the Academy 3.2</title>
-    			<pubdate>2003</pubdate>, <pagenums>327-336</pagenums>
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n40" xreflabel="40">
-    		<bibliomset>
-    			Ortega, José Luis; Prieto, José Antonio; Arroyo, Natalia; Pareja, Víctor M., and Aguillo, Isidro F.
-    			<title>Análisis de la persistencia y del estado de páginas web en los resultados de Google</title>
-    			<citetitle>Jornadas Españolas de Documentación</citetitle>. 9as <publisher><address><city>Bilbao</city></address></publisher>, <pubdate>2005</pubdate>.
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n41" xreflabel="41">
-    		<bibliomset relation="chapter">
-    			Steele, Colin
-    			<title role="chapter">Open all hours? Institutional models for open access.</title> 
-    			<citetitle pubwork="book">Open Access: Key Strategic, Technical and Economic Aspects</citetitle> cap.13
-    			<pubdate>2006</pubdate>. <link xl:href="http://eprints.anu.edu.au/archive/00003422/01/Open_Access_Repositories_article.pdf"/>
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n42" xreflabel="42">
-    		<bibliomset>
-    			Kircz, J. G.
-    			<title>Making the strategic case for Institutional Repositories A conference report</title>
-    			<citetitle pubwork="conference">Making the strategic case for institutional repositories</citetitle>
-    			<pubdate>2005</pubdate>. <link xl:href="http://www.surffoundation.nl/download/report%20cni-jisc-surf-conference.pdf" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n43" xreflabel="43">
-    		<bibliomset>
-    			Harnad, S.
-    			<title>Opening Access by Overcoming Zeno’s Paralysis</title>
-    			<citetitle>Open Access: Key Strategic, Technical and Economic Aspects</citetitle>, <volumenum>Nº 8</volumenum>,
-    			<pubdate>2006</pubdate>. <link xl:href="http://eprints.ecs.soton.ac.uk/12094/02/harnad-jacobsbook.pdf" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n44" xreflabel="44">
-    		<bibliomset>
-    			<link xl:href="http://eprints.qut.edu.au/"/>
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n45" xreflabel="45">
-    		<bibliomset>
-    			<link xl:href="http://repositorium.sdum.uminho.pt/dspace/" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n46" xreflabel="46">
-    		<bibliomset>
-    			<title>ROARMAP (Registry of Open Access Repository Material Archiving Policies)</title>
-    			<link xl:href="http://www.eprints.org/openaccess/policysignup/" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n47" xreflabel="47">
-    		<bibliomset>
-    			Cockerill, M.
-    			<title>Business models in open access publishing</title>
-    			<citetitle>Open Access: Key Strategic, Technical and Economic Aspects</citetitle>, <volumenum>Nº 11</volumenum>,
-    			<pubdate>2006</pubdate>. URL: <link xl:href="http://demo.openrepository.com/demo/bitstream/2384/2367/4/businessmodelsinoa.pdf" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n48" xreflabel="48">
-    		<bibliomset>
-    			Van de Sompel, Herbet; Lagoze, Carl
-    			<title>The Santa Fe Convention of the Open Archives Initiative in D-Lib Magazine</title>
-    			<pubdate>2000</pubdate>. <volumenum>Volume 6 Number 2</volumenum>.
-    			<link xl:href="http://www.dlib.org/dlib/february00/vandesompel-oai/02vandesompel-oai.html" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n49" xreflabel="49">
-    		<bibliomset>
-    			<link xl:href="http://www.openarchives.org/OAI/1.1/openarchivesprotocol.htm" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n50" xreflabel="50">
-    		<bibliomset>
-    			<link xl:href="http://www.openarchives.org/OAI/openarchivesprotocol.html" />
-    		</bibliomset>
-    	</bibliomixed> 
-    	<bibliomixed xml:id="ch04n51" xreflabel="51">
-    		<bibliomset>
-    			Registered Data Providers (OAI). <link xl:href="http://www.openarchives.org/Register/BrowseSites" /> and 
-    			Registered Service Providers (OAI). <link xl:href="http://www.openarchives.org/service/listproviders.html" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n52" xreflabel="52">
-    		<bibliomset relation="article">
-    			Subirats Coll, Imma and Barrueco, José Manuel. 
-    			<title role="article">Un archivo abierto en ciencias de la documentación e información</title>. 
-    			<citetitle pubwork="journal">El profesional de la información</citetitle>. <volumenum>vol. 13 n.5</volumenum> <pubdate>(2004)</pubdate>
-    			<link xl:href="http://eprints.rclis.org/archive/00002472/01/barcelona.pdf" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n53" xreflabel="53">
-    		<bibliomset>
-    			Awre, Chris.
-    			<title>The technology of open access.</title>. En: <citetitle pubwork="journal">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle>
-    			<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>.
-    			URL: <link xl:href="http://eprints.rclis.org/archive/00006680/" />. <date>[Consultado el 14 de abril de 2004]</date>
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n54" xreflabel="54">
-    		<bibliomset>
-    			Oaister <link xl:href="http://www.oaister.org/index.html" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n55" xreflabel="55">
-    		<bibliomset>
-    			Sale, Arthur.
-    			<title>A researcher’s viewpoint</title>. En: <citetitle pubwork="journal">Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects.</citetitle>
-    			<publisher><address><city>Oxford</city></address>: <publishername>Chandos</publishername></publisher>, <pubdate>2006</pubdate>.
-    			URL: <link xl:href="http://eprints.comp.utas.edu.au:81/archive/00000257/" />. <date>[Consultado el 22 de abril de 2008]</date>
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n56" xreflabel="56">
-    		<bibliomset>
-    			<link xl:href="http://drtc.isibang.ac.in/sdl/" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n57" xreflabel="57">
-    		<bibliomset>
-    			Driver <link xl:href="http://www.driver-support.eu/en/index.html" />
-    		</bibliomset>
-    	</bibliomixed>
-    	<bibliomixed xml:id="ch04n58" xreflabel="58">
-    		<bibliomset>
-    			Springer Open Choice <link xl:href="http://www.springer.com/open+choice?SGWID=0-40359-0-0-0" />
-    		</bibliomset>
-    	</bibliomixed>
-    </bibliolist>
   </section>
 </chapter>
