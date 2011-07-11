@@ -43,7 +43,7 @@
     			<term>Acceso abierto a la literature ciéntífica y académica</term>
     			<listitem>
     				<para>
-    					<link xl:ref="http://a-abierto.blogspot.com" />
+    					<link xl:href="http://a-abierto.blogspot.com" />
     				</para>
     			</listitem>
     		</varlistentry>
