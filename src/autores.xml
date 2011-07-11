@@ -11,7 +11,7 @@
   	<informalfigure xml:id="bio01img">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-041.jpg" />
+	  			<imagedata fileref="resource/INF-2-041.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -33,7 +33,7 @@
   	<informalfigure xml:id="bio02img">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-040.jpg" />
+	  			<imagedata fileref="resource/INF-2-040.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -55,7 +55,7 @@
   	<informalfigure xml:id="bio03img">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-042.jpg" />
+	  			<imagedata fileref="resource/INF-2-042.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>

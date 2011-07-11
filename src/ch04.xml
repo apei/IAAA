@@ -214,7 +214,7 @@
     <informalfigure xml:id="ch04a1" xreflabel="Fig 14">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-022.jpg" />
+	  			<imagedata fileref="resource/INF-2-022.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -280,7 +280,7 @@
     <informalfigure xml:id="ch04b1" xreflabel="Fig 15">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-025.jpg" />
+	  			<imagedata fileref="resource/INF-2-025.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -479,7 +479,7 @@
     	<informalfigure xml:id="ch04c1" xreflabel="Fig 16">
 		  	<mediaobject>
 		  		<imageobject>
-		  			<imagedata fileref="Images/INF-2-026.jpg" />
+		  			<imagedata fileref="resource/INF-2-026.jpg" />
 		  		</imageobject>
 		  		<caption>
 		  			<para>
@@ -547,7 +547,7 @@
 	<informalfigure xml:id="ch04d1" xreflabel="Fig 17">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-030.jpg" />
+	  			<imagedata fileref="resource/INF-2-030.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -559,7 +559,7 @@
 	<informalfigure xml:id="ch04d2" xreflabel="Fig 18">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-032.jpg" />
+	  			<imagedata fileref="resource/INF-2-032.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -571,7 +571,7 @@
 	<informalfigure xml:id="ch04d3" xreflabel="Fig 19">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-031.jpg" />
+	  			<imagedata fileref="resource/INF-2-031.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -646,7 +646,7 @@
     <informalfigure xml:id="ch04d4" xreflabel="Fig 20">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-033.jpg" />
+	  			<imagedata fileref="resource/INF-2-033.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>

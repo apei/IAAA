@@ -150,7 +150,7 @@
    	<informalfigure xml:id="ch02b1" xreflabel="Fig 2">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-010.jpg" />
+	  			<imagedata fileref="resource/INF-2-010.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -175,7 +175,7 @@
   	<informalfigure xml:id="ch02b2" xreflabel="Fig 3">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-011.jpg" />
+	  			<imagedata fileref="resource/INF-2-011.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -231,7 +231,7 @@
     <informalfigure xml:id="ch02c1" xreflabel="Fig 4">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-012.jpg" />
+	  			<imagedata fileref="resource/INF-2-012.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>
@@ -367,7 +367,7 @@
     	Como premisa debemos precisar que los derechos de propiedad intelectual se estiman en dos grandes apartados: derechos 
     	morales y derechos de explotación.
     </para>
-    <section xml:id="c02d01">
+    <section xml:id="ch02d01">
     	<title>Derechos morales</title>
     	<para>
     		Se trata de derechos inalienables, o sea que ningún caso se pueden transferir a un tercero, éstos son el derecho 
@@ -406,7 +406,7 @@
     		</listitem>
     	</itemizedlist>
     </section>
-    <section xml:id="c02d01">
+    <section xml:id="ch02d02">
     	<title>Derechos de explotación</title>
     	<para>
     		Es el derecho que tiene todo autor a que su obra sea reproducida, distribuida y comunicada públicamente. Éstos son 
@@ -460,7 +460,7 @@
 	    <informalfigure xml:id="ch02d1" xreflabel="Fig 5">
 		  	<mediaobject>
 		  		<imageobject>
-		  			<imagedata fileref="Images/INF-2-013.jpg" />
+		  			<imagedata fileref="resource/INF-2-013.jpg" />
 		  		</imageobject>
 		  		<caption>
 		  			<para>
@@ -520,7 +520,7 @@
 	    <informalfigure xml:id="ch02d2" xreflabel="Fig 6">
 		  	<mediaobject>
 		  		<imageobject>
-		  			<imagedata fileref="Images/INF-2-014.jpg" />
+		  			<imagedata fileref="resource/INF-2-014.jpg" />
 		  		</imageobject>
 		  		<caption>
 		  			<para>
@@ -543,7 +543,7 @@
 	  		web supone una divulgación en la red, pero no es una publicación en su sentido jurídico.
 	  	</para>
     </section>
-    <section xml:id="ch02d02">
+    <section xml:id="ch02d03">
     	<title>Creative Commons</title>
     	<para>
     		Creative Commons ha desarrollado una serie de licencias que posibilitan que los propios autores retengan una serie de 
@@ -568,7 +568,7 @@
     	<informalfigure xml:id="ch02d3" xreflabel="Fig 7">
 		  	<mediaobject>
 		  		<imageobject>
-		  			<imagedata fileref="Images/INF-2-015.jpg" />
+		  			<imagedata fileref="resource/INF-2-015.jpg" />
 		  		</imageobject>
 		  		<caption>
 		  			<para>
@@ -617,7 +617,7 @@
     <informalfigure xml:id="ch02e1" xreflabel="Fig 8">
 	  	<mediaobject>
 	  		<imageobject>
-	  			<imagedata fileref="Images/INF-2-016.jpg" />
+	  			<imagedata fileref="resource/INF-2-016.jpg" />
 	  		</imageobject>
 	  		<caption>
 	  			<para>

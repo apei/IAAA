@@ -223,7 +223,7 @@
     	<informalfigure xml:id="ch06img1" xreflabel="Fig 25">
 		  	<mediaobject>
 		  		<imageobject>
-		  			<imagedata fileref="Images/INF-2-038.jpg" />
+		  			<imagedata fileref="resource/INF-2-038.jpg" />
 		  		</imageobject>
 		  		<caption>
 		  			<para>
@@ -633,7 +633,7 @@
     	<informalfigure xml:id="ch06img2" xreflabel="Fig 26">
 		  	<mediaobject>
 		  		<imageobject>
-		  			<imagedata fileref="Images/INF-2-039.jpg" />
+		  			<imagedata fileref="resource/INF-2-039.jpg" />
 		  		</imageobject>
 		  		<caption>
 		  			<para>
