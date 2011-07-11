@@ -211,6 +211,20 @@
     	tiempo de un empleado, y los beneficios para la institución son altos ya que mejoran la visibilidad de la institución y el impacto de los 
     	artículos de sus investigadores y, por lo tanto, de la propia institución.
     </para>
+    <informalfigure>
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-2-024.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+    <informalfigure>
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-2-023.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
     <informalfigure xml:id="ch04a1" xreflabel="Fig 14">
 	  	<mediaobject>
 	  		<imageobject>
@@ -483,7 +497,43 @@
 		  		</imageobject>
 		  		<caption>
 		  			<para>
-		  				Principales programas para la creación de repositorios.
+		  				Eprints.
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+  		</informalfigure>
+  		<informalfigure>
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-2-027.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				Dspace
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+  		</informalfigure>
+  		<informalfigure>
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-2-028.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				CDSware
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+  		</informalfigure>
+  		<informalfigure>
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-2-029.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				Fedora
 		  			</para>
 		  		</caption>
 		  	</mediaobject>
