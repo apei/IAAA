@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>4.3. Aspectos técnicos de los repositorios</title><link rel="stylesheet" type="text/css" href="style.css"/><meta name="generator" content="DocBook XSL Stylesheets V1.76.1-RC2"/></head><body><div class="section" title="4.3. Aspectos técnicos de los repositorios"><div class="titlepage"><div><div><h1 class="title"><a id="ch04c"/>4.3. Aspectos técnicos de los repositorios</h1></div></div></div><p>
+    	Desde sus primeros momentos de desarrollo, Internet sirve de soporte a la comunicación científica, como un medio eficiente para el intercambio de 
+    	documentos e información entre autores, a través del correo electrónico y del servicio FTP; pero será la creación de ArXiv la que proporcione una 
+    	herramienta que hace posible que los documentos sean depositados, organizados y recuperados en beneficio de una amplia comunidad de usuarios. Su 
+    	éxito sirve de ejemplo para el desarrollo de iniciativas similares en otros campos (CogPrints, RePec, NDLTD) que proporcionarán una base para el 
+    	desarrollo de repositorios a nivel mundial y la concreción de unos principios organizativos tendentes a facilitar la interoperatividad entre los 
+    	distintos depósitos de <span xml:lang="en" class="emphasis"><em>e-prints</em></span>.
+    </p><div class="section" title="4.3.1. Protocolo OAI-PMH"><div class="titlepage"><div><div><h2 class="title"><a id="ch04c1"/>4.3.1. Protocolo OAI-PMH</h2></div></div></div><p>
+    		La reunión celebrada en Santa Fe en 1999 se convocó con la idea de que la interoperabilidad de los archivos de <span xml:lang="en" class="emphasis"><em>e-prints</em></span> 
+    		era clave para aumentar su impacto entre la comunidad académica. A partir de aquí, se establece la Open Archives Iniative, organización que 
+    		tiene como objetivo el desarrollo y promoción de estándares de interoperabilidad para facilitar la difusión eficiente de contenidos en Internet, 
+    		en definitiva, para incrementar la visibilidad y disponibilidad de las publicaciones científicas. El resultado de la reunión fue un conjunto de 
+    		acuerdos técnicos y organizativos conocidos como la Convención de Santa Fe<sup>[<a id="d0e1220" href="#ftn.d0e1220" class="footnote">48</a>]</sup>. Los aspectos 
+    		técnicos incluían tres puntos fundamentales:
+    	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem">
+    			un formato para los metadatos
+    		</li><li class="listitem">
+    			un protocolo
+    		</li><li class="listitem">
+    			un sistema de identificación
+    		</li></ul></div><p>
+    		Los participantes establecieron que una solución minimalista era imprescindible si se quería alcanzar una amplia adopción entre la comunidad de 
+    		proveedores de <span xml:lang="en" class="emphasis"><em>e-prints</em></span>. La solución adoptada fue establecer un sistema basado en la recolección de metadatos 
+    		(<span xml:lang="en" class="emphasis"><em>metadata harvesting</em></span>).
+    	</p><p>
+    		Las especificaciones revisadas fueron hechas públicas en Enero de 2001, con la publicación del Open Archives Initiative – Protocol for Metadata 
+    		Harvesting (OAI-PMH) versión 1.0<sup>[<a id="d0e1243" href="#ftn.d0e1243" class="footnote">49</a>]</sup>. 
+    		La versión OAI-PMH 2 del protocolo aparece en Junio de 2002<sup>[<a id="d0e1249" href="#ftn.d0e1249" class="footnote">50</a>]</sup>.
+    	</p><p>
+    		Desde ese momento, la implementación del protocolo comenzó, y aparecieron las primeras instituciones que lo utilizaron para hacer disponible a 
+    		través de Internet sus metadatos. Igualmente han aparecido toda una serie de herramientas de software destinadas a facilitar la creación y 
+    		mantenimiento de repositorios.
+    	</p><p>
+    		OAI-PMH es un protocolo para la definición e intercambio de metadatos de un archivo. En la práctica esto implica que los archivos que cumplen 
+    		con la normativa OAI y se inscriben en un registro central pueden ser tratados como un único y gran archivo virtual con propósitos de búsqueda. 
+    		A partir de este desarrollo se pueden federar varios archivos, intercambiar registros o realizar búsquedas en disciplinas relacionadas al mismo 
+    		tiempo, así como implementar nuevos servicios.
+    	</p><p>
+    		El mecanismo consiste en la posibilidad de recolectar metadatos de diferentes proveedores de manera que puedan compilarse tanto en un archivo 
+    		central como en varios archivos temáticos o regionales y puedan ser consultados de manera independiente.
+    	</p><p>
+    		En base a esto, se establecen dos formas de participación:
+    	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem">
+    			Proveedores de datos. Que son los propios archivos de <span xml:lang="en" class="emphasis"><em>e-prints</em></span> que recogen documentos y metadatos.
+    		</li><li class="listitem">
+    			Proveedores de servicios. Recopilan los metadatos de diferentes archivos para proporcionar servicios a los usuarios finales.
+    		</li></ul></div><p>
+    		En la propia página web de la OAI podemos encontrar una lista de proveedores de datos y de servicios<sup>[<a id="d0e1273" href="#ftn.d0e1273" class="footnote">51</a>]</sup>.
+    	</p><p>
+    		La interoperabilidad de los archivos tiene varias facetas como son, por ejemplo: sistemas de identificación, formatos de metadatos, modelos 
+    		de documentos o protocolos comunes.
+    	</p><p>
+    		El protocolo OAI-PMH requiere adhesión al estándar de metadatos Dublin Core, pero permite y aún apoya formatos de metadatos más 
+    		expresivos<sup>[<a id="d0e1285" href="#ftn.d0e1285" class="footnote">52</a>]</sup>. Se adapta el modelo Dublín Core porque es muy sencillo, ya que contiene en su 
+    		versión no cualificada quince elementos repetibles y opcionales, siendo muy flexible y pudiendo ser soportado por la mayoría de los proveedores 
+    		de datos y servicios.
+    	</p><p>
+    		El protocolo trata de cumplir un objetivo básico que es facilidad y flexibilidad para adaptarse a cualquier entorno; también puede servir de 
+    		soporte para cualquier tipo de recurso, sean estos físicos o digitales. De cara a su exportación resulta fácilmente codificable en otros formatos 
+    		(EAD, E-prints, XML MARC, etc.).
+    	</p><p>
+    		Además de implementar mecanismos para ser recolectado total o parcialmente. Aún así, los metadatos a transmitir vía OAI-PMH deberán codificarse 
+    		en Dublin Core sin calificar con el objeto de minimizar los problemas derivados de las conversiones entre múltiples formatos. Por lo tanto, el 
+    		protocolo de la OAI puede combinarse con otros protocolos y normas de bibliotecas digitales para facilitar un buen rango de funcionalidades. Un 
+    		aspecto que no trata el protocolo son, por ejemplo, cuestiones de gestión o autorización para el acceso de los clientes. El servidor deberá 
+    		recurrir a métodos externos si desea limitar los clientes a los que sirva información.
+    	</p><p>
+    		Por otra parte, OAI-PMH tampoco define o prescribe ningún esquema para la gestión de derechos, ya que considera que los temas relacionados con 
+    		restricciones en el acceso y gestión de la propiedad intelectual son responsabilidad de los proveedores de datos.
+    	</p></div><div class="section" title="4.3.2. Software"><div class="titlepage"><div><div><h2 class="title"><a id="ch04c2"/>4.3.2. Software</h2></div></div></div><p>
+    		OAI-PMH es solamente es una interfaz sumamente sencilla para acceder a la información bibliográfica disponible en un archivo o repositorio. Por 
+    		lo tanto, cualquiera puede realizar una implementación del mismo para poner a disposición de la comunidad Internet los datos que hasta ahora 
+    		estaban ocultos en bases de datos o catálogos.
+    	</p><p>
+    		Para facilitar esta tarea han aparecido una serie de programas que permiten a cualquier institución (universidad o centro de investigación) 
+    		crear su propio archivo al tiempo que hacerlo compatible con OAI-PMH.
+    	</p><p>
+    		La mayoría de los programas y sobre todo los más conocidos utilizan software libre, aunque también han aparecido empresas comerciales que 
+    		también han desarrollado sus propios programas (ProQuest, Innoate…). Los programas más extendidos son:
+    	</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem">
+    			Eprints University of Southampton. &lt;<a class="link" href="http://www.eprints.org">http://www.eprints.org</a>&gt;. Es un software desarrollado en el seno del 
+    			Open Citation Project dirigido por Stevan Harnad en la Universidad de Southampton (UK).
+    		</li><li class="listitem">
+    			Dspace &lt;<a class="link" href="http://www.dspace.org">http://www.dspace.org</a>&gt;. Está desarrollado por la empresa HP y las bibliotecas del MIT.
+    		</li><li class="listitem">
+    			CDSware &lt;<a class="link" href="http://cdsware.cern.ch">http://cdsware.cern.ch</a>&gt; CERN.
+    		</li><li class="listitem">
+    			Fedora. &lt;<a class="link" href="http://fedoraproject.org">http://fedoraproject.org</a>&gt;. Cornell University.
+    		</li></ul></div><div class="informalfigure"><a id="ch04c1"/><div class="mediaobject"><img src="resource/INF-2-026.jpg" alt="Software"/><div class="caption"><p>
+		  				Eprints.
+		  			</p></div></div></div><div class="informalfigure"><div class="mediaobject"><img src="resource/INF-2-027.jpg" alt="Software"/><div class="caption"><p>
+		  				Dspace
+		  			</p></div></div></div><div class="informalfigure"><div class="mediaobject"><img src="resource/INF-2-028.jpg" alt="Software"/><div class="caption"><p>
+		  				CDSware
+		  			</p></div></div></div><div class="informalfigure"><div class="mediaobject"><img src="resource/INF-2-029.jpg" alt="Software"/><div class="caption"><p>
+		  				Fedora
+		  			</p></div></div></div><p>
+  			Independientemente de la plataforma utilizada un archivo abierto tiene dos componentes comunes básicos<sup>[<a id="d0e1353" href="#ftn.d0e1353" class="footnote">53</a>]</sup>:
+  		</p><div class="itemizedlist"><ul class="itemizedlist"><li class="listitem">
+  				Mecanismos de depósito
+  			</li><li class="listitem">
+  				Mecanismo de acceso
+  			</li></ul></div><p>
+  			Los mecanismos de depósito facilitan que los propios investigadores de manera voluntaria auto-archiven sus documentos de investigación con el 
+  			objeto de promover la difusión y la discusión de ideas. Los archivos de e-prints buscan facilitar esta tarea a través de sistemas de autoayudas, 
+  			formularios y apoyo personalizado, pues si este procedimiento es sencillo animará muchos investigadores a implicarse en el proceso.
+  		</p><p>
+  			Los mecanismos de acceso posibilitan la recuperación de la información a través de mecanismos de búsqueda sencilla, avanzada y por a través de 
+  			búsquedas indexadas (<span xml:lang="en" class="emphasis"><em>browser</em></span>) con el fin de flexibilizar las posibilidades de recuperación.
+  		</p><p>
+  			La implementación de un archivo abierto incluye aspectos técnicos y estratégicos. Por una parte, será fundamental, en primer lugar, desarrollar 
+  			una buena planificación en la cual tengamos una visión clara de la naturaleza del contenido del repositorio; decidir qué tipo de material va a 
+  			ser objeto de depósito, naturaleza del contenido; establecer qué política institucional vamos a desarrollar para favorecer el auto-archivo qué 
+  			sistema de control de calidad se va a considerar, su fase de implementación, mantenimiento y desarrollo y posibilidades de cooperación interna 
+  			y externa. Por otro lado, hemos de considerar la arquitectura técnica, es decir, cuál es la interfaz que vamos a utilizar, su capacidad y 
+  			flexibilidad para el intercambio de metadatos. Se puede decir que actualmente la tecnología desarrollada por el movimiento de 
+  			<span xml:lang="en" class="emphasis"><em>open acces</em></span> es suficientemente madura para dar soporte a la comunicación científica en acceso abierto.
+  		</p></div><div class="footnotes"><br/><hr/><div class="footnote"><p><sup>[<a id="ftn.d0e1220" href="#d0e1220" class="para">48</a>] </sup>Van de Sompel, Herbet; Lagoze, Carl (2000). The 
+    		Santa Fe Convention of the Open Archives Initiative in D-Lib Magazine, Volume 6 Number 2. 
+    		<a class="link" href="http://www.dlib.org/dlib/february00/vandesompel-oai/02vandesompel-oai.html">http://www.dlib.org/dlib/february00/vandesompel-oai/02vandesompel-oai.html</a>
+                  </p></div><div class="footnote"><p><sup>[<a id="ftn.d0e1243" href="#d0e1243" class="para">49</a>] </sup>
+                     <a class="link" href="http://www.openarchives.org/OAI/1.1/openarchivesprotocol.htm">http://www.openarchives.org/OAI/1.1/openarchivesprotocol.htm</a>
+                  </p></div><div class="footnote"><p><sup>[<a id="ftn.d0e1249" href="#d0e1249" class="para">50</a>] </sup>
+                     <a class="link" href="http://www.openarchives.org/OAI/openarchivesprotocol.html">http://www.openarchives.org/OAI/openarchivesprotocol.html</a>
+                  </p></div><div class="footnote"><p><sup>[<a id="ftn.d0e1273" href="#d0e1273" class="para">51</a>] </sup>Registered Data Providers 
+    		(OAI). <a class="link" href="http://www.openarchives.org/Register/BrowseSites">http://www.openarchives.org/Register/BrowseSites</a> and Registered Service Providers (OAI). 
+    		<a class="link" href="http://www.openarchives.org/service/listproviders.html">http://www.openarchives.org/service/listproviders.html</a>
+                  </p></div><div class="footnote"><p><sup>[<a id="ftn.d0e1285" href="#d0e1285" class="para">52</a>] </sup>Subirats Coll, Imma and Barrueco, José Manuel. Un archivo abierto en ciencias de la documentación e 
+    		información. “El profesional de la información”. vol. 13, n. 5 (2004), pp. <a class="link" href="http://eprints.rclis.org/archive/00002472/01/barcelona.pdf">http://eprints.rclis.org/archive/00002472/01/barcelona.pdf</a>
+    		
+                  </p></div><div class="footnote"><p><sup>[<a id="ftn.d0e1353" href="#d0e1353" class="para">53</a>] </sup>Awre, Chris. 
+  			The technology of open access. En: Jacobs, N., (Ed) Open Access: Key Strategic, Technical and Economic Aspects. Oxford : Chandos, 
+  			2006 URL: <a class="link" href="http://eprints.rclis.org/archive/00006680/">http://eprints.rclis.org/archive/00006680/</a> [Consultado el 14 de abril de 2004]. </p></div></div></div></body></html>
