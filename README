@@ -5,4 +5,4 @@ Los contenidos están distribuidos de la siguiente forma:
 - ePub_src: Directorio que contiene la estructura de carpetas, documentos (xhtml, css), imágenes y fuentes necesarias para la creación de documento en formato ePub
 - src: Directorio con los contenidos del informe en formato XML (DocBook) para la creación de las diferentes versiones del informe.
 
-Estos contenidos, al igual que el propio Informe Apei sobre Web Social se distribuye bajo licencia Creative Commons.
+Estos contenidos, al igual que el propio Informe Apei sobre Acceso Abierto se distribuye bajo licencia Creative Commons.
